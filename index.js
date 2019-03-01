@@ -55,28 +55,13 @@ function createQuesDiv(questionObj, quesIter) {
     quesDiv.appendChild(document.createElement("br"));
 
     // create options divs
-    var opt1El = createOptEl(questionObj["Option1"]);
-    var radioItem1 = createRadioItem(quesIter, 1);
-
-    var opt2El = createOptEl(questionObj["Option2"]);
-    var radioItem2 = createRadioItem(quesIter, 2);
-
-    var opt3El = createOptEl(questionObj["Option3"]);
-    var radioItem3 = createRadioItem(quesIter, 3);
-
-    var opt4El = createOptEl(questionObj["Option4"]);
-    var radioItem4 = createRadioItem(quesIter, 4);
-
-    quesDiv.appendChild(radioItem1);
+    var opt1El = createOptEl(questionObj["Option1"], quesIter, 1);
+    var opt2El = createOptEl(questionObj["Option2"], quesIter, 2);
+    var opt3El = createOptEl(questionObj["Option3"], quesIter, 3);
+    var opt4El = createOptEl(questionObj["Option4"], quesIter, 4);
     quesDiv.appendChild(opt1El);
-
-    quesDiv.appendChild(radioItem2);
     quesDiv.appendChild(opt2El);
-
-    quesDiv.appendChild(radioItem3);
     quesDiv.appendChild(opt3El);
-
-    quesDiv.appendChild(radioItem4);
     quesDiv.appendChild(opt4El);
 
     // add new lines at the end
@@ -100,11 +85,17 @@ function createQuesDiv(questionObj, quesIter) {
     return quesDiv;
 }
 
-function createOptEl(optionStr) {
-    var optEl = document.createElement("span");
-    optEl.innerHTML = optionStr;
+function createOptEl(optionStr, quesIter, optIndex) {
+    var optEl = document.createElement("label");
     optEl.style['margin-right'] = '24px';
-    return optEl;
+    var radioItem1 = createRadioItem(quesIter, optIndex);
+    optEl.appendChild(radioItem1);
+    
+    var spanEl = document.createElement("span");
+    spanEl.innerHTML = optionStr;
+    optEl.appendChild(spanEl);
+
+    return optEl;  
 }
 
 function createRadioItem(quesIter, ItemNum) {
