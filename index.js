@@ -78,7 +78,7 @@ function createQuesDiv(questionObj, quesIter) {
     } else if (correctAnsIndex == 2) {
         opt2El.className += " answerClass";
     } else if (correctAnsIndex == 3) {
-        opt4El.className += " answerClass";
+        opt3El.className += " answerClass";
     } else if (correctAnsIndex == 4) {
         opt4El.className += " answerClass";
     }
