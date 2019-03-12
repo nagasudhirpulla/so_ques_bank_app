@@ -1,5 +1,5 @@
 // convert csv to json using http://www.convertcsv.com/csv-to-json.htm
-var topicsCache = ["1.POC","2.DSM","3.RRAS","4.RLDC_F&C ","5.OA-Connectivity","6.Congestion","7.Power Market Reg","8. Trading License Reg","9.Reg of Power Sup","10.TCT14-19","11.Metering","12.PSDF","13.CEA_Transaction of busi ness","14.REC","15.gridstandard","16.IEGC","17.grant of trans'on licence","18.Technical details by Gen","19.TCT-RE_2012","20.Act-NEP_Tariff-Policy","21.NE Policy","22.Ring fencing","23.CompBidding","24.Regulatory_mix","25.CEA Tech Std for Con","26.CEA safety requirement","27.CEA Tech.Std.Construction","28.Grant of reg approval to CTU","29. Intervening Tr facility","30. Revn'e shar'g from business","31.CEA Safety & Elec Supply","32. Tr Plg Reg2018","33. Conduct of Busines","34. ESCert","35. FSD Procedure","36. En Conservation Act","37.SOP","38_Comm Sys_Reg"];
+var topicsCache = ["1.POC", "2.DSM", "3.RRAS", "4.RLDC_F&C ", "5.OA-Connectivity", "6.Congestion", "7.Power Market Reg", "8. Trading License Reg", "9.Reg of Power Sup", "10.TCT14-19", "11.Metering", "12.PSDF", "13.CEA_Transaction of busi ness", "14.REC", "15.gridstandard", "16.IEGC", "17.grant of trans'on licence", "18.Technical details by Gen", "19.TCT-RE_2012", "20.Act-NEP_Tariff-Policy", "21.NE Policy", "22.Ring fencing", "23.CompBidding", "24.Regulatory_mix", "25.CEA Tech Std for Con", "26.CEA safety requirement", "27.CEA Tech.Std.Construction", "28.Grant of reg approval to CTU", "29. Intervening Tr facility", "30. Revn'e shar'g from business", "31.CEA Safety & Elec Supply", "32. Tr Plg Reg2018", "33. Conduct of Busines", "34. ESCert", "35. FSD Procedure", "36. En Conservation Act", "37.SOP", "38_Comm Sys_Reg", "All"];
 var topicsComboBoxId = "topicsComboBox";
 var selectedTopic_g = "";
 
@@ -27,7 +27,7 @@ function loadQuestions() {
     var topicQuestions = [];
     for (var i = 0; i < questions.length; i++) {
         selectedTopic_g = selEl.value;
-        if (questions[i]["Topic"] == selectedTopic_g) {
+        if ((selectedTopic_g == "All") || questions[i]["Topic"] == selectedTopic_g) {
             topicQuestions.push(questions[i]);
         }
     }
@@ -90,12 +90,12 @@ function createOptEl(optionStr, quesIter, optIndex) {
     optEl.style['margin-right'] = '24px';
     var radioItem1 = createRadioItem(quesIter, optIndex);
     optEl.appendChild(radioItem1);
-    
+
     var spanEl = document.createElement("span");
     spanEl.innerHTML = optionStr;
     optEl.appendChild(spanEl);
 
-    return optEl;  
+    return optEl;
 }
 
 function createRadioItem(quesIter, ItemNum) {
