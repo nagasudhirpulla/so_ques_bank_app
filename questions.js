@@ -13794,7 +13794,7 @@ var questions = [
     "Option2": "20 days",
     "Option3": "25 days",
     "Option4": "30 days",
-    "answer": 4
+    "answer": 3
   },
   {
     "Topic": "20.Act-NEP_Tariff-Policy",
