@@ -49,7 +49,17 @@ function createQuesDiv(questionObj, quesIter) {
 
     // append question string
     var quesStrEl = document.createElement("span");
-    quesStrEl.innerHTML = (quesIter + 1) + ". " + questionObj["Question"];
+    var quesStr = "";
+    if (selectedTopic_g == "All") {
+        var quesTopicEl = document.createElement("span");
+        // not a good practice to use global variables or not checking of variable existence, but using due to lesser scope of development of code
+        quesTopicEl.innerHTML = "[" + questionObj["Topic"] + "] ";
+        quesTopicEl.className += ' topic_label';
+        quesDiv.appendChild(quesTopicEl);
+    }
+    quesStr += (quesIter + 1) + ". ";
+    quesStr += questionObj["Question"];
+    quesStrEl.innerHTML = quesStr;
     quesDiv.appendChild(quesStrEl);
     quesDiv.appendChild(document.createElement("br"));
     quesDiv.appendChild(document.createElement("br"));
