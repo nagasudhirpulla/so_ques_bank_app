@@ -23,6 +23,13 @@ function loadQuestions() {
     var selEl = document.getElementById(topicsComboBoxId);
     selectedTopic_g = selEl.value;
 
+    // change page title
+    if (selectedTopic_g != "All") {
+        document.title = selectedTopic_g;
+    } else {
+        document.title = 'System Operator Question Bank';
+    }
+
     // get questions based on the topic
     var topicQuestions = [];
     for (var i = 0; i < questions.length; i++) {
