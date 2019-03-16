@@ -10927,21 +10927,183 @@ var questions = [
   },
   {
     "Topic": "16.IEGC",
-    "Question": "Provided that the generator or trading licensee any other agency selling power from the generating station or unit(s) thereof may revise its estimated restoration time -----  and the revision schedule shall become effective from the ------, counting the time block in which the revision is advised by the generator to be the first one.\tonce in a day,4th time block\tonly once immedietly after tripping, 4th TMBK\tonly once immedietly after tripping, 6th TMBK\tNone of these\t1\n16.IEGC\tin case of the generating station as a whole, COD is the date of commercial operation of the -------  of the generating station:\tfirst Unit\tlast unit\tCOD of the station need to done seperately\tNone of these\t2\n16.IEGC\tthe beneficiaries / buyers have been tied up for purchasing power from the generating station, the trial run or each repeat of trial run shall commence after a notice of -------- by the generating company to the beneficiaries/buyers and concerned RLDC or SLDC\tnot less than 3days\tnot less than10 days\tnot less than seven days\tnot less than 30 days\t3\n16.IEGC\tcompany has the option to de-rate the capacity or to go for repeat trial run. Where the generating company decides to de-rate the unit capacity, the demonstrated capacity in such cases shall be more or equal to ------of de-rated capacity for thermal stations.\t95%\t105%\t100%\tNone of these\t2\n16.IEGC\tThe concerned RLDC or SLDC, as the case may be, shall convey clearance to the generating company for declaration of COD within -------days of receiving the generation data based on the trial run.\t7\t3\t1\t10\t1\n16.IEGC\tScheduling of power from the generating station or unit thereof shall commence from-------  after declaration of COD\tany time\t\t\t0000hrs\t4\n16.IEGC\tcompany has the option to de-rate the capacity or to go for repeat trial run. Where the generating company decides to de-rate the unit capacity, the demonstrated capacity in such cases shall be more or equal to ------of de-rated capacity for hydro stations.\t95%\t110%\t100%\tNone of these\t2\n16.IEGC\tTrial Run or Trial Operation in relation to a thermal Central Generating Station or inter-State Generating Station or a unit thereof shall mean successful running on designated fuel at Maximum Continuous Rating or Installed Capacity or Name Plate Rating for a continuous period of -- hours and in case of a hydro Central Generating Station or inter-state Generating Station or a unit thereof for a continuous period of -- hours\t72,12\t72,72\t72,36\t48,12\t1\n16.IEGC\tThe short interruptions, for a cumulative duration of -- hours, shall be permissible, with corresponding increase in the duration of the test.\t6\t4\t5\t3\t2\n16.IEGC\tTrial run and Trial operation in relation to a transmission system or an element thereof shall mean successful charging of the transmission system or an element thereof for -- hours at continuous flow of power, and communication signal from the sending end to the receiving end and with requisite metering system, telemetry and protection system in\t24\t72\t12\t48\t1\n16.IEGC\tDate of commercial operation in relation to a communication system or an element thereof shall mean the date declared by the transmission licensee from 0000 hour of which a communication system or element thereof shall be put into service after completion of site acceptance test including transfer of voice and data to respective control centre as certified by the respective Regional Load Dispatch Centre.\tTRUE\tFALSE\t\t\t1\n16.IEGC\tIn case of coal / lignite based generating stations,if unit loading is 65-74.99 percentage of IC,  station heat rate degradation or actual heat rate, whichever is lower, shall be considered for the purpose of compensationfor super critical and sub-critical  are….,-----, respectively.\t2%&4%\t1.25%& 2.25%\t3%& 6%\tNo cpmpensation\t1\n16.IEGC\tIn case of coal / lignite based generating stations,if unit loading is 75-84.99 percentage of IC  station heat rate degradation or actual heat rate, whichever is lower, shall be considered for the purpose of compensationfor super critical and sub-critical  are….,-----, respectively.\t2%&4%\t1.25%& 2.25%\t3%& 6%\tNo cpmpensation\t2\n16.IEGC\tIn case of coal / lignite based generating stations,if unit loading is 55-64.99 percentage of IC  station heat rate degradation or actual heat rate, whichever is lower, shall be considered for the purpose of compensationfor super critical and sub-critical  are….,-----, respectively.\t2%&4%\t1.25%& 2.25%\t3%& 6%\tNo cpmpensation\t3\n16.IEGC\tIn case of coal / lignite based generating stations,if unit loading is 85-100 percentage of IC  station heat rate degradation or actual heat rate, whichever is lower, shall be considered for the purpose of compensationfor super critical and sub-critical  are….,-----, respectively.\t2%&4%\t1.25%& 2.25%\t3%& 6%\tnil\t4\n16.IEGC\tWhat is the max. numbers of start-stops are permissible for CERC regulated ISGS thermal stations beyond which they are eligible for compensation under RSD procedure\t2\t3\t4\t7\t4\n16.IEGC\tTrial Run for Hydro station requires continuous operation at MCR for ____ hours\t12\t24\t72\tNone of the above\t1\n16.IEGC\tAs per grid code after COD declaration a Generating Company is mandated to submit approval of BOD within ------months\t1\t3\t2\t6\t2\n16.IEGC\tA station completed trial run on 13.03.2019 13:00 hours. COD declaration & scheduling can commence at -------hrs of ------------;\t13:00 13.03.2019\t14:00 / 13.03.2019\t00:00 14.03.2019\t",
-    "Option1": "",
-    "Option2": "",
-    "Option3": "",
-    "Option4": "",
-    "answer": null
+    "Question": "Provided that the generator or trading licensee any other agency selling power from the generating station or unit(s) thereof may revise its estimated restoration time -----  and the revision schedule shall become effective from the ------, counting the time block in which the revision is advised by the generator to be the first one.",
+    "Option1": "once in a day,4th time block",
+    "Option2": "only once immedietly after tripping, 4th TMBK",
+    "Option3": "only once immedietly after tripping, 6th TMBK",
+    "Option4": "None of these",
+    "answer": 1
   },
   {
-    "Topic": "the above. \"",
-    "Question": "3",
-    "Option1": "",
+    "Topic": "16.IEGC",
+    "Question": "in case of the generating station as a whole, COD is the date of commercial operation of the -------  of the generating station:",
+    "Option1": "first Unit",
+    "Option2": "last unit",
+    "Option3": "COD of the station need to done seperately",
+    "Option4": "None of these",
+    "answer": 2
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "the beneficiaries / buyers have been tied up for purchasing power from the generating station, the trial run or each repeat of trial run shall commence after a notice of -------- by the generating company to the beneficiaries/buyers and concerned RLDC or SLDC",
+    "Option1": "not less than 3days",
+    "Option2": "not less than10 days",
+    "Option3": "not less than seven days",
+    "Option4": "not less than 30 days",
+    "answer": 3
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "company has the option to de-rate the capacity or to go for repeat trial run. Where the generating company decides to de-rate the unit capacity, the demonstrated capacity in such cases shall be more or equal to ------of de-rated capacity for thermal stations.",
+    "Option1": "95%",
+    "Option2": "105%",
+    "Option3": "100%",
+    "Option4": "None of these",
+    "answer": 2
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "The concerned RLDC or SLDC, as the case may be, shall convey clearance to the generating company for declaration of COD within -------days of receiving the generation data based on the trial run.",
+    "Option1": "7",
+    "Option2": "3",
+    "Option3": "1",
+    "Option4": "10",
+    "answer": 1
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "Scheduling of power from the generating station or unit thereof shall commence from-------  after declaration of COD",
+    "Option1": "any time",
     "Option2": "",
     "Option3": "",
+    "Option4": "0000hrs",
+    "answer": 4
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "company has the option to de-rate the capacity or to go for repeat trial run. Where the generating company decides to de-rate the unit capacity, the demonstrated capacity in such cases shall be more or equal to ------of de-rated capacity for hydro stations.",
+    "Option1": "95%",
+    "Option2": "110%",
+    "Option3": "100%",
+    "Option4": "None of these",
+    "answer": 2
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "Trial Run or Trial Operation in relation to a thermal Central Generating Station or inter-State Generating Station or a unit thereof shall mean successful running on designated fuel at Maximum Continuous Rating or Installed Capacity or Name Plate Rating for a continuous period of -- hours and in case of a hydro Central Generating Station or inter-state Generating Station or a unit thereof for a continuous period of -- hours",
+    "Option1": "72,12",
+    "Option2": "72,72",
+    "Option3": "72,36",
+    "Option4": "48,12",
+    "answer": 1
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "The short interruptions, for a cumulative duration of -- hours, shall be permissible, with corresponding increase in the duration of the test.",
+    "Option1": "6",
+    "Option2": "4",
+    "Option3": "5",
+    "Option4": "3",
+    "answer": 2
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "Trial run and Trial operation in relation to a transmission system or an element thereof shall mean successful charging of the transmission system or an element thereof for -- hours at continuous flow of power, and communication signal from the sending end to the receiving end and with requisite metering system, telemetry and protection system in",
+    "Option1": "24",
+    "Option2": "72",
+    "Option3": "12",
+    "Option4": "48",
+    "answer": 1
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "Date of commercial operation in relation to a communication system or an element thereof shall mean the date declared by the transmission licensee from 0000 hour of which a communication system or element thereof shall be put into service after completion of site acceptance test including transfer of voice and data to respective control centre as certified by the respective Regional Load Dispatch Centre.",
+    "Option1": "TRUE",
+    "Option2": "FALSE",
+    "Option3": "",
     "Option4": "",
-    "answer": null
+    "answer": 1
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "In case of coal / lignite based generating stations,if unit loading is 65-74.99 percentage of IC,  station heat rate degradation or actual heat rate, whichever is lower, shall be considered for the purpose of compensationfor super critical and sub-critical  are….,-----, respectively.",
+    "Option1": "2%&4%",
+    "Option2": "1.25%& 2.25%",
+    "Option3": "3%& 6%",
+    "Option4": "No cpmpensation",
+    "answer": 1
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "In case of coal / lignite based generating stations,if unit loading is 75-84.99 percentage of IC  station heat rate degradation or actual heat rate, whichever is lower, shall be considered for the purpose of compensationfor super critical and sub-critical  are….,-----, respectively.",
+    "Option1": "2%&4%",
+    "Option2": "1.25%& 2.25%",
+    "Option3": "3%& 6%",
+    "Option4": "No cpmpensation",
+    "answer": 2
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "In case of coal / lignite based generating stations,if unit loading is 55-64.99 percentage of IC  station heat rate degradation or actual heat rate, whichever is lower, shall be considered for the purpose of compensationfor super critical and sub-critical  are….,-----, respectively.",
+    "Option1": "2%&4%",
+    "Option2": "1.25%& 2.25%",
+    "Option3": "3%& 6%",
+    "Option4": "No cpmpensation",
+    "answer": 3
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "In case of coal / lignite based generating stations,if unit loading is 85-100 percentage of IC  station heat rate degradation or actual heat rate, whichever is lower, shall be considered for the purpose of compensationfor super critical and sub-critical  are….,-----, respectively.",
+    "Option1": "2%&4%",
+    "Option2": "1.25%& 2.25%",
+    "Option3": "3%& 6%",
+    "Option4": "nil",
+    "answer": 4
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "What is the max. numbers of start-stops are permissible for CERC regulated ISGS thermal stations beyond which they are eligible for compensation under RSD procedure",
+    "Option1": "2",
+    "Option2": "3",
+    "Option3": "4",
+    "Option4": "7",
+    "answer": 4
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "Trial Run for Hydro station requires continuous operation at MCR for ____ hours",
+    "Option1": "12",
+    "Option2": "24",
+    "Option3": "72",
+    "Option4": "None of the above",
+    "answer": 1
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "As per grid code after COD declaration a Generating Company is mandated to submit approval of BOD within ------months",
+    "Option1": "1",
+    "Option2": "3",
+    "Option3": "2",
+    "Option4": "6",
+    "answer": 2
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "A station completed trial run on 13.03.2019 13:00 hours. COD declaration & scheduling can commence at -------hrs of ------------;",
+    "Option1": "13:00 13.03.2019",
+    "Option2": "14:00 / 13.03.2019",
+    "Option3": "00:00 14.03.2019",
+    "Option4": "None of \nthe above. ",
+    "answer": 3
+  },
+  {
+    "Topic": "16.IEGC",
+    "Question": "COD of the following elements requires a certificate from RLDC",
+    "Option1": "ISTS line",
+    "Option2": "Communication system",
+    "Option3": "only 1",
+    "Option4": "both 1 & 2",
+    "answer": 0
   },
   {
     "Topic": "16.IEGC",
@@ -19250,4 +19412,4 @@ var questions = [
     "Option4": "BSI",
     "answer": 3
   }
- ];
+];
