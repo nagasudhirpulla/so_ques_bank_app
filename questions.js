@@ -14046,7 +14046,7 @@ var questions = [
     "Option2": "Only(A)",
     "Option3": "Only(b)",
     "Option4": "none ",
-    "answer": 0
+    "answer": 1
   },
   {
     "Topic": "20.Act-NEP_Tariff-Policy",
