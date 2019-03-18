@@ -8,6 +8,12 @@
   font-size: x-small;
 }
 
+#resultsSpan {
+  color: purple;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 * {
   margin: 0;
   padding: 0;

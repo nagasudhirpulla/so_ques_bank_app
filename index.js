@@ -48,6 +48,8 @@ function loadQuestions() {
         questionsDivEl.appendChild(quesDiv);
     }
 
+    // clear results
+    updateResultsText("");
 }
 
 function createQuesDiv(questionObj, quesIter) {
@@ -187,5 +189,9 @@ function evaluateAnswers() {
     }
 
     // update the results text    
-    document.getElementById("resultsSpan").innerHTML = "correct = " + correctCount + ", wrong = " + wrongCount + ", unanswered = " + unansweredCount + ", total = " + (unansweredCount + correctCount + wrongCount);
+    updateResultsText("correct = " + correctCount + ", wrong = " + wrongCount + ", unanswered = " + unansweredCount + ", total = " + (unansweredCount + correctCount + wrongCount););
+}
+
+function updateResultsText(resStr) {
+    document.getElementById("resultsSpan").innerHTML = resStr;
 }
