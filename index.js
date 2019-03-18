@@ -53,9 +53,13 @@ function loadQuestions() {
 function createQuesDiv(questionObj, quesIter) {
     // create the question Element
     var quesDiv = document.createElement("div");
+    quesDiv.className += ' question_div';
+    // todo assign question number from the function argument and save as the div attribute
 
     // append question string
     var quesStrEl = document.createElement("span");
+    quesStrEl.className += ' question_string';
+
     var quesStr = "";
     if (selectedTopic_g == "All") {
         var quesTopicEl = document.createElement("span");
@@ -105,8 +109,10 @@ function createQuesDiv(questionObj, quesIter) {
 function createOptEl(optionStr, quesIter, optIndex) {
     var optEl = document.createElement("label");
     optEl.style['margin-right'] = '24px';
-    var radioItem1 = createRadioItem(quesIter, optIndex);
-    optEl.appendChild(radioItem1);
+    optEl.className += ' option_label';
+
+    var radioItem = createRadioItem(quesIter, optIndex);
+    optEl.appendChild(radioItem);
 
     var spanEl = document.createElement("span");
     spanEl.innerHTML = optionStr;
@@ -120,6 +126,7 @@ function createRadioItem(quesIter, ItemNum) {
     radioItem.type = "radio";
     radioItem.name = "radio" + quesIter;
     radioItem.value = ItemNum;
+    radioItem.className += ' option_radio';
     return radioItem;
 }
 
@@ -131,5 +138,54 @@ function showAnswers() {
         ansEl.style['font-weight'] = 'bold';
         ansEl.style['text-decoration'] = 'underline';
     }
+}
 
+function evaluateAnswers() {
+    // initialize the results
+    var unansweredCount = 0;
+    var correctCount = 0;
+    var wrongCount = 0;
+
+    // iterate all the question divs
+    const ques_divs = document.getElementsByClassName("question_div");
+    for (let quesInd = 0; quesInd < ques_divs.length; quesInd++) {
+        const ques_div = ques_divs[quesInd];
+        let ques_res = null;
+        // iterate all the option labels
+        const opt_labels = ques_div.getElementsByClassName("option_label");
+        for (let opt_iter = 0; opt_iter < opt_labels.length; opt_iter++) {
+            let opt_label = opt_labels[opt_iter];
+
+            // check if option label corresponds to answer
+            let opt_correct = opt_label.classList.contains("answerClass");
+
+            // get the option checked status using the radio child of the option
+            let opt_checked = false;
+            let ans_radios = opt_label.getElementsByClassName("option_radio");
+            if (ans_radios.length > 0) {
+                ans_radio = ans_radios[0];
+                opt_checked = ans_radio.checked;
+                // determine if answer is correct, wrong, unanswered
+                if (opt_checked == true) {
+                    if (opt_correct == true) {
+                        ques_res = true;
+                    } else {
+                        ques_res = false;
+                    }
+                }
+            }
+        }
+
+        // increment the respective counters
+        if (ques_res == true) {
+            correctCount += 1;
+        } else if (ques_res == false) {
+            wrongCount += 1;
+        } else {
+            unansweredCount += 1;
+        }
+    }
+
+    // update the results text    
+    document.getElementById("resultsSpan").innerHTML = "correct = " + correctCount + ", wrong = " + wrongCount + ", unanswered = " + unansweredCount + ", total = " + (unansweredCount + correctCount + wrongCount);
 }
