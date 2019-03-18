@@ -189,7 +189,7 @@ function evaluateAnswers() {
     }
 
     // update the results text    
-    updateResultsText("correct = " + correctCount + ", wrong = " + wrongCount + ", unanswered = " + unansweredCount + ", total = " + (unansweredCount + correctCount + wrongCount););
+    updateResultsText("correct = " + correctCount + ", wrong = " + wrongCount + ", unanswered = " + unansweredCount + ", total = " + (unansweredCount + correctCount + wrongCount));
 }
 
 function updateResultsText(resStr) {
