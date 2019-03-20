@@ -13249,15 +13249,6 @@ var questions = [
  },
  {
    "Topic": "24.Regulatory_mix",
-   "Question": "CERC(Application for Determination of Tariff) Regulations 2004",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "24.Regulatory_mix",
    "Question": "An application for determination of tariff should be made available on website by the applicant from the date of publication for atleast",
    "Option1": "30 days",
    "Option2": "2 weeks",
@@ -13528,48 +13519,12 @@ var questions = [
  },
  {
    "Topic": "15.gridstandard",
-   "Question": "Match the following for permissible voltage unbalance:",
+   "Question": "Match the following for permissible voltage unbalance:\na. 765 kV                                          1. 1%\nb. 400 kV                                          2. 2%\nc. 220 kV                                           3. 3%\nd. 132 kV                                          4. 1.5%",
    "Option1": "a-1,b-4,c-2,d-3",
    "Option2": "a-1,b-1,c-2,d-3",
    "Option3": "a-2,b-4,c-3,d-4",
    "Option4": "a-4,b-4,c-2,d-3",
    "answer": 4
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "a. 765 kV                                          1. 1%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "b. 400 kV                                          2. 2%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "c. 220 kV                                           3. 3%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "d. 132 kV                                          4. 1.5%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
  },
  {
    "Topic": "15.gridstandard",
@@ -13591,57 +13546,12 @@ var questions = [
  },
  {
    "Topic": "15.gridstandard",
-   "Question": "Match the following for permissible Total Harmonic Distortion  :",
+   "Question": "Match the following for permissible Total Harmonic Distortion  :\na. 765 kV                                          1. 2%\nb. 400 kV                                          2. 1.5%\nc. 220 kV                                           3. 5%\nd. 132 kV                                          4. 3%\ne. 66 kV                                            5. 2.5%",
    "Option1": "a-1,b-4,c-5,d-3,e-3",
    "Option2": "a-2,b-2,c-1,d-4,e-4",
    "Option3": "a-2,b-1,c-5,d-3,e-3",
    "Option4": "a-2,b-1,c-5,d-4,e-4",
    "answer": 3
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "a. 765 kV                                          1. 2%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "b. 400 kV                                          2. 1.5%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "c. 220 kV                                           3. 5%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "d. 132 kV                                          4. 3%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "e. 66 kV                                            5. 2.5%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
  },
  {
    "Topic": "15.gridstandard",
@@ -13681,48 +13591,12 @@ var questions = [
  },
  {
    "Topic": "15.gridstandard",
-   "Question": "Match the following for permissible individual harmonic of any particular frequency:",
+   "Question": "Match the following for permissible individual harmonic of any particular frequency:a. 765 kV                                          1. 1%\nb. 400 kV                                          2. 2%\nc. 220 kV                                           3. 3%\nd. 132 kV                                          4. 1.5%",
    "Option1": "a-1,b-4,c-2,d-3",
    "Option2": "a-1,b-1,c-2,d-3",
    "Option3": "a-2,b-4,c-3,d-4",
    "Option4": "a-4,b-4,c-2,d-3",
    "answer": 1
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "a. 765 kV                                          1. 1%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "b. 400 kV                                          2. 2%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "c. 220 kV                                           3. 3%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "15.gridstandard",
-   "Question": "d. 132 kV                                          4. 1.5%",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
  },
  {
    "Topic": "15.gridstandard",
@@ -15868,7 +15742,7 @@ var questions = [
  },
  {
    "Topic": "16.IEGC",
-   "Question": "RGMO on Open Cycle Gas Turbine/Combined Cycle generating stations having gas turbines of capacity more than 50 MW each came into  effect from \"",
+   "Question": "RGMO on Open Cycle Gas Turbine/Combined Cycle generating stations having gas turbines of capacity more than 50 MW each came into  effect from",
    "Option1": "01.10.2017",
    "Option2": "01.08.2010",
    "Option3": "01.04.2018",
@@ -16147,57 +16021,12 @@ var questions = [
  },
  {
    "Topic": "25.CEA Tech Std for Con",
-   "Question": "BIL (Basic Insulation level ) of various equipment and rating  shall be decided on the follow order of priority",
+   "Question": "BIL (Basic Insulation level ) of various equipment and rating  shall be decided on the follow order of priorityi. ensure safety to public and operating personal\nii. Avoid permanent damage to th eplant\niii.  Prevent failure of costly equipment\niv. Minimise circuit interruptions\nv. Minimise interruption of power",
    "Option1": " i,ii,iii,iv, v",
    "Option2": "I,iii,ii,ivv",
    "Option3": "ii,iv,v, iii,i",
    "Option4": "I,ii,iii,v,iv",
    "answer": 1
- },
- {
-   "Topic": "25.CEA Tech Std for Con",
-   "Question": "i. ensure safety to public and operating personal",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "25.CEA Tech Std for Con",
-   "Question": "ii. Avoid permanent damage to th eplant",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "25.CEA Tech Std for Con",
-   "Question": "iii.  Prevent failure of costly equipment",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "25.CEA Tech Std for Con",
-   "Question": "iv. Minimise circuit interruptions",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
- },
- {
-   "Topic": "25.CEA Tech Std for Con",
-   "Question": "v. Minimise interruption of power",
-   "Option1": "",
-   "Option2": "",
-   "Option3": "",
-   "Option4": "",
-   "answer": 0
  },
  {
    "Topic": "25.CEA Tech Std for Con",
