@@ -1,5 +1,1526 @@
 var questions = [
  {
+   "Topic": "CompBidding",
+   "Question": " Which Section(s) of the Electricity Act 03 provide for tariff regulation and determination of tariff of generation, transmission, wheeling and retail sale of electricity by the Appropriate Commission ?",
+   "Option1": "Section 61 & 62",
+   "Option2": "Section 61",
+   "Option3": "Section 62",
+   "Option4": "None of these",
+   "answer": 1
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "Competitive Bidding guidelines have been framed under which provisions of the Electricity Act 03 ?",
+   "Option1": "Section 62",
+   "Option2": "Section 60",
+   "Option3": "Section 61",
+   "Option4": "Section 63",
+   "answer": 4
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "For procurement of electricity under Competitive Bidding guidelines, tariff shall be paid and settled for each payment period not exceeding",
+   "Option1": "six months",
+   "Option2": "one year",
+   "Option3": "one month",
+   "Option4": "one quarter",
+   "answer": 3
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "According to competitve bidding guidelines issued by Ministry of Power, the indices to be adopted for escalation of the escalable component shall only be",
+   "Option1": "Retail Price Index (RPI), Consumer Price Index (CPI) or a combination of both RPI and CPI ",
+   "Option2": "Wholesale Price Index (WPI), Consumer Price Index (CPI) or a combination of both WPI and CPI ",
+   "Option3": "Wholesale Price Index (WPI), Producer Price Index (PPI) or a combination of both WPI and PPI ",
+   "Option4": "Retail Price Index (RPI), Producer Price Index (PPI) or a combination of both RPI and PPI ",
+   "answer": 2
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "According to competitve bidding guidelines issued by Ministry of Power, at the bid evaluation stage, ratio of minimum and maximum capacity charge (including both the non-escalable component and the escalable component incorporating escalation as per index being used for the purpose of evaluation) over the term of the Power Purchase Agreement (PPA) shall not be less than",
+   "Option1": "0.7",
+   "Option2": "0.8",
+   "Option3": "0.6",
+   "Option4": "0.85",
+   "answer": 1
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "According to competitve bidding guidelines issued by Ministry of Power, Adjustment shall be provided for heat rate degradation of the generating stations.. The statement is:",
+   "Option1": "TRUE",
+   "Option2": "FALSE",
+   "Option3": "CERC may decide",
+   "Option4": "SERC may decide",
+   "answer": 2
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "According to competitve bidding guidelines issued by Ministry of Power, the geological risk for the hydro project in both Case 1 and in Case 2 shall be borne by ?",
+   "Option1": "CEA",
+   "Option2": "consumer",
+   "Option3": "procurer",
+   "Option4": "developer",
+   "answer": 4
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "According to competitve bidding guidelines issued by Ministry of Power, the per kwh rates payable to the seller for offtake by the procurer over and above the normative levels shall be",
+   "Option1": "more than the rates applicable till normative availability.",
+   "Option2": "less than the rates applicable till normative availability.",
+   "Option3": "same as the rates applicable till normative availability.",
+   "Option4": "None of these",
+   "answer": 3
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "According to Competitive Bidding Guidelines, the bidding shall necessarily be by way of ",
+   "Option1": "International Competitive Bidding (ICB).",
+   "Option2": "Domestic Competitive Bidding (DCB).",
+   "Option3": "Limited Competitive Bidding (LCB).",
+   "Option4": "Public Competitive Bidding (PCB).",
+   "answer": 1
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "Who notifies escalation rate for domestic coal. (Separately for evaluation and payment) ?",
+   "Option1": "MoP",
+   "Option2": "SERC",
+   "Option3": "Ministry of Coal",
+   "Option4": "CERC",
+   "answer": 4
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "In normal circumstances, the 2 stage bid process, bidding is likely to be completed in a period of ",
+   "Option1": "180 days.",
+   "Option2": "270 days.",
+   "Option3": "90 days.",
+   "Option4": "365 days.",
+   "answer": 0
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "According to Comeptitive Bidding  Guidelines, any dispute claiming any change in or regarding determination of the tariff or any tariff related matters, or which partly or wholly could result in change in tariff shall be adjudicated by?",
+   "Option1": "Appropriate Commission.",
+   "Option2": "High Court",
+   "Option3": "Supreme Court",
+   "Option4": "APTEL",
+   "answer": 1
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "In the case of procurement under Case-1, charges up to the injection point shall be borne by?",
+   "Option1": "Tranmsission Licensee",
+   "Option2": "Consumer",
+   "Option3": "Bidder",
+   "Option4": "Procurer",
+   "answer": 4
+ },
+ {
+   "Topic": "CompBidding",
+   "Question": "According to competitve bidding guidelines issued by Ministry of Power, Eligible bidders shall be required to submit ",
+   "Option1": "combined technical and price bids",
+   "Option2": "only price bid",
+   "Option3": "only technical bid",
+   "Option4": "separate technical and price bids.",
+   "answer": 4
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "Congestion charge would be levied  for",
+   "Option1": "Under drawl in the importing control area",
+   "Option2": "Over drawl in the importing control area ",
+   "Option3": "Under drawl or Over drawl in the importing control area ",
+   "Option4": "No congestion charges for importing control area",
+   "answer": 2
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "Congestion charges will be levied for ",
+   "Option1": "Overdrawing utility in exporting control area ",
+   "Option2": "Over injecting utilities in the exporting control area ",
+   "Option3": "Under injecting utilities in the exporting control area ",
+   "Option4": "Under drawing utility in importing control area",
+   "answer": 2
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "Available Transfer Capacity (ATC) is _____ where TTC is Total Transfer Capability and RM is Reliability Margin",
+   "Option1": "TTC + RM",
+   "Option2": "TTC-RM",
+   "Option3": "TTC/RM",
+   "Option4": "TTC*RM",
+   "answer": 2
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "Congestion charge applicable to all regions is _____ per kWh",
+   "Option1": "Rs. 5.45 ",
+   "Option2": "Rs. 3.00",
+   "Option3": "Rs.7.45",
+   "Option4": "Rs.1.92",
+   "answer": 1
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "Congestion charges are paid ",
+   "Option1": "If lieu of deviation charges",
+   "Option2": "In addition to the deviation charges ",
+   "Option3": "In lieu of reactive energy charges",
+   "Option4": "In lieu of PoC charges",
+   "answer": 2
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "Congestion is a situation where the demand for transmission capacity",
+   "Option1": "Exceeds the ATC",
+   "Option2": "Equals the ATC",
+   "Option3": "Less than Reliability Margin",
+   "Option4": "Less than the ATC",
+   "answer": 1
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "Frequencies > 50 Hz, congestion charge would be levied for",
+   "Option1": "Under-drawl in exporting control area",
+   "Option2": "Over-drawl in exporting control area",
+   "Option3": "Under drawal or over drawal in exporting control area",
+   "Option4": "Congestion Charge is delinked from frequency",
+   "answer": 4
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "NLDC/ RLDC(s) shall issue a notice for application of congestion charge if congestion persists for",
+   "Option1": "2 time-blocks not counting the time-block in which warning notice was issued by RLDC ",
+   "Option2": "1 time-blocks counting the time-block in which warning notice was issued by RLDC ",
+   "Option3": "2 time-blocks counting the time-block in which warning notice was issued by RLDC ",
+   "Option4": "4 time-blocks not counting the time-block in which warning notice was issued by RLDC ",
+   "answer": 1
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "No congestion charge levied for congestion in a transmission corridor, if  congestion has been caused by",
+   "Option1": "Forced outages of a line ",
+   "Option2": "Real-time power flow along a corridor exceeds the ATC",
+   "Option3": "Grid voltage in the important nodes downstream/ upstream of the corridor is beyond the operating range",
+   "Option4": "All of these options",
+   "answer": 1
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "TRM is arrived considering",
+   "Option1": "2% total anticipated demand met in a control area(s) or largest generating unit in the control area(s)",
+   "Option2": "1% total anticipated demand met ina control area(s)/largest generating unit in the control area(s)",
+   "Option3": "3% total anticipated demand met ina control area(s)/largest generating unit in the control area(s)",
+   "Option4": "None of these",
+   "answer": 1
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "Congestion notice is issued under the following circumstances",
+   "Option1": "Voltage at upstreame/downdtream are beyond operational norms,, ",
+   "Option2": "real time flow along a corridor is such that n-1 will not be  complied",
+   "Option3": "one or more transmision lines in a coridors are loaded beyod the operating range mentioned in planning criterion",
+   "Option4": "All of these options",
+   "answer": 4
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "Comgestion notice shall be withdrawn if",
+   "Option1": "the power flow in the effected corridor comes  within the ATC for one TMBLK ",
+   "Option2": "the power flow in the effected corridor within the ATC for two TMBLK ",
+   "Option3": "the power flow in the effected corridor within the ATC for 4 TMBLK ",
+   "Option4": "None of these",
+   "answer": 1
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "RLDCs shall disburse the received congestion chrages within",
+   "Option1": "3 working days after the receipt.",
+   "Option2": "2 working days after the receipt.",
+   "Option3": "7 working days after the receipt.",
+   "Option4": "None of these",
+   "answer": 1
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "The Regional Entity liable to pay congestion charge shall deposit the amount in Congestion Charge Account within",
+   "Option1": "3 days",
+   "Option2": "10 days ",
+   "Option3": "3 days ",
+   "Option4": "5 days",
+   "answer": 2
+ },
+ {
+   "Topic": "Congestion",
+   "Question": " when payment of congestion charge is delayed beyond two days from due date, the Regional entity responsible for \ndelay in depositing congestion charge amount shall be liable to pay interest at the \nrate of",
+   "Option1": "0.03% per day",
+   "Option2": "0.04% per day",
+   "Option3": "0.03% per day",
+   "Option4": "0.01% per day",
+   "answer": 2
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "The TTC, ATC and TRM are  declared by which entity",
+   "Option1": "CERC",
+   "Option2": "NLDC",
+   "Option3": "Central Transmission Utility (CTU)",
+   "Option4": "CEA",
+   "answer": 3
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "For TTC Calculations Credible Contingency is ",
+   "Option1": "Outage of a largest unit in the control area Station",
+   "Option2": "Possible overloading of transmission line due to sudden increase in load",
+   "Option3": "",
+   "Option4": "Outage of a largest unit in the importing control area Station",
+   "answer": 4
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "Corridor shall be considered congested",
+   "Option1": "Grid voltage in the important nodes downstream/ upstream of the corridor is beyond the operating range specified in the IEGC",
+   "Option2": "One or more transmission lines in the corridor are loaded beyond the normal limit specified in CEA Manual",
+   "Option3": "The real time power flow along a corridor is such that n-1 criteria may not be satisfied",
+   "Option4": "All of these options",
+   "answer": 4
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "Congestion Charges are billed",
+   "Option1": "Every 10 Days",
+   "Option2": "After every Congesation",
+   "Option3": "Every Week",
+   "Option4": "None of these",
+   "answer": 3
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "TTC is ____________ in nature and the transfer capability for import of power in a region from another region may be ________ from the transfer capability for export of power from that region",
+   "Option1": "Variable, Same",
+   "Option2": "Directional, Different",
+   "Option3": "Fixed, Same",
+   "Option4": "Variable, Over Value",
+   "answer": 2
+ },
+ {
+   "Topic": "Congestion",
+   "Question": "Transfer Capability shall be mentioned in",
+   "Option1": "KWH",
+   "Option2": "MU",
+   "Option3": "MW",
+   "Option4": "MWH",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Revenue stream of POSOCO is regulated by _______________",
+   "Option1": "CEA",
+   "Option2": "MoP",
+   "Option3": "RPC",
+   "Option4": "CERC notified RLDC Fees and Charges, Regulation",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "In context to RLDC Fees and Charges, a Buyer refers to a person buying power through_______",
+   "Option1": "Long term access",
+   "Option2": "Medium term access or Short term Open access",
+   "Option3": "Medium term or Long term access",
+   "Option4": "Long term or Medium term or Short term access",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Contracted capacity refers to the capacity arranged through _________",
+   "Option1": "Long Term Access or medium Term access",
+   "Option2": "Long term access only",
+   "Option3": "Medium Term or Short term access",
+   "Option4": "Long term or Medium term or Short term access",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "The Control period for which the RLDC Fees and Charges gets approved by CERC is ________",
+   "Option1": "4 years",
+   "Option2": "3 years",
+   "Option3": "2 years",
+   "Option4": "5 years",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Pool Accounts refers to the payments regarding______",
+   "Option1": "Unscheduled Interchanges Accounts",
+   "Option2": "Reactive Energy Exchanges",
+   "Option3": "Congestion Charges",
+   "Option4": "All of these",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Which of the following are done by RLDCs for regional entities? 1. Scheduling         2. Metering               3. Energy Accounting         4. Settlement",
+   "Option1": "Only 1",
+   "Option2": "1 and 2 only",
+   "Option3": "1, 2,3 and 4",
+   "Option4": "1,2 and 3 Only",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Match the following w.r.t functions of RLDCs?  a. Scheduling and Despatch  b. Administering Ancillary Services    c. Congestion management  d. Real-time operation for grid control and dispatch   e. Transmission loss calculation and apportionment         1. Market Operation Function   2. System Operation Function",
+   "Option1": "a-2,b-2,c-1,d-2,e-2",
+   "Option2": "a-2,b-1,c-2, d-1, e-2",
+   "Option3": "a-2, b-2, c-2, d-1, e-1",
+   "Option4": "a-1, b-1, c-2, d-2, e-1",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "In context to RLDC Fees and Charges, User doesnt refer to _______________  1. A generating station located in Bihar connected to ISTS and  serving more than 50% of IC to Orissa also in addition to home state  2. A central Sector generating station located in Andhra Pradesh and dedicated to the home state  3. An intra-state  transmission licensee 4. UMPP",
+   "Option1": "3 and 4 only",
+   "Option2": "4 only",
+   "Option3": "2 and 3 only",
+   "Option4": "All except 4",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Which Section of the Electricity Act mandates RLDCs to levy fees and charges from genertaing companies and other licensees?",
+   "Option1": "Section 32(3)",
+   "Option2": "Section 28(4)",
+   "Option3": "Section 35(4)",
+   "Option4": "Section 23(3)",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Replacement of obsolete control center equipment such as SCADA / EMS, IT Infrastructure requires _____",
+   "Option1": "CAPEX",
+   "Option2": "RAPEX",
+   "Option3": "Both CAPEX and RAPEX",
+   "Option4": "None of these",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Capital Expenditure plans cover __________",
+   "Option1": "Computer Systems ",
+   "Option2": "Backup Control Center",
+   "Option3": "Specialized Software",
+   "Option4": "All of these",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "The following is/are the component(s) of charges for servicing of CAPEX in debt-equity mode of capex funding",
+   "Option1": "Return on Equity",
+   "Option2": "Interest on Loan",
+   "Option3": "Depreciation",
+   "Option4": "All of these",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "The truing up exercise shall be carried out by CERC _____________",
+   "Option1": "after each Financial Year",
+   "Option2": "after expiry of control period",
+   "Option3": "once in two Financial Years",
+   "Option4": "on yearly basis",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "The under recovered or over recovered amount after truing up exercise shall be recovered/ refunded in _______________",
+   "Option1": "3 monthly installments",
+   "Option2": "8 monthly installments",
+   "Option3": "6 monthly installments",
+   "Option4": "12 monthly installments",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Which of the following includes Capital Cost of a Regional Load Despatch Centre(RLDC)?  1. Interest on Working Capital (IWC)     2. Interest During Construction (IDC)    3. Foreign Exchange Rate Variation (FERV)        4. Interest On Loan (IOL)",
+   "Option1": "1 and 2 only",
+   "Option2": "2 and 3 only",
+   "Option3": "1 and 4 only",
+   "Option4": "2,3 and 4 only",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "For determination of charges, Equity in excess of 30% shall be treated as _______________",
+   "Option1": "Debt",
+   "Option2": "normative equity",
+   "Option3": "normative loan",
+   "Option4": "zero value",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Which of the following shall NOT comprises of LDC Development Fund?  1. Interest on Working Capital      2. Registration Fees     3. O&M Expenses     4. STOA charges",
+   "Option1": "1 and 3 only",
+   "Option2": "3 alone",
+   "Option3": "2 and 4 only",
+   "Option4": "only 4",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Which of the following expenditures can be met from LDC Development Fund?  1. CSR Expenditures     2. Expenditures on account of Sustainable Development    3. Expenditures on R&D    4. Dividend Payment",
+   "Option1": "3 alone",
+   "Option2": "4 alone",
+   "Option3": "3 and 4 only",
+   "Option4": "All 1,2,3 and 4",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Who will maintain LDC Development Fund?",
+   "Option1": "MoP",
+   "Option2": "CERC",
+   "Option3": "CEA",
+   "Option4": "POSOCO",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Who will review LDC Development Fund every Year?",
+   "Option1": "CEA",
+   "Option2": "POSOCO",
+   "Option3": "RPC",
+   "Option4": "CERC",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Net savings on interest resulted from re-financing the loan shall be shared between the users and the POSOCO in the ratio of _______",
+   "Option1": "1:1",
+   "Option2": "1:2",
+   "Option3": "2:1",
+   "Option4": "1:3",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "The Salvage value for IT equipments and Softwares shall be considered as _________%.",
+   "Option1": "10%",
+   "Option2": "20%",
+   "Option3": "15%",
+   "Option4": "NIL",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "The maximum limit to the depreciation allowed is _____% of the Capital Cost",
+   "Option1": "100%",
+   "Option2": "95%",
+   "Option3": "105%",
+   "Option4": "90%",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "The Salvage value for the assets excluding IT equipments and Softwares shall be considered as _____%",
+   "Option1": "10%",
+   "Option2": "20%",
+   "Option3": "15%",
+   "Option4": "NIL",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Charges for Human Resources includes ___________  1. Salary, Perquisites, Incentives   2. Training & Certification Charges   3.  Depreciation    4. Interest on Loan",
+   "Option1": "1 & 3",
+   "Option2": "1 & 4",
+   "Option3": "2 & 3",
+   "Option4": "1 & 2",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Interest on Working Capital is covered under________",
+   "Option1": "CAPEX",
+   "Option2": "HR Expenses",
+   "Option3": "O & M Expenses",
+   "Option4": "None of these",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Services rendered by LDCs comprise of _____________",
+   "Option1": "System Operation",
+   "Option2": "Market Operation",
+   "Option3": "Both System operation and Market operation",
+   "Option4": "O & M of the Transmission system",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Expenses identified under a separate head for the first time in the RLDC Fees and Charges order by CERC are ____________________",
+   "Option1": "Return on Equity",
+   "Option2": "Interest on Loan",
+   "Option3": "Depreciation",
+   "Option4": "HR Expenses",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "CERCs Notification for RLDC Fees and Charges allocates the annual charges for the System Operation function and Market Operation Function in the ratio ________",
+   "Option1": "50:50",
+   "Option2": "60:40",
+   "Option3": "70:30",
+   "Option4": "80:20",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Which of the following is/are NOT the part of Working Capital?  1. O&M expenses    2. HR Expenses  3. Return on Equity   4. NLDC Charges",
+   "Option1": "4 alone",
+   "Option2": "3 alone",
+   "Option3": "3 and 4 only",
+   "Option4": "1 and 2 only",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Which of the following charges are apportioned to RLDCs?  1. Training & Certification charges   2. NLDC Charges   3. Corporate Office Expenses  4. Registration Fees",
+   "Option1": "2 & 3 only",
+   "Option2": "1 &3 only",
+   "Option3": "1 & 4 only",
+   "Option4": " 3 & 4 only",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "NLDC Charges and Corporate Office Expenses shall be apportioned to RLDCs on the basis of __________",
+   "Option1": "no. of states in their jurisdiction",
+   "Option2": "Demand served in the respective Region",
+   "Option3": "Peak shortage in the respective region",
+   "Option4": "Installed capacity in the respective region",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Inter state transmission licensees shall pay _____ % of System Operation Charges.",
+   "Option1": "10%",
+   "Option2": "45%",
+   "Option3": "35%",
+   "Option4": "50%",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Generating stations and sellers shall pay ______ % of System Operation Charges.",
+   "Option1": "10%",
+   "Option2": "45%",
+   "Option3": "35%",
+   "Option4": "50%",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Distribution lIcensees and Buyers shall pay _____ % of System Operation Charges",
+   "Option1": "10%",
+   "Option2": "15%",
+   "Option3": "35%",
+   "Option4": "45%",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "System Operation charges shall be levied on the inter-state trasmission licensees  on the basis of  ____",
+   "Option1": "Ckt. Kms owned",
+   "Option2": "turn over ",
+   "Option3": "cost of capital assets",
+   "Option4": "Net profit",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "System Operation charges from the Sellers shall be collected in proportion to their ____________",
+   "Option1": "Installed Capacity",
+   "Option2": "Contracted Capacity",
+   "Option3": "weighted average of the month generation ",
+   "Option4": "Average of peak demand met in the month ",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "System Operation charges from the generating stations shall be collected in proportion to their ____________",
+   "Option1": "Installed Capacity",
+   "Option2": "Contracted Capacity",
+   "Option3": "weighted average of the month generation ",
+   "Option4": "Average of peak demand met in the month ",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "System Operation charges from the distribution licensees shall be collected in proportion to their ____________",
+   "Option1": "Turn Over",
+   "Option2": "Sum of allocations",
+   "Option3": "Sum of Contracted Capacities",
+   "Option4": "B&C",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "System Operation charges from the buyer shall be collected in proportion to their ____________",
+   "Option1": "Turn Over",
+   "Option2": "Sum of allocations",
+   "Option3": "Sum of Contracted Capacities",
+   "Option4": "B&C",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "System Operation charges from the distribution licensees shall be collected by __________",
+   "Option1": "CERC",
+   "Option2": "RLDCs",
+   "Option3": "POSOCO",
+   "Option4": "CEA",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "As per the CERCs Notification for RLDC Fees and Charges, Market Operation Charges are recovered from ",
+   "Option1": "Inter-State Transmission Licensees",
+   "Option2": "Power Exchanges",
+   "Option3": "Traders ",
+   "Option4": "From all users except inter-state transmission licensees in propor to contracte apcity",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "The One-time fees for registration of Users with RLDCs for  DICOM is _________",
+   "Option1": "15 lacs",
+   "Option2": "10 lacs",
+   "Option3": "20 lacs",
+   "Option4": "8 lacs",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Power exchanges shall be registered with ______ as its user.",
+   "Option1": "RLDCs",
+   "Option2": "NLDC",
+   "Option3": "RPC",
+   "Option4": "Inter-state transmisison Licensee",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "The one-time fees for registration of power exchanges with NLDC is _________",
+   "Option1": "15 lacs",
+   "Option2": "10 lacs",
+   "Option3": "20 lacs",
+   "Option4": "8 lacs",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Late payment surcharge shall be levied on the users if they pay the bills beyond a period of  ____ days from the date of billing",
+   "Option1": "40 days",
+   "Option2": "50 days",
+   "Option3": "60 days",
+   "Option4": "45 days",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Late payment surcharge shall be levied @ ____ % per month on the users in case of late payments.",
+   "Option1": "1.25%",
+   "Option2": "1%",
+   "Option3": "1.50%",
+   "Option4": "2%",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "A rebate of ____% shall be allowed for the payment of bills made  through letter of credit or cheque up to 7th day t+6)on presentation of the bills by RLDC ",
+   "Option1": "1%",
+   "Option2": "2%",
+   "Option3": "1.50%",
+   "Option4": "1.25%",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "A rebate of ____ % shall be allowed for the payments made  with in a period of T+7 to +30 days of presentation of bills.",
+   "Option1": "1%",
+   "Option2": "2%",
+   "Option3": "1.50%",
+   "Option4": "1.25%",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Additional  Capitalization wrt RLDC fees and Charge is..------------",
+   "Option1": "CAPEX cured before COD",
+   "Option2": "CAPEX incurd after COD but upt cu of dae",
+   "Option3": "CAPEX incurd after COD",
+   "Option4": "None of thse",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Bank rate applicable for interest on Working capital wr RLDC fees and charge is ",
+   "Option1": "base rate of SBI",
+   "Option2": "weighted average rate of all Baks",
+   "Option3": "Base ate of SBI plus 360 basis pint",
+   "Option4": "one of these",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Trader is a USER of RLDC",
+   "Option1": "YES",
+   "Option2": "no",
+   "Option3": "",
+   "Option4": "",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Registrartion fees for RLDC payable by an inter-state trader, seller & buyer  is",
+   "Option1": "1 lakh",
+   "Option2": "10 laks",
+   "Option3": "10,000",
+   "Option4": "no fees",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Regisraton fees for a generator havng ultimate capcity of 100MW is",
+   "Option1": "10 Lacs",
+   "Option2": "1 lacs",
+   "Option3": "0.5 lacs",
+   "Option4": "10,000",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Truing up & refund shall be caried out by RLDC on --basis",
+   "Option1": "yealy",
+   "Option2": "after the control period",
+   "Option3": "no truingup required",
+   "Option4": "None of these",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Any grant received or any asset generated through LDC development fund as loan shall become part of CAPEX",
+   "Option1": "TRUE",
+   "Option2": "FALSE",
+   "Option3": "",
+   "Option4": "",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Expenditure for acquiring minor items auch as fan,Air Conditioner ,Refrigeator etc shall become part of CAPEX",
+   "Option1": "TRUE",
+   "Option2": "FALSE",
+   "Option3": "",
+   "Option4": "",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Debt:Equity ratio allowed is",
+   "Option1": "60:40",
+   "Option2": "30:70",
+   "Option3": "70:30",
+   "Option4": "80:20",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "LDC developmet fund is formed from charges on account of..",
+   "Option1": "ROE, IWC, Deprciation,Registration fees",
+   "Option2": "ROE, IWC, Deprciation,STOA ",
+   "Option3": "ROE,IWC,Depre",
+   "Option4": "STOA & Registartion",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Total no of Component of Annual chrgaes of RLDC fees & charge are",
+   "Option1": "5",
+   "Option2": "7",
+   "Option3": "4",
+   "Option4": "6",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Base rate for ROE calculation is",
+   "Option1": "15.50%",
+   "Option2": "15%",
+   "Option3": "16%",
+   "Option4": "16.50%",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Pre tax rate for ROE is calculated  ",
+   "Option1": "base rate/1-t",
+   "Option2": "1-t/base rate",
+   "Option3": "base rate/1+t",
+   "Option4": "1+t/base rate",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Repayment of loan shall be deemed to be equal to",
+   "Option1": "actual loan payment",
+   "Option2": "normative lon payment",
+   "Option3": "depriciation allowed",
+   "Option4": "none of these",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "rate of interest on loan shall be",
+   "Option1": "weighted average  rate of interest of actual loan protfolio",
+   "Option2": "lowest rate of all actual lons",
+   "Option3": "max. of all loans",
+   "Option4": "none of these",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Net saving by refinancing loan shall be shared between USER and POSOCO in the ratio ",
+   "Option1": "1:1",
+   "Option2": "2:1",
+   "Option3": ";1:2",
+   "Option4": "none of these.",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Percentage escallation allowed in O&M to arrive normalized level at 2013-14 is",
+   "Option1": "6.34%",
+   "Option2": "4.23%",
+   "Option3": "5.72%",
+   "Option4": "10%",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Performance Related Pay is computed inaccordance with guidelines issued by ",
+   "Option1": "CERC",
+   "Option2": "POSOCO",
+   "Option3": "MoP",
+   "Option4": "DPE",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Components of Working Capital  are",
+   "Option1": "one month O&M  ,one month NLDC one month HR , two months recievables ",
+   "Option2": "two month O&M  ,two month NLDC one month HR , two months recievables ",
+   "Option3": "Two month O&M  ,one month NLDC one month HR , One months recievables ",
+   "Option4": "Two month O&M  ,twomonth NLDC two month HR , One months recievables ",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Contingency expense fund is formed from the income from",
+   "Option1": "Registration ,ROE,Depreciation,IWC",
+   "Option2": "STOA and REC",
+   "Option3": "STOA",
+   "Option4": "REC",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Every year after meeting all contingency expenses and after meeting statutory tax expenses , balance amount in contingency  account shall be transferred to ",
+   "Option1": "CAPEX",
+   "Option2": "LDCD fund",
+   "Option3": "CERC",
+   "Option4": "PSDF",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "RLDCs are allowed an incentive of ",
+   "Option1": "8% of CAPEX",
+   "Option2": "7% of CAPEX",
+   "Option3": "7% Annual charge",
+   "Option4": "none of these",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "incentive is linked with performance level @ ---for 1st 3yrs",
+   "Option1": "90%",
+   "Option2": "75%",
+   "Option3": "80%",
+   "Option4": "85%",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "additional incentive of 1% is allowed for",
+   "Option1": "for every 5% increase in performance level above 90%",
+   "Option2": "for every 7% increase in performance level above 90%",
+   "Option3": "for every 5% increase in performance level above 95%",
+   "Option4": "for every 5% increase in performance level above 85%",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "incentive shall be reduced by 1% for ",
+   "Option1": "every decrease in performance of 3% below 85%",
+   "Option2": "every decrease in performance of 5% below 85%",
+   "Option3": "every decrease in performance of 3% below 90%",
+   "Option4": "every decrease in performance of 7% below 85%",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "For specilist certification incentive uoto-----is allowed",
+   "Option1": "5000/month",
+   "Option2": "7000/mth",
+   "Option3": "7500/mont",
+   "Option4": "no incentive",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "RLDC collects fees & charge for providing services",
+   "Option1": "System operation",
+   "Option2": "Market operation ",
+   "Option3": "Both",
+   "Option4": "None",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": " Annual fees & charge contains how many parts",
+   "Option1": "5",
+   "Option2": "6",
+   "Option3": "7",
+   "Option4": "8",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "One time User Registration fees for Transmission Licensse (in Rs.)",
+   "Option1": "10,00,000",
+   "Option2": "5,00,000",
+   "Option3": "10,000",
+   "Option4": "1,00,000",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "One time User Registration fees for seller/Buyer (in Rs.)",
+   "Option1": "10,00,000",
+   "Option2": "5,00,000",
+   "Option3": "10,000",
+   "Option4": "1,00,000",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Correct sequence for one time User Registration fees for Generating station upto-\nA. 10 MW                                 i. 0.50 Lakhs\nB. 10MW-100 MW                ii.  1 Lakhs\nC. 100 MW- 2000 MW         iii. 5 Lakhs\nD. 2000 MW and above      iv. 10 Lakhs",
+   "Option1": "D-iv,C- iii, B-ii, A-i",
+   "Option2": "D-ii,C- iii, B-iv, A-i",
+   "Option3": "D-iv,C- iv, B-ii, A-i",
+   "Option4": "D-iv,C- iv, B-iv, A-iv",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Correct the Sentence in terms of RLDC fees & charge annual incentive",
+   "Option1": "Incentive shall be reduced by 1% of annual charges on prorata basis for the every 3% decrease in performance level below 85%",
+   "Option2": "The incentive shall increase by 1% of annual charges for every 5% increase\nof performance level above 90%",
+   "Option3": "Both are correct",
+   "Option4": "Both are wrong",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "As per RLDC fees & charge regulation, a User is entitled for 2% rebate, if the payment made",
+   "Option1": "within 7 days from date of billing",
+   "Option2": "within 10 days from date of billing",
+   "Option3": "no rebate policy",
+   "Option4": "withing 60 days from date of billing",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Choose the correct sequence",
+   "Option1": "Surcharge @1% per month is applicable if User don’t pay monthly bill within 60 days after the date of billing",
+   "Option2": "Surcharge @1.5% per month is applicable if User don’t pay monthly bill within 60 days after the date of billing",
+   "Option3": "Surcharge @2% per month is applicable if User don’t pay monthly bill within 60 days after the date of billing",
+   "Option4": "Surcharge @1.5% per month is applicable if User don’t pay monthly bill within 90 days after the date of billing",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Rate of return on equity shall be rounded off to",
+   "Option1": "three decimal points, Computation formula :\nRate of pre-tax return on equity = Base rate/(1-t)\nt= tax rate",
+   "Option2": "two decimal points, Computation formula :\nRate of pre-tax return on equity = Base rate/(1-t)\nt= tax rate",
+   "Option3": "three decimal points, Computation formula :\nRate of pre-tax return on equity = Base rate/(t-1)\nt= tax rate",
+   "Option4": "three decimal points, Computation formula :\nRate of pre-tax return on equity = Base rate/t\nt= tax rate",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Truing up of approved Vs actual expenditure for a Financial year is to be done by",
+   "Option1": "30th Apr",
+   "Option2": "31st Dec",
+   "Option3": "30th Sept",
+   "Option4": "31st March of next year.",
+   "answer": 3
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "‘Grid Access’ means the permission granted by the --------- for integration of the generating station",
+   "Option1": "RLDC concerned",
+   "Option2": "CTU",
+   "Option3": "CEA",
+   "Option4": "RPC concerned",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "‘Licensee’ means a person granted a licence under ------ of the Act;  ",
+   "Option1": "Section8",
+   "Option2": "Section 14",
+   "Option3": "Section16",
+   "Option4": "Section11",
+   "answer": 2
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Operation of the National Load Desptach Centre is formed in accordance with --------anf RLDC in accordance with ------of Act",
+   "Option1": "Section 36 & Section 37",
+   "Option2": "Section 28 & Section 29",
+   "Option3": "Section 71 & Section 72",
+   "Option4": "Section 26 & Section 27",
+   "answer": 4
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "Where the inter-State Transmission System is connected to the transmission system of foreign country, then the USER shall be",
+   "Option1": "Agency designated by Govt.of India",
+   "Option2": "CTU",
+   "Option3": "ISTS transmission licemsee in India",
+   "Option4": "ISTS transmission licemsee in Foreign country",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "The Sardar Sarovar Project (SSP) and Bhakra Beas Management Board(BBMB) are eligible to become USER of RLDCS",
+   "Option1": "TRUE",
+   "Option2": "FALSE",
+   "Option3": "",
+   "Option4": "",
+   "answer": 1
+ },
+ {
+   "Topic": "RLDC_F&C ",
+   "Question": "The buyers and sellers who intend to avail grid access shall register with concerned RLDC not less than--days prior to intended date of commencement of grid access",
+   "Option1": "90",
+   "Option2": "60",
+   "Option3": "30",
+   "Option4": "180",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "How many no. of largest Power Grid Operators are being represented by VLPGO association currently? ",
+   "Option1": "10",
+   "Option2": "13",
+   "Option3": "14",
+   "Option4": "15",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Who is the Largest Power Grid operator among the VLPGO association ?",
+   "Option1": "Mid-west ISO (USA)",
+   "Option2": "SGCC (China)",
+   "Option3": "PJM interconnections (USA)",
+   "Option4": "PowerGrid (India)",
+   "answer": 2
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "What percentage of worlds electricity demand is being represented by VLPGO association ?",
+   "Option1": "> 50 %",
+   "Option2": "> 75 %",
+   "Option3": "> 40%",
+   "Option4": "> 60 %",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Match the following Transmission System Operators w.r.t their country of operation.a. RTE                                                          1. China/ b. Terna                                                     2. France/c. Red Electrica                                       3. Italy/d. Tepco                                                    4. Spain/e. SGCC                                                      5. Japan",
+   "Option1": "a-4,b-3,c-2,d-5,e-1",
+   "Option2": "a-4,b-2,c-3,d-1,e-5",
+   "Option3": "a-2,b-5,c-4,d-3,e-1",
+   "Option4": "a-2,b-3,c-4,d-5,e-1",
+   "answer": 4
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "The Indian Power Grid Operator is associated with the world wide Grid operators through __________",
+   "Option1": "VLPGO",
+   "Option2": "CIGRE C3 & C5 Committees",
+   "Option3": "TSO- Comparison Group",
+   "Option4": "All the above",
+   "answer": 0
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "VLPGO fomrned in _________",
+   "Option1": "September 2003",
+   "Option2": "August 2005",
+   "Option3": "October 2004",
+   "Option4": "January 2005",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "VLPGO Organization consists of ___________",
+   "Option1": "Steering Board",
+   "Option2": "Governing Board",
+   "Option3": "Adhoc working groups",
+   "Option4": "All the above ",
+   "answer": 4
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "The world wide power system operators association which was formed followed by major balckouts in the world is ________",
+   "Option1": "TSO- Comparison Group",
+   "Option2": "VLPGO",
+   "Option3": "CIGRE C2 Committee",
+   "Option4": "All the above ",
+   "answer": 2
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Main mission of Power Grid Operators worldwide is __________",
+   "Option1": "To accommodate increasing penetration of Renewable Energy",
+   "Option2": "High standards of power quality  & reliability at min. cost remains",
+   "Option3": "Reliable and safe supply of energy",
+   "Option4": "Developing Smart Grid",
+   "answer": 2
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Which of the following expression is correct w.r.t  size of the transmission system of the following TSOs?",
+   "Option1": "PJM> PGCIL> ONS> SO-UPS",
+   "Option2": "SGCC> PGCIL> PJM> ONS",
+   "Option3": "Red Electrica> KPX> Tepco> Eskom",
+   "Option4": "National Grid> Terna> Tepco> ONS",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "To qualify for membership in VLPGO, an organization shall be responsible for secutiry co-ordination of ______________ size of Power Grid.",
+   "Option1": "> 60 GW",
+   "Option2": ">75 GW",
+   "Option3": "> 35 GW",
+   "Option4": "> 50 GW",
+   "answer": 4
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Steering board of VLPGO consists of _____________",
+   "Option1": "CEO or equivlent from each VLPGO organization",
+   "Option2": "CEOs representtaive from each VLPGO organization",
+   "Option3": "CEO or equivlent from top 5  VLPGO members w.r.t capacity of Grid",
+   "Option4": "CEOs representative from top 5  VLPGO organizations w.r.t capacity of Grid",
+   "answer": 1
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Which of the following is not a task of  Steering board ?",
+   "Option1": "To approve VLPGO Protocol",
+   "Option2": "To exchange information on the companys successes and challenges",
+   "Option3": "To approve working groups topics and work plans",
+   "Option4": "To approve VLPGO budget report",
+   "answer": 0
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "The Presidency of VLPGO organization is held with which Power grid operator for the year 2011 ?",
+   "Option1": "PJM interconnections (USA)",
+   "Option2": "Nationl Grid (UK)",
+   "Option3": "PowerGrid (India)",
+   "Option4": "REE (Spain)",
+   "answer": 4
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "VLPGO presidency is permanently held with the largest Power Grid operator among its members.",
+   "Option1": "True/ False",
+   "Option2": "",
+   "Option3": "",
+   "Option4": "",
+   "answer": 0
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Monitoring of VLPGO budget is the task of ____________",
+   "Option1": "Secretary of VLPGO organization",
+   "Option2": "Steering Board",
+   "Option3": "Governing Board",
+   "Option4": "Working Group on Budget",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Which of the following is not a task of Secretary of VLPGO ?",
+   "Option1": "Preparation of annual meetings agenda",
+   "Option2": "Lead Special projects/ workshops",
+   "Option3": "Preapre annual budget and its periodical report on spending",
+   "Option4": "Maintain VLPGO document library and membership",
+   "answer": 0
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "VLPGO Presidency shall be ______________",
+   "Option1": "held with the largest grid operator among its members",
+   "Option2": "One of the members of top 5 VLPGO members w.r.t capacity of Grid ",
+   "Option3": "Member of Steering Board on annual rotational basis",
+   "Option4": "Member of Steering Board on rotational basis for 5 yrs",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "A key aspect of VLPGO mission is to act on issues of common interest to its members. The selection of a Joint activity among the  proposed  is done by _________",
+   "Option1": "voting among members with 3/4 th majority",
+   "Option2": "the President of VLPGO",
+   "Option3": "the secretariat of VLPGO",
+   "Option4": "Voting among members with 2/3rd majority",
+   "answer": 4
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "The VLPGO member hosting the annual meeting is assumed to be the VLPGO president for the following year",
+   "Option1": "True/False",
+   "Option2": "",
+   "Option3": "",
+   "Option4": "",
+   "answer": 0
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "The Presidency of VLPGO organization will be held with which Power grid operator for the year 2012 ?",
+   "Option1": "SGCC (China)",
+   "Option2": "PowerGrid (India)",
+   "Option3": "National Grid (UK)",
+   "Option4": "KPX (South Korea)",
+   "answer": 4
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Under the framework of the VLPGO Association, The System Operator is expected to ________________________",
+   "Option1": "Facilitate the transition towards a Smarter Grid",
+   "Option2": "Act as a catalyst for Manufacturers and Vendors to make available best Technologists",
+   "Option3": "Share the worldwide experience and Best Practices to achieve a more Reliable,Secure and Economic Grid",
+   "Option4": "Enhance Power system Security",
+   "answer": 0
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "How many Working groups have been created under VLPGO currently ?",
+   "Option1": "4",
+   "Option2": "7",
+   "Option3": "5",
+   "Option4": "6",
+   "answer": 4
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Joint activities of VLPGO involves ______________",
+   "Option1": "Joint Projects",
+   "Option2": "Work Groups",
+   "Option3": "Work Shops ",
+   "Option4": "All the above",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Match the following Transmission System Operators w.r.t  activities of the Working Groups?a. ONS                                                          1. Integration of Renewables/b. PJM                                                          2. WAMs/c. Red Electrica                                         3. Load Forecasting/d. KPX                                                           4. HVDC/e. National Grid                                        5. Smart Grids",
+   "Option1": "a-5,b-1,c-2,d-3,e-4",
+   "Option2": "a-2,b-4,c-3,d-1,e-5",
+   "Option3": "a-4,b-2,c-3,d-5,e-1",
+   "Option4": "a-2,b-3,c-4,d-5,e-1",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "The Transmission System Operators (TSO) Group is managed by _____________",
+   "Option1": "PJM interconnections (USA)",
+   "Option2": "KEMA (Netherlands)",
+   "Option3": "Steering Committee of elected members",
+   "Option4": "RTE (France)",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "No.of elected members in the Steering Committee of TSO group ______",
+   "Option1": "5",
+   "Option2": "6",
+   "Option3": "4",
+   "Option4": "7",
+   "answer": 2
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "The Streeing Committee of TSO Group is supported by ____________",
+   "Option1": "ABB",
+   "Option2": "KEMA  ",
+   "Option3": "SIEMENS ",
+   "Option4": "PJM",
+   "answer": 2
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Membership of TSO Group is presently restricted to ______ bulk power system operators.",
+   "Option1": "30",
+   "Option2": "40",
+   "Option3": "45",
+   "Option4": "50",
+   "answer": 1
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Present TSO-Comparison Group Strength ______",
+   "Option1": "24",
+   "Option2": "20",
+   "Option3": "22",
+   "Option4": "30",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "What is the tool being used by TSO Comparison group for comparing TSOs System Operation organization ?",
+   "Option1": "SWAT",
+   "Option2": "Advanced uni-directional Benchmark model",
+   "Option3": "Advanced  trapezoidal model",
+   "Option4": "Advanced multi-directional Benchmark model",
+   "answer": 4
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "The key feature of the benchmark model of TSO- Comparison group is __________",
+   "Option1": "focuses on defining Best & Worst TSOs",
+   "Option2": "focuses on pointing out Strenghts & Weaknesses of a TSO",
+   "Option3": "focuses on identifying differences between TSOs",
+   "Option4": "All the above",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "How many key system operation processes of a Standard TSO are defined for benchmarking purposes ?",
+   "Option1": "4",
+   "Option2": "5",
+   "Option3": "3",
+   "Option4": "6",
+   "answer": 2
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "What are the four key system operation processes of a Standard TSO along with the Support process in the order of time line ?",
+   "Option1": "Real Time Grid Operation, Scheduling, Operational Planning, After the Fact",
+   "Option2": "Scheduling, Operational Planning, Real Time Grid Operation, After the Fact",
+   "Option3": "Operation Planning, Scheduling, Real time Grid Operation, After the Fact",
+   "Option4": "Scheduling, Real Time Grid Operation, After the Fact, Operational Planning",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "The Data collection in the process of Standard TSO is validated by ________, verified by __________________",
+   "Option1": "Group, KEMA",
+   "Option2": "KEMA, Group",
+   "Option3": "Members, KEMA",
+   "Option4": "KEMA, Members",
+   "answer": 2
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "How many Benchmark models are developed for the system operation processes a Standard ISO ?",
+   "Option1": "2",
+   "Option2": "5",
+   "Option3": "10",
+   "Option4": "15",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "What is the minimum no. of staff required for 24X7 operation of a Control Centre used for defining bench mark model as decided in the interim work shop of TSO Comparison Group  ?",
+   "Option1": "5",
+   "Option2": "4",
+   "Option3": "6",
+   "Option4": "7",
+   "answer": 3
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Two Benchmark Models,i.e. Cost Based and Performance Based Model have been identified for each System Operation Process",
+   "Option1": "True/ False",
+   "Option2": "",
+   "Option3": "",
+   "Option4": "",
+   "answer": 0
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "What are the benefits of international interconnections ?",
+   "Option1": "Economoies of Scale",
+   "Option2": "Improving Reliability and Pooling of Reserves",
+   "Option3": "Economic Exchange",
+   "Option4": "Improving Load Factor and improving Load diversity",
+   "answer": 0
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "International Council of Large Electric Systems (CIGRE) is based in _________",
+   "Option1": "France",
+   "Option2": "South Korea",
+   "Option3": "Denmark",
+   "Option4": "Netherlands",
+   "answer": 1
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "How many no. of study Committees are formed in CIGRE ?",
+   "Option1": "8",
+   "Option2": "9",
+   "Option3": "15",
+   "Option4": "10",
+   "answer": 0
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "CIGRE develops technical knowledge in the area of Electric Power Systems through the activities like _______________",
+   "Option1": "Conferences & Meetings",
+   "Option2": "Permanent Studies by different Groups",
+   "Option3": "Publications",
+   "Option4": "All the above",
+   "answer": 4
+ },
+ {
+   "Topic": "VLPGO",
+   "Question": "Which of the following ISO models covers all the system operation activities ?",
+   "Option1": "Balancing ISO",
+   "Option2": "Deep ISO",
+   "Option3": "Operational ISO",
+   "Option4": "Either b or c",
+   "answer": 2
+ },
+ {
    "Topic": "POWER SYSTEM",
    "Question": "The highest transmission voltage (AC) in the country is",
    "Option1": "400 kV",
@@ -388,7 +1909,7 @@ var questions = [
  },
  {
    "Topic": "POWER SYSTEM",
-   "Question": "Ensure financial viability of the sector and attract investments",
+   "Question": "Ensure financial viability of the sector and attract investments is an objective of the ",
    "Option1": "National Electricity Policy 2005",
    "Option2": "Tariff Policy 2006",
    "Option3": "(A) and (B)",
@@ -397,7 +1918,7 @@ var questions = [
  },
  {
    "Topic": "POWER SYSTEM",
-   "Question": "Promote Competition, efficiency in operations and improvement in quality of supply",
+   "Question": "Promote Competition, efficiency in operations and improvement in quality of supply is a stated objective of the ",
    "Option1": "National Electricity Policy 2005",
    "Option2": "Tariff Policy 2006",
    "Option3": "(A) and (B)",
@@ -406,7 +1927,7 @@ var questions = [
  },
  {
    "Topic": "POWER SYSTEM",
-   "Question": "Ensure availability of electricity to consumers at reasonable and competitive rates",
+   "Question": "Ensure availability of electricity to consumers at reasonable and competitive rates is an objective of ",
    "Option1": "National Electricity Policy 2005",
    "Option2": "Tariff Policy 2006",
    "Option3": "(A) and (B)",
@@ -415,7 +1936,7 @@ var questions = [
  },
  {
    "Topic": "POWER SYSTEM",
-   "Question": "Promote transparency, consistency and predictability in regulatory approaches across jurisdictions and minimise perceptions of regulatory risks",
+   "Question": "Promote transparency, consistency and predictability in regulatory approaches across jurisdictions and minimise perceptions of regulatory risks is an objective of the ",
    "Option1": "National Electricity Policy 2005",
    "Option2": "Tariff Policy 2006",
    "Option3": "(A) and (B)",
@@ -451,7 +1972,7 @@ var questions = [
  },
  {
    "Topic": "POWER SYSTEM",
-   "Question": "The no. of \"Electrical Regions\" into which the Country can be demarcated are:",
+   "Question": "The no. of Electrical Regions into which the Country can be demarcated are:",
    "Option1": "5",
    "Option2": "2",
    "Option3": "3",
@@ -586,7 +2107,7 @@ var questions = [
  },
  {
    "Topic": "POWER SYSTEM",
-   "Question": "To specify the principles, procedures and criteria which shall be used in the planning and development of the ISTS and inter-regional links",
+   "Question": "To specify the principles, procedures and criteria which shall be used in the planning and development of the ISTS and inter-regional links is an objective of the ",
    "Option1": "National Electricity Policy 2005",
    "Option2": "Tariff Policy 2006",
    "Option3": "Planning Code",
@@ -785,8 +2306,8 @@ var questions = [
  {
    "Topic": "POWER SYSTEM",
    "Question": "CERC was established under the provisions of ",
-   "Option1": "     Indian Electricity Act 1910",
-   "Option2": "      Electricity Supply Act 1948",
+   "Option1": "     Indian Electricity Act 1910",
+   "Option2": "      Electricity Supply Act 1948",
    "Option3": "ERC Act 1998",
    "Option4": " Electricity  \nAct 2003",
    "answer": 3
@@ -842,7 +2363,7 @@ var questions = [
    "Option1": "The Central Government",
    "Option2": "The Governor of the State",
    "Option3": "The Appellate Tribunal",
-   "Option4": " Independent \nentities",
+   "Option4": " Independent \nentities",
    "answer": 4
  },
  {
@@ -870,15 +2391,6 @@ var questions = [
    "Option2": "FALSE",
    "Option3": "-",
    "Option4": "-",
-   "answer": 2
- },
- {
-   "Topic": "POWER SYSTEM",
-   "Question": "POSOCO is a fully owned subsidiary of:",
-   "Option1": "NTPC",
-   "Option2": " Power Grid",
-   "Option3": "REC",
-   "Option4": "Ministry of Power",
    "answer": 2
  },
  {
@@ -1225,20 +2737,11 @@ var questions = [
  },
  {
    "Topic": "RingFencing",
-   "Question": "POSOCO is a fully owned subsidiary of:",
-   "Option1": "NTPC",
-   "Option2": " Power Grid",
-   "Option3": "REC",
-   "Option4": "Ministry of Power",
-   "answer": 2
- },
- {
-   "Topic": "RingFencing",
    "Question": "The State Electricity Regulatory Commissions work under the following:",
    "Option1": "The Central Government",
    "Option2": "The Governor of the State",
    "Option3": "The Appellate Tribunal",
-   "Option4": " As Independent \nentities",
+   "Option4": " As Independent \nentities",
    "answer": 4
  },
  {
@@ -1247,13 +2750,13 @@ var questions = [
    "Option1": "The Central Government",
    "Option2": "The Governor of the State",
    "Option3": "The Appellate Tribunal",
-   "Option4": "As an Independent \nentity",
+   "Option4": "As an Independent \nentity",
    "answer": 4
  },
  {
    "Topic": "RingFencing",
    "Question": "State Load Despatch Centers are mandated to work ",
-   "Option1": " As functionally Independent \nentities",
+   "Option1": " As functionally Independent \nentities",
    "Option2": "under the State government",
    "Option3": "Central Electricity Regulatory Commission",
    "Option4": "State Electricity Regulatory Commission",
@@ -1262,7 +2765,7 @@ var questions = [
  {
    "Topic": "RingFencing",
    "Question": "Regional Load Despatch Centers are mandated to work ",
-   "Option1": " As functionally Independent \nentities",
+   "Option1": " As functionally Independent \nentities",
    "Option2": "under the State government",
    "Option3": "Central Electricity Regulatory Commission",
    "Option4": "State Electricity Regulatory Commission",
@@ -1271,7 +2774,7 @@ var questions = [
  {
    "Topic": "RingFencing",
    "Question": "National Load Despatch Center is mandated to work ",
-   "Option1": " As functionally Independent \nentity",
+   "Option1": " As functionally Independent \nentity",
    "Option2": "under the State government",
    "Option3": "Central Electricity Regulatory Commission",
    "Option4": "State Electricity Regulatory Commission",
@@ -1288,7 +2791,7 @@ var questions = [
  },
  {
    "Topic": "RingFencing",
-   "Question": "The term \"Load Despatch Centers\" was explicitly mentioned for the first time in the",
+   "Question": "The term Load Despatch Centers was explicitly mentioned for the first time in the",
    "Option1": "Indian \nElectricity \nAct, 1910",
    "Option2": "1991 Amendment to the Electricity \n(Supply) Act, \n1948",
    "Option3": "Electricity Regulatory Commission Act 1998",
@@ -1387,7 +2890,7 @@ var questions = [
  },
  {
    "Topic": "RingFencing",
-   "Question": "CERC's Notification for RLDC Fees and Charges allocates the annual charges for the System Operation function and Market Operation Function in the ratio",
+   "Question": "CERCs Notification for RLDC Fees and Charges allocates the annual charges for the System Operation function and Market Operation Function in the ratio",
    "Option1": "50:50",
    "Option2": "60:40",
    "Option3": "70:30",
@@ -1396,7 +2899,7 @@ var questions = [
  },
  {
    "Topic": "RingFencing",
-   "Question": "As per the CERC's Notification for RLDC Fees and Charges Generating Stations & Sellers and Distribution Licensees & Buyers share the System Operation Charges each at the rate of",
+   "Question": "As per the CERCs Notification for RLDC Fees and Charges Generating Stations & Sellers and Distribution Licensees & Buyers share the System Operation Charges each at the rate of",
    "Option1": "40%",
    "Option2": "30%",
    "Option3": "45%",
@@ -1405,7 +2908,7 @@ var questions = [
  },
  {
    "Topic": "RingFencing",
-   "Question": "As per the CERC's Notification for RLDC Fees and Charges, Inter-State Transmission Licensees share the System Operation Charges at the rate of ",
+   "Question": "As per the CERCs Notification for RLDC Fees and Charges, Inter-State Transmission Licensees share the System Operation Charges at the rate of ",
    "Option1": "20%",
    "Option2": "30%",
    "Option3": "5%",
@@ -1414,7 +2917,7 @@ var questions = [
  },
  {
    "Topic": "RingFencing",
-   "Question": "As per the CERC's Notification for RLDC Fees and Charges, Market Operation Charges are recovered from ",
+   "Question": "As per the CERCs Notification for RLDC Fees and Charges, Market Operation Charges are recovered from ",
    "Option1": "Inter-State Transmission Licensees",
    "Option2": "Power Exchanges",
    "Option3": "Traders ",
@@ -1820,8 +3323,8 @@ var questions = [
  {
    "Topic": "Regulatory",
    "Question": "CERC was established under the provisions of ",
-   "Option1": "     Indian Electricity Act 1910",
-   "Option2": "      Electricity Supply Act 1948",
+   "Option1": "     Indian Electricity Act 1910",
+   "Option2": "      Electricity Supply Act 1948",
    "Option3": "ERC Act 1998",
    "Option4": " Electricity  \nAct 2003",
    "answer": 3
@@ -1829,7 +3332,7 @@ var questions = [
  {
    "Topic": "Regulatory",
    "Question": "ATE consists of ",
-   "Option1": "  Three Members",
+   "Option1": "  Three Members",
    "Option2": "Five Members",
    "Option3": "Four Members",
    "Option4": "Six Members",
@@ -2039,7 +3542,7 @@ var questions = [
    "Option1": "Constraints in Economic, environmental and regulatory aspects.",
    "Option2": "Co plexity in the operation of huge power system network",
    "Option3": "Continuously escalating fueo costs and depeleting resources",
-   "Option4": "  All of the above.",
+   "Option4": "  All of the above.",
    "answer": 4
  },
  {
@@ -2057,7 +3560,7 @@ var questions = [
    "Option1": "Only Voltage is within the acceptable limits",
    "Option2": " Only Voltage & frequency are within the acceptable limits",
    "Option3": " Voltage, frequency are within the acceptable limits but the system is unstable for the credible contingency conditions.",
-   "Option4": "  Voltage, frequency, equipment loadings are within the acceptable limits and system is stable for the credible contingency conditions.",
+   "Option4": "  Voltage, frequency, equipment loadings are within the acceptable limits and system is stable for the credible contingency conditions.",
    "answer": 4
  },
  {
@@ -2066,16 +3569,16 @@ var questions = [
    "Option1": " Frequency ,Voltage, equipment loadings are within acceptable limits, n-1 , n-2 outage acceptable, all loads met",
    "Option2": " Frequency ,Voltage, equipment loadings are within acceptable limits, n-1, n-2 outage not acceptable, all loads met",
    "Option3": " Frequency ,Voltage, equipment loadings are not within acceptable limits, all loads not met",
-   "Option4": "  None of the above",
+   "Option4": "  None of the above",
    "answer": 2
  },
  {
    "Topic": "Regulatory",
    "Question": "What does STOR stand for?",
    "Option1": " Storage Technology Operation Region",
-   "Option2": "  Short Term Operating Reserve",
-   "Option3": "  Short Terminology for Operator Region",
-   "Option4": "  Slow Temperature Operation Region",
+   "Option2": "  Short Term Operating Reserve",
+   "Option3": "  Short Terminology for Operator Region",
+   "Option4": "  Slow Temperature Operation Region",
    "answer": 2
  },
  {
@@ -2092,8 +3595,8 @@ var questions = [
    "Question": "The grid operation is a fundamentally important function for ",
    "Option1": "Utilities only",
    "Option2": " Transmission companies only",
-   "Option3": "  utilities, transmission companies & ISOs/RTOs",
-   "Option4": "  ISOs only",
+   "Option3": "  utilities, transmission companies & ISOs/RTOs",
+   "Option4": "  ISOs only",
    "answer": 3
  },
  {
@@ -2101,7 +3604,7 @@ var questions = [
    "Question": "The system if insecure, under disturbed condition will bring the normal operating state of a power system to",
    "Option1": "Alert",
    "Option2": " Restorative",
-   "Option3": "  Emergency",
+   "Option3": "  Emergency",
    "Option4": " In Extremis",
    "answer": 3
  },
@@ -2110,7 +3613,7 @@ var questions = [
    "Question": "Worldwide, the system operators & network companies will need to invest in ______ required to manage the complexity",
    "Option1": "Share markets",
    "Option2": " Control systems",
-   "Option3": "  Control & information systems",
+   "Option3": "  Control & information systems",
    "Option4": " None of\n the above",
    "answer": 3
  },
@@ -2144,7 +3647,7 @@ var questions = [
  {
    "Topic": "Regulatory",
    "Question": "The grid operators are continuing to work on developing ___________ processes so that they have better reflecting varying wind forecasting into reserve requirements.",
-   "Option1": "  Dynamic reserve for wind",
+   "Option1": "  Dynamic reserve for wind",
    "Option2": " Static reserve for wind",
    "Option3": " Optimum reserve for wind",
    "Option4": " None of \nthe above",
@@ -2153,8 +3656,8 @@ var questions = [
  {
    "Topic": "Regulatory",
    "Question": "Series compensators are devices which _______the apparent impedance of a circuit thus ___________ the transfer capability where it is limited by system stability.",
-   "Option1": "  Reduce, increasing",
-   "Option2": "  Increase, decreasing",
+   "Option1": "  Reduce, increasing",
+   "Option2": "  Increase, decreasing",
    "Option3": " Reduce, decreasing",
    "Option4": " Increase, \nincreasing ",
    "answer": 1
@@ -2171,7 +3674,7 @@ var questions = [
  {
    "Topic": "Regulatory",
    "Question": "The real time security monitoring functions does not include,",
-   "Option1": "  Network topology processing",
+   "Option1": "  Network topology processing",
    "Option2": " Observability Analysis",
    "Option3": " Contingency Analysis",
    "Option4": "State Estimation with bad data detection and elimination",
@@ -2181,9 +3684,9 @@ var questions = [
    "Topic": "Regulatory",
    "Question": "The operator request load flow, load forecasting, contingency analysis and fault study are functions of",
    "Option1": " Security Monitoring system",
-   "Option2": "  Security assessment",
-   "Option3": "  Security Control system",
-   "Option4": "  None of \nthe above",
+   "Option2": "  Security assessment",
+   "Option3": "  Security Control system",
+   "Option4": "  None of \nthe above",
    "answer": 2
  },
  {
@@ -2503,7 +4006,7 @@ var questions = [
  },
  {
    "Topic": "Metering",
-   "Question": "A 'Bulk consumer' avails supply at ",
+   "Question": "A Bulk consumer avails supply at ",
    "Option1": " 220 kV and above",
    "Option2": "33 kV and above",
    "Option3": "132 kV and above",
@@ -3052,7 +4555,7 @@ var questions = [
  },
  {
    "Topic": "GenTransFreq",
-   "Question": "Control area 'A' having 1500 MW generation and 2000 MW load is connected to the neighboring control Area 'B' having 3500 MW generation and 3000 MW load. What would be the flow on the tie line?",
+   "Question": "Control area A having 1500 MW generation and 2000 MW load is connected to the neighboring control Area B having 3500 MW generation and 3000 MW load. What would be the flow on the tie line?",
    "Option1": "Zero",
    "Option2": "500 MW from Control Area A to Control Area B",
    "Option3": "500 MW from Control Area B to Control Area A",
@@ -3061,7 +4564,7 @@ var questions = [
  },
  {
    "Topic": "GenTransFreq",
-   "Question": "Control area 'A' having 1500 MW generation and 2000 MW load is connected to the neighboring control Area 'B' having 3500 MW generation and 3000 MW load. What would happen to the frequency in Area A and Area B if the tie line trips? Assume nominal frequency as 50 Hz.",
+   "Question": "Control area A having 1500 MW generation and 2000 MW load is connected to the neighboring control Area B having 3500 MW generation and 3000 MW load. What would happen to the frequency in Area A and Area B if the tie line trips? Assume nominal frequency as 50 Hz.",
    "Option1": "There will be no change in the frequency ",
    "Option2": "Frequency in Control Area A will be rise above 50 Hz and and decrease to less than 50 Hz in Control Area B",
    "Option3": "Frequency in Control Area B will be rise above 50 Hz and and decrease to less than 50 Hz in Control Area A",
@@ -3214,9 +4717,9 @@ var questions = [
  },
  {
    "Topic": "GenTransFreq",
-   "Question": "Two machines, 'A' & 'B' of equal capacity have speed droop settings of 3% and 6% respectively. How will they share an increase in load.",
-   "Option1": "Machine 'B' picks up large portion of load",
-   "Option2": "Machine 'A' picks up large portion of load",
+   "Question": "Two machines, A & B of equal capacity have speed droop settings of 3% and 6% respectively. How will they share an increase in load.",
+   "Option1": "Machine B picks up large portion of load",
+   "Option2": "Machine A picks up large portion of load",
    "Option3": "Either  A or B",
    "Option4": "Neither A nor B",
    "answer": 2
@@ -3286,7 +4789,7 @@ var questions = [
  },
  {
    "Topic": "GenTransFreq",
-   "Question": "If a generator's excitation (field current) is reduced, VAR flow out of the generator-------------",
+   "Question": "If a generators excitation (field current) is reduced, VAR flow out of the generator-------------",
    "Option1": "Increases",
    "Option2": "Decreases",
    "Option3": "Remains unchanged",
@@ -4060,7 +5563,7 @@ var questions = [
  },
  {
    "Topic": "ProtectionMVAR",
-   "Question": "A generating unit running at 50 Hz and its rated  capacity of 300 MW  has 3 % speed droop. What will be the value of frequency if the unit's output requirement is reduced to 200 MW. ",
+   "Question": "A generating unit running at 50 Hz and its rated  capacity of 300 MW  has 3 % speed droop. What will be the value of frequency if the units output requirement is reduced to 200 MW. ",
    "Option1": "50 Hz",
    "Option2": "49.5 Hz",
    "Option3": "50.5 Hz",
@@ -4069,7 +5572,7 @@ var questions = [
  },
  {
    "Topic": "ProtectionMVAR",
-   "Question": "A 500 MW generating unit running at 50 Hz and 300 MW load has 5 % speed droop. What will be the unit's output if the frequency drops to 49.5 Hz",
+   "Question": "A 500 MW generating unit running at 50 Hz and 300 MW load has 5 % speed droop. What will be the units output if the frequency drops to 49.5 Hz",
    "Option1": "400 MW",
    "Option2": "250 MW",
    "Option3": "500 MW",
@@ -4186,7 +5689,7 @@ var questions = [
  },
  {
    "Topic": "PoC-Regulatory",
-   "Question": "As per the provisions of the Sharing of Inter-State Charges Regulations, 'Target Region' means the region to which a generator proposes to sell power after obtaining ------------------access from CTU",
+   "Question": "As per the provisions of the Sharing of Inter-State Charges Regulations, Target Region means the region to which a generator proposes to sell power after obtaining ------------------access from CTU",
    "Option1": "Short Term",
    "Option2": "Medium Term ",
    "Option3": "Long Term ",
@@ -4771,7 +6274,7 @@ var questions = [
  },
  {
    "Topic": "PoC-Regulatory",
-   "Question": "Who is responsible for making 'Procedure for Sharing of ISTS Transmission charges & Loss' for approval of Commission?",
+   "Question": "Who is responsible for making Procedure for Sharing of ISTS Transmission charges & Loss for approval of Commission?",
    "Option1": "CEA",
    "Option2": "MOP",
    "Option3": "NLDC",
@@ -5014,7 +6517,7 @@ var questions = [
  },
  {
    "Topic": "PoC-Regulatory",
-   "Question": "In 2017, a generator in WR has availed 100 MW LTA to NR as target region. From 1st Jan 2019, the generator was granted MTOA for 50 MW to Punjab. The generator's liability to pay POC charge for this LTA shall be adjusted for ____MW in the bill raised in___.",
+   "Question": "In 2017, a generator in WR has availed 100 MW LTA to NR as target region. From 1st Jan 2019, the generator was granted MTOA for 50 MW to Punjab. The generators liability to pay POC charge for this LTA shall be adjusted for ____MW in the bill raised in___.",
    "Option1": "100 MW, Jan 2019",
    "Option2": "50 MW, Feb 2019",
    "Option3": "50 MW Jan 2019",
@@ -5041,7 +6544,7 @@ var questions = [
  },
  {
    "Topic": "PoC-Regulatory",
-   "Question": "A DIC in WR is having 100 MW LTA to a target region NR. It avails STOA to ER for 120 MW in January 2019. It pays Rs 14.4 lakh towards transmission charge for STOA and Rs 10 lakh as part payment of POC charge towards target LTA in Jan'2019. The max. offset in POC charge that the DIC will get in Feb'19 is____.",
+   "Question": "A DIC in WR is having 100 MW LTA to a target region NR. It avails STOA to ER for 120 MW in January 2019. It pays Rs 14.4 lakh towards transmission charge for STOA and Rs 10 lakh as part payment of POC charge towards target LTA in Jan2019. The max. offset in POC charge that the DIC will get in Feb19 is____.",
    "Option1": "14.4 lakh",
    "Option2": "10 lakh",
    "Option3": "No offset ",
@@ -5473,7 +6976,7 @@ var questions = [
  },
  {
    "Topic": "PowerExchange",
-   "Question": "Short term open access schedules in case of \"Advance scheduling\" or “First-Cum-First Served basis” may be cancelled or revised",
+   "Question": "Short term open access schedules in case of Advance scheduling or “First-Cum-First Served basis” may be cancelled or revised",
    "Option1": "by giving minimum three  days notice",
    "Option2": "by giving minimum five days notice",
    "Option3": "by giving minimum two days notice",
@@ -5985,8 +7488,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
-   "Question": "Bulk Consumer",
+   "Topic": "OA-Connectivity-Regulatory",
+   "Question": "Bulk Consumer in respect of connectivity for OA means one who intends to avail supply of a minimum load of ",
    "Option1": "10 MW",
    "Option2": "50 MW",
    "Option3": "100 MW",
@@ -5994,8 +7497,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
-   "Question": "Connectivity",
+   "Topic": "OA-Connectivity-Regulatory",
+   "Question": "Connectivity for a generating station, including a captive generating plant, a bulk consumer or an inter-state transmission licence means the state of getting connected to the",
    "Option1": "any part of the Grid through 220 kV lines and above",
    "Option2": "any transmission licences network",
    "Option3": "Inter-state transmission system",
@@ -6003,7 +7506,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "“short-term open access” means open access ",
    "Option1": "for a period up to one (1) month at one time",
    "Option2": "for a period from one(1) month to three (3) months ",
@@ -6012,7 +7515,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "A captive plant may apply for connectivity if its exportable capacity is ",
    "Option1": "More than 300 MW",
    "Option2": "More than 500 MW",
@@ -6021,7 +7524,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "A Generator in Karnataka is having a STOA-Bilateral contract of 100 MW with Haryana through SR-WR-NR.  Injection PoC Loss of Karnataka = 3% and Withdrawal PoC Loss of Haryana is 1%. What should be the injection schedule for generator at Karnataka-SR ISTS Boundary?",
    "Option1": "100 MW",
    "Option2": "103.09 MW",
@@ -6030,7 +7533,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "A hydro power plant (other than CPP) shall not be requied to constuct a dedicated transmission line for long-term access if its capacity is a minimum of",
    "Option1": "100 MW",
    "Option2": "200 MW",
@@ -6039,7 +7542,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "A medium-term customer may relinquish rights, fully or partly, by giving at \nleast …….. days prior notice to the nodal agency",
    "Option1": "30",
    "Option2": "60",
@@ -6048,7 +7551,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "A state X has declared his STU charges as Rs.1110/MW/day. The STU charges that RLDC would consider for X in Rs/MWh would be",
    "Option1": "46.25",
    "Option2": "80",
@@ -6057,7 +7560,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "A STOA customer applies for the first time for a transaction and the concerned state  has necessary infrastructure for concurring the transaction. Latest within what period should SLDC concur  the ‘no objection’? ",
    "Option1": " Within three   (3)  working days ",
    "Option2": " Within two (2) working days ",
@@ -6066,7 +7569,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "A STOA customer desires to undertake an advance STOA for the month of Dec. It would submit the application latest by",
    "Option1": "Oct. 26",
    "Option2": "Sept. 30",
@@ -6075,7 +7578,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "A thermal power plant (other than CPP) shall not be requied to constuct a dedicated transmission line for long-term access if its capacity is a minimum of",
    "Option1": "250 MW",
    "Option2": "500 MW",
@@ -6084,16 +7587,16 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "A transaction of 200MW is taking place over a transmission link. The composition of transaction is as 100 MW Long term, 20 MW Medium Term, 30 MW Short Term bilateral and 50 MW Collective. Due to transmission constraints 20MW of transaction is to be curtailed. What would be the composition of transaction after curtailment.",
    "Option1": "100 MW Long Term, 30 MW Short Term bilateral , 50 MW Collective",
    "Option2": " 80   MW Long Term, 20 MW Medium Term, 30 MW Short term bilateral, 50 MW collective",
-   "Option3": "   100  MW Long Term,  20 MW Medium term, 10  MW Short term bilateral, 50 MW collective",
-   "Option4": "   100 MW long Term, 20 MW Medium term, 7.5 MW Short Term bilateral , 12.5 MW collective ",
+   "Option3": "   100  MW Long Term,  20 MW Medium term, 10  MW Short term bilateral, 50 MW collective",
+   "Option4": "   100 MW long Term, 20 MW Medium term, 7.5 MW Short Term bilateral , 12.5 MW collective ",
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "After having Grant of Connectivity only, an applicant may interchange power with the Grid under\n\n",
    "Option1": "Only LTA",
    "Option2": "Only MTOA",
@@ -6102,7 +7605,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "An advance scheduling application received on 22nd June for the month of July can be processed as --------category",
    "Option1": "Advance only",
    "Option2": "FCFS",
@@ -6111,7 +7614,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "An application for long-term access shall be accompanied with a bank guarantee of Rs. …… per MW",
    "Option1": "5000/-",
    "Option2": "10000/-",
@@ -6120,7 +7623,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "An application received on 12th March at 17:30 Hrs for scheduling on 13th March would be treated under",
    "Option1": "day ahead basis",
    "Option2": "contingency basis",
@@ -6129,7 +7632,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "An application received on 23rd April for scheduling 16th May can be processed after",
    "Option1": "25th April",
    "Option2": "30th April",
@@ -6138,7 +7641,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Application Fee for Long-term access for generating Station of \ngreater than 1000 MW in Rs. Lakhs is",
    "Option1": "5",
    "Option2": "7",
@@ -6147,7 +7650,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Application Fee for Medium-term open access for generating Station between 500 MW and 1000 MW in Rs. Lakhs is",
    "Option1": "3",
    "Option2": "5",
@@ -6156,7 +7659,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Application Fee for Medium-term open access for generating Station of \ngreater than 1000 MW in Rs. Lakhs is",
    "Option1": "4",
    "Option2": "6",
@@ -6165,7 +7668,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "applications for long-term access requiring planning or augmentation of transmission system, shall be considered on",
    "Option1": "31st March of each year",
    "Option2": "30th September of each year",
@@ -6174,7 +7677,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Applications on day ahead basis can be processed ",
    "Option1": "after completion of PX processing on pro-rata basis",
    "Option2": "after completion of PX processing as per order of time of receipt",
@@ -6183,7 +7686,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "As per IE Act, CTU cannot engage in ",
    "Option1": "generation & trading",
    "Option2": "trading only",
@@ -6192,7 +7695,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "As per IE Act, STU cannot engage in ",
    "Option1": "Generation",
    "Option2": "Trading",
@@ -6201,7 +7704,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "As per IE Act, Transmission licensee cannot engage in ",
    "Option1": "generation & trading",
    "Option2": "trading only",
@@ -6210,7 +7713,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "As per revised procedure applications received upto ----Hrs for the next day under contingency category would be taken up together",
    "Option1": "15:00 hrs",
    "Option2": "17:00Hrs",
@@ -6219,7 +7722,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "As per the approved e_bidding procedure for STOA,the minimum bid price is",
    "Option1": "Rs10/MWh",
    "Option2": "Rs.1/unit",
@@ -6228,7 +7731,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "As per the approved e_bidding procedure for STOA,the tick price would be in multiples of",
    "Option1": "Rs10/MWh",
    "Option2": "Rs.1/unit",
@@ -6237,7 +7740,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Bulk consumer in respect to the connectivity to the ISTS means a consumer with a minimum load of _________",
    "Option1": "100 MW",
    "Option2": "200 MW",
@@ -6246,7 +7749,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "CTU shall disburse transmission charges as follows:",
    "Option1": "Full amount receivable",
    "Option2": "Only amount received on Pro-rata basis",
@@ -6255,7 +7758,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Downward revision of STOA under unit tripping would be applicable from",
    "Option1": "4th time block of unit tripping",
    "Option2": "4th time block of intimation to RLDC",
@@ -6264,7 +7767,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "During schedule curtailment by RLDC for transmission constraint, the order followed is:",
    "Option1": "1.Long term  2.Bilateral Transactions 3.CollectiveTransactions                 4.  Medium term",
    "Option2": "1.Bilateral Transactions;  2.CollectiveTransactions; 3.  Medium term; 4. Long term    ",
@@ -6273,7 +7776,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Each STOA transaction needs to have a resolution of-----MW at each State/Regional Boundary",
    "Option1": "0.001",
    "Option2": "0.01",
@@ -6282,7 +7785,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "e-bidding would be applicable for the following category of transactions",
    "Option1": "Advance only",
    "Option2": "Advance & FCFS",
@@ -6291,7 +7794,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "facility of adjustment of STOA charges paid by a DIC, against LTA charges paid ",
    "Option1": "would not be available for portfolio traders",
    "Option2": "would be available against STOA through protfolio traders to target region",
@@ -6300,7 +7803,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Fees and charges for the RLDC shall be payable by",
    "Option1": "Only long-term customers",
    "Option2": "Only medium term customers",
@@ -6309,7 +7812,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For a day ahead application received at 16:00 Hrs the same would be treated under ----category",
    "Option1": "day ahead",
    "Option2": "contingency ",
@@ -6318,7 +7821,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For a transaction of 100MW Round the clock power(RTC) from 10th June to 30th June, if the application for downward revision for the full period to 50MW RTC power is received on 10th June, the total MWh billed would be",
    "Option1": "26400",
    "Option2": "31200",
@@ -6327,7 +7830,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For a transaction of 100MW Round the clock power(RTC) from 10th June to 30th June, if the application for downward revision for the full period to 50MW RTC power is received on 7th June, the MWh additionally payable would be",
    "Option1": "Nil",
    "Option2": "2400",
@@ -6336,7 +7839,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For a transaction of 100MW Round the clock power(RTC) from 10th June to 30th June, if the application for downward revision for the full period to 50MW RTC power is received on 7th June, the total MWh billed would be",
    "Option1": "50400",
    "Option2": "25200",
@@ -6345,7 +7848,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For advance application received on 15th June for the month of August, processing would have to be completed by",
    "Option1": "20th June",
    "Option2": "25th June",
@@ -6354,7 +7857,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For advance application received on 16th June for the month of July, processing would have to be completed by",
    "Option1": "20th June",
    "Option2": "25th June",
@@ -6363,7 +7866,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For advance application received on 18th June for the month of September, the processing would have to be completed by",
    "Option1": "20th June",
    "Option2": "25th June",
@@ -6372,7 +7875,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For advance application received on 22nd June for the month of July can be processed as --------category",
    "Option1": "Advance only",
    "Option2": "FCFS",
@@ -6381,7 +7884,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For an STOA contract of 100MW between DVC to PSEB with 2% DVC injection loss & 1.5% PSEB withdrawal POC loss, how much would PSEB be able to draw?",
    "Option1": "98MW",
    "Option2": "98.5MW",
@@ -6390,7 +7893,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For an STOA contract of 100MW between DVC to PSEB with 2% DVC injection loss & 1.5% PSEB withdrawal POC loss, what would  DVC need to inject?",
    "Option1": "102.04 MW",
    "Option2": "100MW",
@@ -6399,7 +7902,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For an STOA contract of 100MWh between X and Y for three days, with either case of path ER-WR-NR or ER-NR direct, the transmission charges and total value of bill would differ by",
    "Option1": "Be both same",
    "Option2": "Transmission charges and total bill would differ by Rs.6000/-",
@@ -6408,7 +7911,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For case where infrastructure & available transmission margins are already established, SLDC concurrance is to be given within ----------------days",
    "Option1": "3",
    "Option2": "5",
@@ -6417,7 +7920,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For downward revision of STOA under unit tripping, following concurrances are required",
    "Option1": "all concerned RLDCs",
    "Option2": "RLDC where the generator is situated",
@@ -6426,7 +7929,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For downward revision of STOA under unit tripping, following must be furnished",
    "Option1": "Intimation of tripping only",
    "Option2": "Intimtion of tripping & expected restoration time",
@@ -6435,7 +7938,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For Grant of MTOA & LTA, when would the CTU notify TTC/ATC (as per procedures)",
    "Option1": "once every 6 months",
    "Option2": "once every year",
@@ -6444,7 +7947,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For Long Term Access applications requiring augmentation, studies/planning would be done as follows:",
    "Option1": "Every three months",
    "Option2": "Quarterly",
@@ -6453,7 +7956,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For processing the Collective Transactions through Power Exchange,margin available is ",
    "Option1": " after permitting advance and first-come-first-serve transactions",
    "Option2": " after permitting advance  transactions only",
@@ -6462,7 +7965,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For release of under-utilized capacity of MTOA, refund to MTOA customer would amount to ________",
    "Option1": "amount excess of exit penalty for MTOA customers",
    "Option2": "Nil",
@@ -6471,7 +7974,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For renewal of LTA , such request for renewal has to be given at least ____ months prior to expiry of the LTA",
    "Option1": "6",
    "Option2": "12",
@@ -6480,7 +7983,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For which of the following category of transactions, would e-bidding be applicable? ",
    "Option1": "Advance only",
    "Option2": "Advance & FCFS",
@@ -6489,7 +7992,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "For which of the following would, transmission augmentation studies be required?",
    "Option1": "LTA & MTOA",
    "Option2": "LTA only",
@@ -6498,7 +8001,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "From which time block would downward revision of STOA under unit tripping be applicable?",
    "Option1": "4th time block of unit tripping",
    "Option2": "4th time block of intimation to RLDC",
@@ -6507,8 +8010,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
-   "Question": "How can short term open access schedules in case of \"Advance scheduling\" or “First-Cum-First Served basis” be cancelled or revised?",
+   "Topic": "OA-Connectivity-Regulatory",
+   "Question": "How can short term open access schedules in case of Advance scheduling or “First-Cum-First Served basis” be cancelled or revised?",
    "Option1": "by giving minimum three  days notice",
    "Option2": "by giving minimum five days notice",
    "Option3": "by giving minimum two days notice",
@@ -6516,7 +8019,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "If an intra-State entity is applying for long-term  access or medium-term open access, and necessary infrastructure required for energy metering and time-blockwise accounting already exists and required transmission capacity in the State network is available, concurrence of the State Load Despatch Centre shall be accorded in",
    "Option1": "10 days",
    "Option2": "15 days",
@@ -6525,7 +8028,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "If for a transaction approved for the entire month of June, if the quantum is revised to zero for first ten days of month  the operating charges payable would be for",
    "Option1": "20 days",
    "Option2": "22 days",
@@ -6534,7 +8037,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "If for a transaction approved for the entire month of June, if the quantum is revised to zero for the entire month  the operating charges payable would be for",
    "Option1": "Nil",
    "Option2": "1 day",
@@ -6543,7 +8046,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "If required, transmission capacity can be created for only _______.",
    "Option1": "Long-term access",
    "Option2": "medium term access",
@@ -6552,7 +8055,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case a transaction of 100 MW RTC power for 10 days is curtailed by 50% due to transmission constraints, the operating charges would be payable for",
    "Option1": "10 days",
    "Option2": "5 days",
@@ -6561,7 +8064,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case a transaction of quantum 100MWh is curtailed by 20% due to transmission constraints, the transmission charges would be payable for",
    "Option1": "100MWh",
    "Option2": "80MWh",
@@ -6570,7 +8073,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case connectivity of a generating station, including captive generating plant  or bulk consumer is granted to the inter-State \ntransmission system of an inter-State transmission licensee other than the Central Transmission Utility, then Connection Agreement is to be signed between",
    "Option1": "applicant and CTU",
    "Option2": "applicant and ISTS licensee other than CTU",
@@ -6579,7 +8082,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case of congestion for STOA transactions in sdvance category the following options are available to applicants",
    "Option1": "revision of applications",
    "Option2": "Revision & re-routing",
@@ -6588,7 +8091,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case of connectivity to a ISTS licensee substation which is not owned by CTU, ____",
    "Option1": "connectivity & agreements are not required",
    "Option2": "Connectivity with ISTS licensee would require agreement with the licensee",
@@ -6597,7 +8100,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case of e-bidding process,the Applicant getting approval for scheduling equal to the scheduling request sought by him shall pay the charges",
    "Option1": "quoted by him",
    "Option2": "quoted by the last Applicant getting approval of its full scheduling request",
@@ -6606,7 +8109,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case of refunds arising due to curtailment/revision of Bilateral transactions during the previous month, the same shall be disbursed to the concerned applicants",
    "Option1": "by 20th day of the current month.",
    "Option2": "by 5th day of the current month.",
@@ -6615,7 +8118,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case of re-routing of power for an STOA transaction from ER-NR direct path to ER-WR-NR path",
    "Option1": "Both Transmission charges & Operating charges would increase",
    "Option2": "Transmission charge increases but operating charge remains same",
@@ -6624,7 +8127,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case of under-utilization of granted MTOA, such transmission capacity may be released for",
    "Option1": "LT & other MT customers",
    "Option2": "Other MT customers",
@@ -6633,7 +8136,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Inter State interface meters are to be installed by",
    "Option1": "STU",
    "Option2": "CTU",
@@ -6642,7 +8145,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Inter-State market where buyers and sellers directly transact or transact through an Electricity Trader is known as",
    "Option1": "Over the Counter Market",
    "Option2": "Power Exchange Market",
@@ -6651,7 +8154,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Long-term customer who has not availed access rights for at least 12 years and wants to relinquish his rights such customer shall pay an amount equal to a certain percentage of the estimated transmission charges (net present value) for the stranded transmission capacity for the period falling short of 12 (twelve) years of access rights. This % is",
    "Option1": "33%",
    "Option2": "50%",
@@ -6660,7 +8163,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Losses would be absorbed by Buyers in case of (I) STOA (ii) PX (iii) MTOA (iv) LTA",
    "Option1": "(I) and (ii)",
    "Option2": "(I) and (iii)",
@@ -6669,7 +8172,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Medium-term open access means right to use ISTS for periods",
    "Option1": "exceeding 3 months but not exceeding 3 years",
    "Option2": "exceeding 6 months but not exceeding 1 year",
@@ -6678,7 +8181,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Nodal agency for granting access to ISTS is",
    "Option1": "CERC",
    "Option2": "Regional Power Committee",
@@ -6687,7 +8190,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "PoC rates for short term open access are expressed in _______",
    "Option1": "Rs/MW/Month",
    "Option2": "ps/kwh",
@@ -6696,7 +8199,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Recovery of transmission charges for use of ISTS shall be recovered from long-term, medium term and short-term customers in accordance with",
    "Option1": "terms & conditions of tariff specified by CERC",
    "Option2": "Directions issued by MoP from time to time",
@@ -6705,7 +8208,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Refunds due to curtailments/revisions are to be done by-------day of  month",
    "Option1": "5th ",
    "Option2": "10th",
@@ -6714,7 +8217,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Renewables/Hydro < 50MW individually but collectively > 50MW can seek ISTS connectivity if _________",
    "Option1": "they are connected at a single point",
    "Option2": "they are connected at a single pt & have a lead generator",
@@ -6723,7 +8226,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Responsibility for carrying out necessary system studies before grant of long-term access is with",
    "Option1": "CEA",
    "Option2": "RLDC",
@@ -6732,7 +8235,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Revision of STOA schedules for Day ahead & contingency can be done  for",
    "Option1": "Transmission constraints only",
    "Option2": "Transmission constraints and unit tripping ",
@@ -6741,7 +8244,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Revision of STOA schedules under normal conditions can be done for",
    "Option1": "Advance only",
    "Option2": "Advance & FCFS Transactions only",
@@ -6750,7 +8253,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Scheduling of transactions pursuant to long-term & medium-term OA shall be carried out ",
    "Option1": "on day ahead basis",
    "Option2": "on week ahead basis",
@@ -6759,8 +8262,8 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
-   "Question": "Short term open access schedules in case of \"Advance scheduling\" or “First-Cum-First Served basis” may be cancelled or revised",
+   "Topic": "OA-Connectivity-Regulatory",
+   "Question": "Short term open access schedules in case of Advance scheduling or “First-Cum-First Served basis” may be cancelled or revised",
    "Option1": "by giving minimum three  days notice",
    "Option2": "by giving minimum five days notice",
    "Option3": "by giving minimum two days notice",
@@ -6768,8 +8271,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
-   "Question": "Stranded transmission capacity' means the transmission capacity in the inter state transmission system which is likely to remain unutilized due to ",
+   "Topic": "OA-Connectivity-Regulatory",
+   "Question": "Stranded transmission capacity means the transmission capacity in the inter state transmission system which is likely to remain unutilized due to ",
    "Option1": "Margins available in ISTS due to outage of ISGS",
    "Option2": "Margins available in ISTS during real time operation due to change of utility demand",
    "Option3": "Margins available due to relinquishment of access rights by a long term customer",
@@ -6777,7 +8280,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The adjustment of STOA charges against LTA charges(without beneficiaries) paid would be applicable for ",
    "Option1": "All STOA and Collective transactions",
    "Option2": "For STOA to the same target region only",
@@ -6786,7 +8289,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The applicant for Connectivity need not make a fresh application if there is a change in the power to be interchanged with the ISTS upto",
    "Option1": "50 MW",
    "Option2": "75 MW",
@@ -6795,7 +8298,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The cap rate for infirm power injected into the grid by a imported coal based generating station after synchronization and upto date of commercial operation during testing would be ",
    "Option1": "Rs. 5.00 per unit",
    "Option2": "Rs. 2.00 per unit",
@@ -6804,7 +8307,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The following would not be required to construct a dedicated line for upto point of connection with CTU",
    "Option1": "Thermal generator >= 250MW and hydro/renewables >= 50MW",
    "Option2": "All generators >= 250MW",
@@ -6813,7 +8316,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The infirm power injected into the grid after synchronization and upto date of commercial operation during testing would be charged at ……… subject to a cap rate",
    "Option1": "Rs 3 per unit",
    "Option2": "Rs. 2 per unit",
@@ -6822,7 +8325,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The latest Regulations on Long-term access allows",
    "Option1": "Connectivity after Long-term Access",
    "Option2": "Long-term access after Connectivity",
@@ -6831,7 +8334,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The name of the Agreement to be signed subsequent to getting connectivity from the CTU",
    "Option1": "Connection Agreement",
    "Option2": "Long-term Access Agreement",
@@ -6840,7 +8343,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The start date of the medium-term open access shall not be earlier than ……. months from the last day of the month in which application has been made.  ",
    "Option1": "3",
    "Option2": "4",
@@ -6849,7 +8352,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The study to be carried out by CTU when an applicant seeks connectivity is called ",
    "Option1": "System Studies",
    "Option2": "Interconnection study",
@@ -6858,7 +8361,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The transmission charges for State network would be collected by--------and payable to----------",
    "Option1": "SLDC, STU",
    "Option2": "RLDC, CTU",
@@ -6867,7 +8370,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Time limit for processing of application for long-term access where system augmentation is not required is ",
    "Option1": "120 days from last day of the month of receipt of application",
    "Option2": "180 days from last day of the month of receipt of application",
@@ -6876,7 +8379,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Time limit for processing of application for medium-term access",
    "Option1": "60 days from last day of the month of receipt of application",
    "Option2": "40 days from last day of the month of receipt of application",
@@ -6885,7 +8388,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Transmission augmentation studies would be required for the following",
    "Option1": "LTA & MTOA",
    "Option2": "LTA only",
@@ -6894,7 +8397,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Transmission charges for all ISTS licensees would be collected and disbursed by the",
    "Option1": "CTU   ",
    "Option2": "would be collected individually by licensees as billed by CTU",
@@ -6903,7 +8406,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Two applications for contingency for next day received at 18:15Hrs and 21:00 Hrs would be processed on",
    "Option1": "as per order of receipt",
    "Option2": "pro-rata basis",
@@ -6912,7 +8415,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Two plants G1 and G2 connected to a common ISTS Point and having LTA(without PPA) to NR and SR respectively if enter into STOA sale contract through portfoilio trader would get their STOA charges reimbursed back if ",
    "Option1": "STOA sale is to NR & SR in ratio 50:50 ",
    "Option2": "STOA sale is either to NR or SR",
@@ -6921,7 +8424,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Under which CERC Open Access Regulations, RLDC may deny open access to users ",
    "Option1": "Regulation 26",
    "Option2": "Regulation 25A",
@@ -6930,7 +8433,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Under which section of Electricity Act STU function is to provide non-discriminatory Open Access to users ",
    "Option1": "Section 38 of the Act",
    "Option2": "Section 39 of the Act",
@@ -6939,7 +8442,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "What happens after the expiry of the period of long-term access if extension is sought ?",
    "Option1": "Extension cannot be sought.",
    "Option2": "A written request must come from the applicant at least 6 months in advance.",
@@ -6948,7 +8451,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "When can applications on day ahead basis be processed?",
    "Option1": "after completion of Power Exchange processing on pro-rata basis",
    "Option2": "after completion of Power Exchange  processing as per order of time of receipt",
@@ -6957,7 +8460,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "When shall an application for inter-State scheduling for Bilateral Transactions during the third month be made?",
    "Option1": "up to seven (7) days prior to the close of the first month",
    "Option2": "up to the last day of the first month",
@@ -6966,7 +8469,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Which of the following applicants are eligible for grant of connectivity to the ISTS \n(a) 3 hydro stations of 20MW each connected at a single point & having a lead generator \n(b)renewables of aggregate capacity 40MW tied at a single point with lead generator \n(c ) a consumer with minimum load of  250MW aggregate \n(d) a CPP with load of 200MW and generation of 300MW max.",
    "Option1": "a only",
    "Option2": "a and b",
@@ -6975,7 +8478,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Which of the following applicants are eligible for grant of connectivity to the ISTS \n(a) 5 hydro stations of capcity 10 MW each connected at a single point with lead generator \n(b) 5 wind farms of capacity 20MW each connected at a single pt & no lead generator (c ) Consumer of min. load 150MW \n(d) two thermal generators of 140MW capacity each connected to a single pt with lead generator",
    "Option1": "a only",
    "Option2": "a and b",
@@ -6984,7 +8487,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Which of the following applicants are eligible for grant of connectivity to the ISTS \n(a) 50MW hydro \n(b ) CPP with load = 100MW  and generation = 500MW \n(c) a wind generator collectively > 50MW  at a single point with lead generator \n(d) Thermal generator of size 210MW",
    "Option1": "a only",
    "Option2": "a and b",
@@ -6993,7 +8496,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Which of the following applicants are eligible for grant of connectivity to the ISTS \n(a) A 250MW thermal plant\n(b) A 50MW hydro plant \n(c ) CPP with house load =generation \n(d)  A renewable generator with aggregated generation < 50MW",
    "Option1": "a only",
    "Option2": "a and b",
@@ -7002,7 +8505,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Which of the following is true.",
    "Option1": "Medium-term open access is granted if the resultant power flow \ncan be accommodated in the existing transmission system or the transmission \nsystem under execution",
    "Option2": "The nodal agency for grant of connectivity, long-term access and mediumterm open access to the inter-State transmission system is Central \nElectricity Authority",
@@ -7011,7 +8514,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Which of the following shall be applicable, in case sufficient transmission margin does not exist for the MTOA quantum applied?",
    "Option1": "Augmentation of transmission system shall be done",
    "Option2": "Curtailed consent for the MTOA application would be given subject to acceptance by applicant",
@@ -7020,7 +8523,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "While processing applications for long-term and medium term access priority is for",
    "Option1": "long-term access",
    "Option2": "medium term access",
@@ -7029,7 +8532,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Who is the nodal agency for grant of connectivity to the ISTS?",
    "Option1": "RLDC",
    "Option2": "SLDC",
@@ -7038,7 +8541,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Who provides the interface meters for intra state entities ?",
    "Option1": "CTU",
    "Option2": "STU",
@@ -7047,7 +8550,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Who provides the interface meters for regional entities",
    "Option1": "CTU",
    "Option2": "STU",
@@ -7056,7 +8559,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Who shall collect and disburse the transmission charges for all ISTS licensees? ",
    "Option1": "CTU   ",
    "Option2": "they would be collected individually by licensees but billed by CTU",
@@ -7065,7 +8568,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Who would be the nodal RLDC in case of a transaction for sale from Arunachal Pradesh in NER to Nepal via  ER and NR?",
    "Option1": "NERLDC",
    "Option2": "ERLDC",
@@ -7074,7 +8577,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Whose concurrances are required for downward revision of STOA under unit tripping? ",
    "Option1": "all concerned RLDCs",
    "Option2": "RLDC where the generator is situated",
@@ -7083,7 +8586,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The STOA operating charges include fee for",
    "Option1": "scheduling",
    "Option2": "system operation",
@@ -7092,7 +8595,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case of collective transaction, operating charges shall be payable by the power exchange to NLDC at the rate of  -----    Rs per day for each State involved",
    "Option1": "5000",
    "Option2": "2000",
@@ -7101,7 +8604,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case of Bilateral transaction, RLDC operating charges shall be payable by the applicant at the rate of ----    Rs per day",
    "Option1": "5000",
    "Option2": "2000",
@@ -7110,7 +8613,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case of Bilateral transaction, SLDC operating charges shall be payable by the applicant to RLDC at the rate of ----     Rs per day only if the operating charges have not been notified by the respective State Commission",
    "Option1": "5000",
    "Option2": "3000",
@@ -7119,7 +8622,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case of Bilateral transaction, STUcharges shall be payable by the applicant to RLDC at the rate of ----     Rs/MWH only if the STU charges have not been notified by the respective State Commission",
    "Option1": "100",
    "Option2": "90",
@@ -7128,7 +8631,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In case of Collective transaction, STU charges shall be payable by the applicant to SLDC at the rate of ----     Rs/MWH only if the STU charges have not been notified by the respective State Commission",
    "Option1": "100",
    "Option2": "90",
@@ -7137,7 +8640,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "In the case of collective transactions, the transmission charges for State network and Operating charges for the SLDCs shall be directly settled by the Power Exchange(s) with",
    "Option1": "NLDC ",
    "Option2": "RLDC",
@@ -7146,7 +8649,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "POC charge are not applicable in STOA transaction from which type of  generator",
    "Option1": "E-bid gas",
    "Option2": "Solar ",
@@ -7155,7 +8658,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "POC rate (Paise/KWH) for STOA transaction is ",
    "Option1": "POC slab rate (Paise/KWH)",
    "Option2": "Reliability support charge rate (Paise/KWH)",
@@ -7164,7 +8667,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "As per IEGC Fifth Amedment intimation of Unit tripping can be made by",
    "Option1": "Genarator Only",
    "Option2": "Trading Agency of the trancation",
@@ -7173,7 +8676,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Number of Revisions in restoration time of a tripped unit can be made???",
    "Option1": "One only",
    "Option2": "once in a day",
@@ -7182,7 +8685,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "What is NOAR",
    "Option1": "National Opena Access Record",
    "Option2": "NLDC Open Access Record",
@@ -7191,16 +8694,16 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "By which date the NOAR is implemented ",
    "Option1": "Yet to implement",
-   "Option2": "02-Jan-19",
+   "Option2": "2-Jan-19",
    "Option3": "29-Dec-18",
    "Option4": "15-Dec-18",
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "As per Fifth amendment of Open Access in interState Transmission standing clerance for the maximum period can be issued for ……. months ",
    "Option1": "1",
    "Option2": "2",
@@ -7209,7 +8712,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Registration fee for OA applicant on NOAR is Rs…..",
    "Option1": "2000",
    "Option2": "10000",
@@ -7218,7 +8721,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Standing clearance  shall be issued within three (3) working days of receipt of Standing Clerance application. When??",
    "Option1": "Existence of necessary infrastructure, availability of surplus transmission capacity, and submission of declaration have been established",
    "Option2": "Existence of infrastructure necessary for time-block wise energy metering and accounting",
@@ -7227,7 +8730,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Nodal Agency of NOAR is ",
    "Option1": "RLDC in which drawee utility is situated",
    "Option2": "SLDC",
@@ -7236,7 +8739,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Standing Clerarance will be issued by…",
    "Option1": "NLDC ",
    "Option2": "Only RLDC",
@@ -7245,7 +8748,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "As per regulation Payment towards Approval is to be made to Nodal RLDC",
    "Option1": "Through Cheque Only",
    "Option2": "payment gateway Only",
@@ -7254,8 +8757,8 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
-   "Question": "Who authorises an entity as 'Solar Power park developer, in respect of Long term Access?",
+   "Topic": "OA-Connectivity-Regulatory",
+   "Question": "Who authorises an entity as Solar Power park developer, in respect of Long term Access?",
    "Option1": "CTU   ",
    "Option2": "CEA",
    "Option3": "CERC/SERC",
@@ -7263,8 +8766,8 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
-   "Question": "Long term access",
+   "Topic": "OA-Connectivity-Regulatory",
+   "Question": "Long term access means the right to use the inter-state transmission system for a period __________",
    "Option1": "Upto 25 years",
    "Option2": "exceeding 12 years",
    "Option3": "exceeding 7 years",
@@ -7272,8 +8775,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
-   "Question": "Medium-term open access",
+   "Topic": "OA-Connectivity-Regulatory",
+   "Question": "Medium-term open access means the right to use the inter-state transmission system for a period _________ ",
    "Option1": "exceeding 3 months",
    "Option2": "less than 5 years",
    "Option3": "exceeding 3 months but not exceeding 3 years",
@@ -7281,7 +8784,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Where the capacity tied up under LTA is released under MTOA, the concerned generator shall be liable to pay ………..% LTA charges for such reallocated capacity",
    "Option1": "80",
    "Option2": "70",
@@ -7290,7 +8793,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "On receipt of the copy of PPA, CTU shall advise concerned RLDC for scheduling of power at the earliest,but not later than a period of………..month",
    "Option1": "1",
    "Option2": "3",
@@ -7299,7 +8802,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Drawal of star-up power shall not be used  by generating station for ",
    "Option1": "Commissioning activities",
    "Option2": "testing ",
@@ -7308,7 +8811,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The start date of the medium-term open access shall not be later than ….. from the last day of the month in which application has been made.  ",
    "Option1": "1 years",
    "Option2": "2 years",
@@ -7317,7 +8820,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "A Hydro generating station with installed capacity 200 MW for Connectivity need not make a fresh application if there is a change in the power to be interchanged with the ISTS upto a max. capacity of…….. MW",
    "Option1": "25",
    "Option2": "50",
@@ -7326,7 +8829,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "The CTU Shall plan the system such that maximum length of dedicated transmission line shall not exceed…….KM  from switchyard of the generating station till the nearest pooling substation of the transmission licensee",
    "Option1": "50",
    "Option2": "100",
@@ -7335,7 +8838,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "Drawal of star-upt power shall not exceed …..Months prior to the expected date of first synchonization and …….months after date of  the first synchronization",
    "Option1": "15,6",
    "Option2": "6, 15",
@@ -7344,8 +8847,8 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
-   "Question": "100% subsidiary companies shall be allowed to transfer their connectivity and LTA to the parent company and vice versa one year after achieving commercial operation of Renewable Energy generating station(s)\" [True/False].",
+   "Topic": "OA-Connectivity-Regulatory",
+   "Question": "100% subsidiary companies shall be allowed to transfer their connectivity and LTA to the parent company and vice versa one year after achieving commercial operation of Renewable Energy generating station(s) [True/False].",
    "Option1": "TRUTH",
    "Option2": "FALSE",
    "Option3": "",
@@ -7353,7 +8856,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "“Renewable Power Park Developers” shall mean a",
    "Option1": "Solar Power Park Developer",
    "Option2": "Wind Power Park Developer",
@@ -7362,7 +8865,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "“Storage” means energy storage system utilizing methods and technologies like",
    "Option1": "Solid State Batteries",
    "Option2": "Flow Batteries",
@@ -7371,7 +8874,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "PoC rates for LTA access are expressed in _______",
    "Option1": "Rs/MW/Month",
    "Option2": "ps/kwh",
@@ -7380,7 +8883,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "5.OA-Connectivity-Regulatory",
+   "Topic": "OA-Connectivity-Regulatory",
    "Question": "PoC rates for MTOA access are expressed in _______",
    "Option1": "Rs/MW/Month",
    "Option2": "ps/kwh",
@@ -7389,7 +8892,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Deviation Charge is calculated as ____ ",
    "Option1": "Actual x Schedule",
    "Option2": "Actual / Schedule",
@@ -7398,7 +8901,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "What is the shortest time block for which deviation charge is calculated?",
    "Option1": "every  day",
    "Option2": "every 1 hour block",
@@ -7407,7 +8910,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "What is the Weekly Settlement Period of Deviation Charges ?",
    "Option1": "Tuesday to Monday",
    "Option2": " Monday to Sunday",
@@ -7416,7 +8919,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Deviation Charge rate is specified in ______",
    "Option1": " Rs./VARH",
    "Option2": "Rs./MW",
@@ -7425,7 +8928,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Which of the following statements is true w.r.t sign convention of Deviation Charges",
    "Option1": "For a generator +ve sign indicates under generation &   for a beneficiary –ve sign   indicates over drawal.",
    "Option2": "For a generator +ve sign indicates over generation & for a beneficiary  +ve sign indicates overdrawal. ",
@@ -7434,7 +8937,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Deviation Charges rates are fixed by _____",
    "Option1": "CEA",
    "Option2": "MOP",
@@ -7443,7 +8946,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "What is meant by Administered Price Mechanism",
    "Option1": "A mechanism to fix Deviation Charges.",
    "Option2": "A mechanism similar to ABT.",
@@ -7452,7 +8955,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Which of the following prepares Deviation Charges accounts?",
    "Option1": "RLDC",
    "Option2": "RPC",
@@ -7461,7 +8964,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Which of the following operates the Deviation Charges pool account?",
    "Option1": "RLDC",
    "Option2": "RPC",
@@ -7470,7 +8973,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "When should the account of additional Deviation Charges charges be issued?",
    "Option1": "every 10th day",
    "Option2": "alongwith Deviation Charges accounts",
@@ -7479,7 +8982,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "What is the sequence of liquidation of outstandings if past dues are received ?",
    "Option1": "DC charge, Normal interest, expenses, penal interest, additional charges",
    "Option2": "DC & additional charges, penal interest, Normal interest.",
@@ -7488,7 +8991,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "What is the due date for Deviation Charges payments from the date of issue of the Deviation Charges A/c?",
    "Option1": "10 days",
    "Option2": "12 days",
@@ -7497,7 +9000,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "When will interest on late payment to start for late payment of Deviation Charges account?",
    "Option1": "when payment is not received within 10 days",
    "Option2": "when payment is not received within 12 days",
@@ -7506,7 +9009,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "What is the interest payable for delay in Deviation Charges payment?",
    "Option1": "0.04% per month   ",
    "Option2": "0.04% per day compound interest  ",
@@ -7515,7 +9018,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Disbursement of available Deviation Charges amount by RLDCs is to be done, ______ ",
    "Option1": "within 5 days of due date.  ",
    "Option2": "within 2 working days  from due date",
@@ -7524,7 +9027,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "From when would interest  be calculated if there is delay or default in payment of Deviation Charges? ",
    "Option1": "for the period of delay from date of account issue.",
    "Option2": "for the period of delay from due date",
@@ -7533,7 +9036,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Which of the following accounts does RPC maintain?",
    "Option1": "separate account for principal amount and interest",
    "Option2": "separate account for  main and additional charges",
@@ -7542,7 +9045,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "What is the expansion of APM",
    "Option1": "Administered Power Market.",
    "Option2": "Administrative Price Model",
@@ -7551,7 +9054,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Deviation Chargesis computed for",
    "Option1": "every 10 DAY PERIOD",
    "Option2": "every 1 hour block",
@@ -7560,7 +9063,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Deviation Charges rate is specified for",
    "Option1": "each 15 min block",
    "Option2": "each control area",
@@ -7569,7 +9072,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Deviation Charges Account is to be issued",
    "Option1": "every month",
    "Option2": "by every Tuesday",
@@ -7578,7 +9081,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "The infirm power injected into the grid by a generating unit of a generating station(using Imported Coal as a fuel) during the testing, prior to COD of the unit shall be paid at Charges for Deviation for infirm power injected into  the grid subject to ceiling of Cap rates of Rs                           \n",
    "Option1": "3.03 / kWh sent out",
    "Option2": "1.78 / kWh sent out",
@@ -7587,7 +9090,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "The infirm power injected into the grid by a generating unit of a generating station(using RLNG as a fuel) during the testing, prior to COD of the unit shall be paid at Charges for Deviation for infirm power injected into  the grid subject to ceiling of Cap rates of Rs                      \n",
    "Option1": "3.03 / kWh sent out",
    "Option2": "8.24 / kWh sent out",
@@ -7596,7 +9099,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Deviation charges shall be zero at grid frequency of ",
    "Option1": "50.02 Hz and above",
    "Option2": "50.05 Hz and above",
@@ -7605,7 +9108,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Any drawal of power by a generating station prior to COD of a unit for the startup activities shall be exempted from the volume limit specified abovewhen grid frequency \nis 49.85 Hz and above",
    "Option1": "TRUE",
    "Option2": "FALSE",
@@ -7614,7 +9117,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "When the grid frequency is below 49.85 Hz,the charges for deviation corresponding to time block shall be payable by a \nregional entity at ",
    "Option1": "303.00 Paisa/kWh",
    "Option2": "824.04 Paisa/kWh",
@@ -7623,8 +9126,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
-   "Question": " \"Absolute Error\" shall mean the absolute value of the error in the actual generation of  wind  or  solar generators which are regional entities with reference to  the  scheduled generation  and the  'Available Capacity' \n(AvC)",
+   "Topic": "DSM-Regulatory",
+   "Question": " Absolute Error shall mean the absolute value of the error in the actual generation of  wind  or  solar generators which are regional entities with reference to  the  scheduled generation  and the  Available Capacity \n(AvC)",
    "Option1": "TRUE",
    "Option2": "FALSE",
    "Option3": "",
@@ -7632,8 +9135,8 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
-   "Question": "Absolute Error",
+   "Topic": "DSM-Regulatory",
+   "Question": " Absolute Error (%) as calculated for each 15 minute time block is",
    "Option1": " Error (%) = 100 *[Actual Generation– Scheduled Generation] + (AvC)",
    "Option2": " Error (%) = 100 *[Actual Generation– Scheduled Generation] * (AvC)",
    "Option3": " Error (%) = 100 * [Actual Generation– Scheduled Generation] / (AvC)",
@@ -7641,8 +9144,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
-   "Question": " 'Available  Capacity (AvC)' for  wind  or  solar generators which are regional entities  is the cumulative capacity rating of the wind turbines  or solar inverters that are capable of generating power in a given time-block",
+   "Topic": "DSM-Regulatory",
+   "Question": " Available  Capacity (AvC) for  wind  or  solar generators which are regional entities  is the cumulative capacity rating of the wind turbines  or solar inverters that are capable of generating power in a given time-block",
    "Option1": "TRUE",
    "Option2": "FALSE",
    "Option3": "",
@@ -7650,7 +9153,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": " The wind or solar generators which are regional entities, if in the event of actual generation being less than the scheduled generation, then the deviation charges for under injection shall be payable by such  wind or solar generator to the Regional DSM Pool.       If Absolute Error in the 15 minute time block is >25% but <=35%",
    "Option1": "Deviation charges payable  to Regional DSM Pool at the fixed rate for the shortfall energy for absolute error upto15% +110% of the fixed rate for balance energy beyond 15% and upto 25%",
    "Option2": "  fixed rate for the shortfall energy for absolute error upto15% +110% of the fixed rate for balance energy beyond 15% and upto 25% +120% of the fixed rate for balance energy beyond 25% and upto 35%",
@@ -7659,7 +9162,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": " Fixed Rate is the PPA  rate as  determined by  the commission under section 62 of the Act or adopted by the Commission  under section 63 of the Act, In case of multiple PPAs, the weighted average of the PPA rates shall be taken as the Fixed Rate",
    "Option1": "TRUE",
    "Option2": "FALSE",
@@ -7668,7 +9171,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "What is the Fixed Rate for Open  Access participants for selling power which  is not accounted for RPO compliance of the buyer.",
    "Option1": "APPC",
    "Option2": "Preferential",
@@ -7677,7 +9180,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": " The wind or solar generators which are regional entities, if in the event of actual generation being more than the scheduled generation, then the deviation charges for over injection shall be payable by such  wind or solar generator to the Regional DSM Pool .     If Absolute Error in the 15 minute time block is >15% but <= 25%    ",
    "Option1": " Deviation charges payable to Regional DSM Pool at the fixed rate for excess energy beyond 15% and upto 25% + 80% of the fixed rate for excess energy beyond 25% and upto 35% ",
    "Option2": "Deviation charges payable to Regional DSM Pool at the fixed rate for excess energy upto15% + 90% of the fixed rate for excess energy beyond 15% and upto 25% ",
@@ -7686,7 +9189,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "The schedule by  wind and solar  generators  which are regional entities(excluding collective transactions) may be revised by giving advance notice to the concerned RLDC",
    "Option1": "effective from 4th time block, the first being the time-block in which notice was given",
    "Option2": "effective from 6th time block, the first being the time-block in which notice was given",
@@ -7695,7 +9198,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "The revision of schedule given by wind and solar generators  which are regional entities(excluding collective transactions) may be allow for one revision",
    "Option1": "for each time slot of three hours starting from 00:00 hours of a particular day subject to maximum of 8 revisions during the day",
    "Option2": "for each time slot of one and half hours starting from 00:00 hours of a particular day subject to maximum of 16 revisions during the day",
@@ -7704,7 +9207,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "The  wind and  solar  generators  which are  regional entities  shall forecast renewable energy generation",
    "Option1": "with an interval of one hour for the next 24 hours for the aggregate generation capacity of 25 MW and above. ",
    "Option2": "with an interval of 15 minutes for the next 24 hours for the aggregate generation capacity of 100 MW and above. ",
@@ -7713,7 +9216,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Additional charges for deviation  for wind & solar generators which are regional entities is",
    "Option1": "Same as conventional generator",
    "Option2": "No additional charge",
@@ -7722,7 +9225,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "The charges payable for deviation from schedule by the  wind and solar generators which are regional entities,shall be",
    "Option1": "linked with frequency",
    "Option2": "Delinked from frequency",
@@ -7731,7 +9234,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Change of sign of deviation shall be done after every ----TMBLK",
    "Option1": "12",
    "Option2": "6",
@@ -7740,7 +9243,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "APPC applicable  for 2018-19 till further order (the remaining months of FY 2015-16, as well as for FY 2016-17), for the\npurpose of deviation settlement in respect of the open access and captive wind and solar\ngenerators fulfilling the requirement of regional entities is",
    "Option1": "Rs.1.78/kWh",
    "Option2": "Rs.3.40/kWh(2015-17)",
@@ -7749,7 +9252,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "APPC excludes",
    "Option1": "Power purchased from LTA and STOA",
    "Option2": "Power purchased from Renewables and Transmission charges",
@@ -7758,7 +9261,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Gaming as DSM regulations",
    "Option1": "Deviation beyond specified limits",
    "Option2": "Injection of infirm power after the completion of 6 months period",
@@ -7767,16 +9270,16 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Additional Charge for Deviation shall be applicable for over-injection/under drawal of electricity for each time block by a seller/buyer as the case may be when grid frequencyis „‟50.05 Hz and above” at the rates equivalent to charges of deviation",
    "Option1": "No additional charge",
-   "Option2": "corresponding to the grid frequency of “below 50.01 Hz but not below 50.0Hz\"",
-   "Option3": "corresponding to the grid frequency of “below 49.80 Hz but not below 49.79Hz\"",
-   "Option4": "corresponding to the grid frequency of “below 49.70 Hz \"",
+   "Option2": "corresponding to the grid frequency of “below 50.01 Hz but not below 50.0Hz",
+   "Option3": "corresponding to the grid frequency of “below 49.80 Hz but not below 49.79Hz",
+   "Option4": "corresponding to the grid frequency of “below 49.70 Hz ",
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "If the LC opend by a regional entity for FY 2018-19 due to default in last FY is Rs.45 lakh and  the entity has defaulted in the current FY during a week for which payable DSM liabillity is Rs.95 lakh,the concerned regional entity shall open the revised LC amount ____crore. Additional LC amount would be_______.",
    "Option1": "Rs.0",
    "Option2": "104.5 / 59.5",
@@ -7785,7 +9288,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "If the average payable weekly liabillity for deviation of a regional entity during 2017-18 is Rs.33 crore and  the weekly  payable liabillity during any week in 2018-19 is Rs.49 crore,than the revised LC amount shall be increased by ",
    "Option1": "Rs.0",
    "Option2": "Rs.54.45",
@@ -7794,7 +9297,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "As per new amendment of DSM regulation,The deviation charge at 50.00 HZ is linked to ",
    "Option1": "Area clearing price",
    "Option2": "Daily Average area clearing price",
@@ -7803,7 +9306,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "If any regional entity has not changed the sign through out  a day how many polarity change violations will be counted? ",
    "Option1": "13",
    "Option2": "14",
@@ -7812,7 +9315,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "A regional entity has not changed the sign of deviation for a given day and the base DSM charges for that day is Rs.1000 (receivable)..The effective DSM charge for the day for that entity is -----;",
    "Option1": "Receiable,Rs.4000",
    "Option2": "Receiable,Rs.2000",
@@ -7821,7 +9324,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "The lower  freqency limit for inadvertent deviation is ______ and upper limit is _____",
    "Option1": "49.2 50.05",
    "Option2": "49.7, 50.015",
@@ -7830,8 +9333,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "2.DSM-Regulatory",
-   "Question": "Charges for the Deviation for the generating stations who's tariff is determind by  Commission who use coal or lignite or gas supplied under Administered Price Mechanism  as fuel, the Cap rate w.r.t. deviation charges is :",
+   "Topic": "DSM-Regulatory",
+   "Question": "Charges for the Deviation for the generating stations whos tariff is determind by  Commission who use coal or lignite or gas supplied under Administered Price Mechanism  as fuel, the Cap rate w.r.t. deviation charges is :",
    "Option1": "303.04  Paise/kWh",
    "Option2": "545.05  Paise/kWh",
    "Option3": "no cap rate applied",
@@ -7839,7 +9342,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "A regional entity generator (other that sec-62) is having the actual injection higher than the schedule generation. The cap rate for that ganerator is: \n",
    "Option1": "303.04  Paise/kWh",
    "Option2": "As per DSM regulation",
@@ -7848,7 +9351,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Renewable Rich State means a State whose minimum combined  installed capacity of wind and solar power is-----MW or more",
    "Option1": "1000MW",
    "Option2": "2500 MW",
@@ -7857,7 +9360,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Deviation Settlement Mechanism (DSM) rate vector has a  ________slope at present.",
    "Option1": "dynamic",
    "Option2": "constant",
@@ -7866,7 +9369,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "The maximum ceiling limit applicable for average Daily ACP discovered in the DAM segment of Power Exchange at 50.00 Hz shall be ",
    "Option1": "800 Paise/kWh.",
    "Option2": "ACP",
@@ -7875,7 +9378,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "ACP of which exchange shall be taken into consideration for linking to the DSM price vector.",
    "Option1": "Power Exchange having a market share of 80% or more in energy terms on a daily basis",
    "Option2": "Average of ACP od both exchnages",
@@ -7884,7 +9387,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "What shall be the ACP if no single Power Exchange is having a market share of 80% or more, .",
    "Option1": "the weighted average dayahead price shall be used for linking to the DSM price",
    "Option2": "ACP of IEX",
@@ -7893,7 +9396,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Which rate would be used as reference for DSM rate at 50 hz, in case of non-availability of daily simple average ACP due to no-trade on a given day ",
    "Option1": "daily simple average ACP of the last available day shall be considered for determining the DSM charge.",
    "Option2": "MCP",
@@ -7902,7 +9405,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Deviation price shall be rounded off to nearest",
    "Option1": " two decimal places.",
    "Option2": "one decimal",
@@ -7911,7 +9414,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Who shall act as the Nodal Agency to declare the daily DSM rates and shall display all relevant information on its website.” ",
    "Option1": "National Load Despatch Centre (NLDC)",
    "Option2": "IEX",
@@ -7920,7 +9423,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "the charges for the deviation for under-drawals by the buyer (except Renewable Rich State) in a time block in excess of 12% of the schedule or 150 MW, whichever is less, shall be ",
    "Option1": "zero.",
    "Option2": "As per DSM vector",
@@ -7929,7 +9432,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "in case schedule of a buyer (except Renewable Rich State) in a time block is less than or equal to 400 MW, the charges for the deviation for the under-drawal in excess of ---- MW shall be zero.",
    "Option1": "48",
    "Option2": "250",
@@ -7938,7 +9441,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "the charges for the deviation for over-injection by the seller (except Renewable Rich State) in a time block in excess of 12% of the schedule or 150 MW, whichever is less, shall be ",
    "Option1": "zero.",
    "Option2": "As per DSM vector",
@@ -7947,7 +9450,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "in case schedule of a seller (except Renewable Rich State) in a time block is less than or equal to 400 MW, the charges for the deviation for the under-drawal in excess of ---- MW shall be zero.",
    "Option1": "48",
    "Option2": "250",
@@ -7956,7 +9459,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "overdrawal/underdrawal of electricity by any buyer [(except Renewable Rich States) during the time block shall not exceed 12% of its scheduled drawal or 150 MW, whichever is lower, when grid frequency is “----- Hz and above and below ----- Hz”",
    "Option1": "49.85 & 50.05",
    "Option2": "49.9%50.05",
@@ -7965,7 +9468,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "no over drawal of electricity by any buyer shall be permissible when grid frequency is “below ----- Hz” and no under drawal of electricity by any buyer shall be permissible when grid frequency is ---- Hz and above”",
    "Option1": "49.85 & 50.05",
    "Option2": "49.9%50.05",
@@ -7974,7 +9477,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Any drawal of power by a generating station prior to COD of a unit for the startup activities shall\nbe exempted from the levy of additional Charges of Deviation] : True or False",
    "Option1": "TRUE",
    "Option2": "FALSE",
@@ -7983,7 +9486,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Under injection of Electricity by a seller in excess of 15% and upto 20% of its schedule in a time block shall be charged at -----DSM rate",
    "Option1": "Equivalent  to  40%  of  the  Charge for  Deviation corresponding to average grid frequency of the time block.  ",
    "Option2": "Equivalent  to 15%  of  the  Charge for  Deviation corresponding to average grid frequency of the time block.  ",
@@ -7992,7 +9495,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Under injection of electricity by a seller is more than 250MW shall be charged at ----DSM rate.",
    "Option1": "Equivalent  to  100%  of  the  Charge for  Deviation corresponding to average grid frequency of the time block.  ",
    "Option2": "Equivalent  to 15%  of  the  Charge for  Deviation corresponding to average grid frequency of the time block.  ",
@@ -8001,7 +9504,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Additional Charge for Deviation shall be applicable for over-injection/under-drawal of electricity for each time block by a seller/buyer as the case may be when grid frequency is  50.05Hz and above is",
    "Option1": " Daily  (simple) average Area Clearing Price discovered in the Day Ahead Market segment of power exchange ",
    "Option2": "178ps/kwh",
@@ -8010,7 +9513,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "Additional Charge for Deviation shall be applicable for over-drawal or underinjection of electricity when grid frequency is “below 49.85 Hz” shall be equivalent to ",
    "Option1": "100% of the Charge for Deviation of 800 Paise / kWh ",
    "Option2": "100% of ACP",
@@ -8019,7 +9522,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": " Additional Charge for Deviation for under-injection of electricity by a seller, during the time-block when grid frequency is “below 49.85 Hz”] , by the generating stations regulated by CERC using coal or lignite or gas supplied under Administered Price Mechanism (APM) as the fuel shall be equivalent to",
    "Option1": " 100% of the Cap Rate equivalent to the energy charges as billed for the previous month.]",
    "Option2": "cap rate equivalent to energy charge",
@@ -8028,7 +9531,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": " sustained deviation from schedule in one direction (positive or negative) by any regional entity (buyer or seller), such violation  shall attract an additional charge of",
    "Option1": " 20% on the daily base DSM payable / receivable",
    "Option2": " 10% on the daily base DSM payable / receivable",
@@ -8037,16 +9540,16 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "2.DSM-Regulatory",
+   "Topic": "DSM-Regulatory",
    "Question": "The Regional Load Despatch Centre shall, on monthly basis, prepare and publish on its website the records of the Deviation Accounts, specifying the quantum of over-drawal/ under-injection and corresponding amount of Charges for Deviation payable/receivable for each buyer and seller for all the time-blocks when grid frequency was ",
-   "Option1": "49.90Hz and above",
-   "Option2": "49.85Hz and above",
-   "Option3": "50.0Hz and above",
-   "Option4": "49.70Hz and above",
+   "Option1": " 49.90Hz and above and below 49.90 Hz separately.”  ",
+   "Option2": " 49.85Hz and above and below 49.85 Hz separately.”  ",
+   "Option3": " 50.0Hz and above and below 50.0 Hz separately.”  ",
+   "Option4": " 49.70Hz and above and below 49.70 Hz separately.”  ",
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Present tariff regulations are valid for a period of___________from 01.04.14",
    "Option1": "3 years",
    "Option2": "5 years",
@@ -8055,7 +9558,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is the meaning of additional Capitalisation under Terms and Conditions of Tariff?",
    "Option1": "Capital expenditure incurred upto COD ",
    "Option2": "Capital expenditure incurred upto cut off date",
@@ -8064,7 +9567,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is the significance of Cut off date?",
    "Option1": "The owner of asset can start billing from that date   ",
    "Option2": "additional capitalisation would be allowed upto this date for a new project.   ",
@@ -8073,7 +9576,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Design energy is relevant w.r.t.________",
    "Option1": "Thermal station",
    "Option2": "Hydro station",
@@ -8082,7 +9585,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Gross calorific value is measured in _____",
    "Option1": "Kcal/kg of  coal ",
    "Option2": "kcal/lit of liquid fuel  ",
@@ -8091,7 +9594,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Gross Station Heat rate is measured in ____ ",
    "Option1": "K cal/kWh",
    "Option2": "k cal/kg",
@@ -8100,7 +9603,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "When is the earliest date for filing of Tariff Petition in case of CERC  Terms and Conditions of Tariff Regulations 2014-2019?",
    "Option1": "one year before expected date of completion of project",
    "Option2": "6 months before expected date of completion of project",
@@ -8109,7 +9612,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is the value of equity in capital cost of the power project?",
    "Option1": "70% of capital cost",
    "Option2": "30% of capital cost",
@@ -8118,7 +9621,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Expenditure towards initial spares is a part of _______",
    "Option1": "O&M charges",
    "Option2": "Annual fixed charges",
@@ -8127,7 +9630,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is the objective of allowing renovation and modernisation costs?",
    "Option1": "seek special allowance",
    "Option2": "seek higher tariff",
@@ -8136,7 +9639,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "A company had invested Rs.20 cr. from its own resources; if the total cost of the project is Rs.100 cr. what is the equity ?",
    "Option1": "Rs. 80 cr.",
    "Option2": "Rs.30 cr.",
@@ -8145,7 +9648,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "A company had invested Rs.40 cr. from its own resources; if the total cost of the project is Rs.100 cr. What is the amount admissible as equity ?",
    "Option1": "Rs. 80 cr.",
    "Option2": "Rs.30 cr.",
@@ -8154,7 +9657,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "A company had taken a loan of Rs.60 cr. and invested Rs.40 cr. from own resources. What is the  treatment of loan component?",
    "Option1": "Rs.70 cr. treated as loan at SBI PLR  ",
    "Option2": "Rs.60 cr. is treated  at actual rate of interest and Rs.10 cr. at normative interest rate",
@@ -8163,7 +9666,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is the debt: equity ratio allowed by CERC for the control period 14 - 19 ?",
    "Option1": " 80:20",
    "Option2": "70:30",
@@ -8172,7 +9675,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "As per terms & conditions of tariff, tariff determined by the Regulator for generating stations consists of __________",
    "Option1": "single part tariff",
    "Option2": "two part tariff comprising capacity charges and energy charges",
@@ -8181,7 +9684,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "O&M expenses of a generating station are recovered through ____",
    "Option1": "annual fixed charges",
    "Option2": "energy charges",
@@ -8190,7 +9693,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Cost of secondary fuel oil for coal/lignite based generating stations is recovered through ______",
    "Option1": "annual fixed cost",
    "Option2": "energy charges",
@@ -8199,7 +9702,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Which one of the following is not a part of annual fixed cost",
    "Option1": "Return on Equity",
    "Option2": "Interest on Loan",
@@ -8208,7 +9711,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is the base rate of return on equity for thermal generation?",
    "Option1": "15.50%",
    "Option2": "16.00%",
@@ -8217,7 +9720,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is the benefit,  if a project is completed within schedule?",
    "Option1": "COD can be declared early",
    "Option2": "billing can start early",
@@ -8226,7 +9729,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is the additional return on equity allowed for timely completion of a project",
    "Option1": "0.60%",
    "Option2": "1.00%",
@@ -8235,8 +9738,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
-   "Question": "If 't' is the applicable tax rate, rate of pre-tax return on equity is _____",
+   "Topic": "TCT14-19-Regulatory",
+   "Question": "If t is the applicable tax rate, rate of pre-tax return on equity is _____",
    "Option1": "base rate of ROE x  (1-t)",
    "Option2": "base rate of ROE  x (1+t) ",
    "Option3": "base rate of ROE/(1+t)",
@@ -8244,7 +9747,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Depreciation is allowed upto a maximum of ___",
    "Option1": "80% of capital cost",
    "Option2": "90% of capital cost",
@@ -8253,7 +9756,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Depreciation is calculated as a percentage of ….. ",
    "Option1": "Loan component",
    "Option2": "Equity",
@@ -8262,7 +9765,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Salvage value of an asset (generator / transmission) for allowing depreciation is",
    "Option1": "30%",
    "Option2": "10%",
@@ -8271,7 +9774,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What  is the rate of depreciation for Land under free hold (full ownership)?",
    "Option1": "5.72%",
    "Option2": "3.34%",
@@ -8280,7 +9783,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Is there any consideration for the vintage (age) of the generating stations while specifying the O&M expenses? ",
    "Option1": "there is no relation  ",
    "Option2": "Less O&M exp specified for older plants  ",
@@ -8289,7 +9792,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Normative O&M expenditure of a Sub-station ",
    "Option1": "Decreases with increase in voltage level  ",
    "Option2": "Increases with increase in voltage level  ",
@@ -8298,7 +9801,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The fixed charges of a Thermal / Hydro Generating station is computed on _________   basis and recovered on ________ basis",
    "Option1": "Monthly, Annual   ",
    "Option2": "Annual, Monthly  ",
@@ -8307,7 +9810,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The total Capacity Charges receivable by a Generating station shall be shared by its Beneficiaries as per ______ ",
    "Option1": "Average Requisitions   ",
    "Option2": "Average Share Allocation   ",
@@ -8316,7 +9819,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "For plants achieving higher Availability Factor than Normative Availability Factor.  What is the advantage ?",
    "Option1": "No advantage  ",
    "Option2": "Incentive in terms of Energy Charges would be paid  ",
@@ -8325,7 +9828,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Energy charges shall be payable by every Beneficiary  as per ",
    "Option1": "Share allocation  ",
    "Option2": "Total energy schedule in the month on ex power plant  ",
@@ -8334,7 +9837,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "How is the quantum of  Primary Fuel in Energy Charge Rate obtained?",
    "Option1": "On actual Consumption basis",
    "Option2": "On Normative consumption of primary fuel  ",
@@ -8343,7 +9846,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Gross Station Heat Rate influences the ",
    "Option1": "Fixed charges  ",
    "Option2": "Energy charges   ",
@@ -8352,7 +9855,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "How are the savings, achieved due to Actual Consumption of Secondary Fuel Oil being less than Normative Consumption, treated?",
    "Option1": "Retained by the generator   ",
    "Option2": "Passed on to beneficiaries   ",
@@ -8361,7 +9864,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is the maximum value of Normative Annual Plant Availability factor specified for thermal stations?",
    "Option1": "90%",
    "Option2": "85%",
@@ -8370,7 +9873,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "For coal based generating stations, Gross Station Heat Rate is in the range of …… kCal/kWh",
    "Option1": "1000 - 2000",
    "Option2": "2000 - 3500",
@@ -8379,8 +9882,8 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
-   "Question": "If the boiler feed pump in a station is changed from \"Electric Driven\" to \"Turbine/Steam Driven\" then the Gross Heat Rate ",
+   "Topic": "TCT14-19-Regulatory",
+   "Question": "If the boiler feed pump in a station is changed from Electric Driven to Turbine/Steam Driven then the Gross Heat Rate ",
    "Option1": "Increases",
    "Option2": "Decreases",
    "Option3": "No Effect",
@@ -8388,7 +9891,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "If station P has sets of 500MW and station Q has sets of 210 MW size, then what is the relation between Gross Station Heat Rates of P & Q?",
    "Option1": "P<Q    ",
    "Option2": "P>Q   ",
@@ -8397,7 +9900,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The Gross Station Heat Rate of Combined Cycle Gas Station is",
    "Option1": "More than that of Open cycle station   ",
    "Option2": "Less than that of  Open cycle station  ",
@@ -8406,7 +9909,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Higher the Gross Heat Rate,____",
    "Option1": "Lower the Energy Charge rate   ",
    "Option2": "Higher the Energy Charge rate   ",
@@ -8415,7 +9918,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "On which of the following factors does Design Heat rate depend on? 1.Pressure rating of boiler, super heater temperature and re-heater temperature  2.Type of boiler feed pump (Electrical/steam driven)  3.Type of fuel",
    "Option1": "1 and 2",
    "Option2": "2 and 3",
@@ -8424,7 +9927,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is full form of CFBC technology?",
    "Option1": "Cold Furnace Bed Combustion  ",
    "Option2": "Circulating Furnace Blast Combustion  ",
@@ -8433,7 +9936,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is the relation between unit size and % Auxiliary consumption? ",
    "Option1": "Auxilliary consumption is more as unit size increases   ",
    "Option2": "Auxilliary consumption % is less as unit size increases  ",
@@ -8442,7 +9945,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Pick up the right order of stations with respect to auxiliary consumption.",
    "Option1": "Hydro>gas>coal>lignite  ",
    "Option2": "Coal>gas>hydro>lignite",
@@ -8451,7 +9954,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Which of the following relations is true with respect to Normative Auxiliary consumption of gas stations?",
    "Option1": "Open cycle>combined cycle  ",
    "Option2": "Combined cycle>open cycle   ",
@@ -8460,7 +9963,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Which agency decides the share allocation in Central Generating Stations? ",
    "Option1": "Central Govt. ",
    "Option2": "RPC   ",
@@ -8469,7 +9972,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Compare the Normative Auxiliary consumption of Surface Hydro station and Underground Hydro station.   ",
    "Option1": "Surface Hydro >Underground Hydro ",
    "Option2": "Surface Hydro < Underground Hydro",
@@ -8478,7 +9981,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Useful life of  AC Substations is ",
    "Option1": "25 years",
    "Option2": "35 years",
@@ -8487,7 +9990,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Initial Spare allowed for Transmission lines as % of capital cost is ",
    "Option1": "1%",
    "Option2": "5%",
@@ -8496,7 +9999,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "While computing depreciable value of asset following will not be included",
    "Option1": "Building",
    "Option2": "Plant & Machinery",
@@ -8505,7 +10008,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Working capital in case of transmission projects include O& M expenses of ",
    "Option1": "Two months",
    "Option2": "One Month",
@@ -8514,7 +10017,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "How many days are allowed  to the beneficiary for payment of bill  raised by transmission licensee without surcharges",
    "Option1": "30 days",
    "Option2": "60 days",
@@ -8523,7 +10026,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "O& M charges for sub stations are graded according to ",
    "Option1": "Voltage",
    "Option2": "Age",
@@ -8532,7 +10035,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "O & M charges of Transmission lines are graded according to:",
    "Option1": "Voltage only",
    "Option2": "No. of circuit and voltage",
@@ -8541,16 +10044,16 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "How the benefits of refinancing of debt is to be shared between beneficiary and utility",
    "Option1": "2:1",
-   "Option2": "01:01",
+   "Option2": "1:01",
    "Option3": "Only beneficiary",
    "Option4": "Only Utility",
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Maximum time period defined under  appendix-II timely completion is for ",
    "Option1": "765 KV S/C in snow bound area ",
    "Option2": "400 kV D/C Quad conductor in Snow bound",
@@ -8559,7 +10062,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Guideline for tariff determination for Generating station is given in following section of Electricity Act,2003",
    "Option1": "Section 15",
    "Option2": "Section 79",
@@ -8568,7 +10071,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Transmission system availability  factor is to be computed ",
    "Option1": "Daily",
    "Option2": "Yearly",
@@ -8577,7 +10080,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Payment through letter of credit entitled  beneficiary a rebate of ",
    "Option1": "0%",
    "Option2": "1%",
@@ -8586,7 +10089,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "if a company invested complete cost of  100 crs from its own resources , it will get  rate of return of equity  on",
    "Option1": "50 crs",
    "Option2": "70 crs",
@@ -8595,7 +10098,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The normative annual plant availabiliy factor of Generating projects in 2014-19 regulation is ",
    "Option1": "68.50%",
    "Option2": "75%",
@@ -8604,7 +10107,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The norms for gross station heat rate for  500 MW existing coal based project in 2014-19  is ",
    "Option1": " 2500 kCal /kWh ",
    "Option2": " 2375 kCal /kWh",
@@ -8613,7 +10116,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Who shall  certify the Monthly Availability factor of Transmission system",
    "Option1": "GM, NLDC",
    "Option2": "Chief (Engg), CERC",
@@ -8622,7 +10125,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Useful life of Hydro Generating station is ",
    "Option1": "15 years",
    "Option2": "50 years",
@@ -8631,7 +10134,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The date of commercial operation for transmission system shall be ",
    "Option1": " First day of month",
    "Option2": "Last day of month",
@@ -8640,7 +10143,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Which Regulatory system is adopted by CERC",
    "Option1": "Yardstick competition",
    "Option2": "Cost Plus",
@@ -8649,7 +10152,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "For GIS spares amendment in Tariff Regulation proposed",
    "Option1": "3.5% of Capital Cost ",
    "Option2": "2.5% of Capital cost ",
@@ -8658,7 +10161,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Determination of Tariff of Inter- state transmission system is a function of CERC under Electricity Act,2003",
    "Option1": "Section 15",
    "Option2": "Section 178",
@@ -8667,7 +10170,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": " Components of Annual Fixed charges for central Generating stations  are ",
    "Option1": "2",
    "Option2": "6",
@@ -8676,7 +10179,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What value of Minimum Alternate tax( MAT) is assumed in Regulation ",
    "Option1": "5%",
    "Option2": "12%",
@@ -8685,7 +10188,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "In case of delay in payment of bills how much surcharge shall be levied",
    "Option1": "as per prevailing bank interest ",
    "Option2": "1.5 %per month ",
@@ -8694,7 +10197,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Provisional tariff for central generating station can be granted upto ",
    "Option1": "70%",
    "Option2": "90%",
@@ -8703,7 +10206,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "For series compensation and HVDC  stations Spares allowed as % of capital cost is:",
    "Option1": "5%",
    "Option2": "4.00%",
@@ -8712,7 +10215,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The auxiliary Consumption norms for  500 MW thermal station in 2014-19 regulation with steam driven boiler feed pumps ",
    "Option1": "6.00%",
    "Option2": "7.50%",
@@ -8721,7 +10224,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Maximum Initial spares  as % of capital cost are allowed for ",
    "Option1": "HVDC Station",
    "Option2": "Hydro Station",
@@ -8730,7 +10233,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Income tax on DSM income of generation stations is borne in 2009-14 Regulation by ",
    "Option1": "Generating Company",
    "Option2": "Beneficiary ",
@@ -8739,7 +10242,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Truing up of the tariff   for 2014-19 shall be carried out ",
    "Option1": "During 18 - 19 ",
    "Option2": "Can be done any time",
@@ -8748,7 +10251,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Useful life of what  will be used in computation of tariff  for ",
    "Option1": "rate of return",
    "Option2": "interest on working capital",
@@ -8757,7 +10260,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Special compensation allowance is admissible  to ",
    "Option1": "All generating companies and transmission licensees",
    "Option2": " All hydro generating stations",
@@ -8766,7 +10269,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "In case normative  Annual transmission availability is less than operation norm fixed by Commission then tariff would:  ",
    "Option1": "Increases ",
    "Option2": "Decreases",
@@ -8775,7 +10278,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "If COD is 15 Oct. 2015 for a project, then the cut off date would be",
    "Option1": "31.3.2016",
    "Option2": "31.3.2017",
@@ -8784,7 +10287,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Medium term usage of transmission system means ",
    "Option1": "use upto 5 years",
    "Option2": "use upto three years",
@@ -8793,7 +10296,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Normative  Annual Transmission Availability factor for AC system is ",
    "Option1": "95%",
    "Option2": "98%",
@@ -8802,7 +10305,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Auxiliary Energy consumption in AC sub station shall be reimbursed through ",
    "Option1": " Actual expenditure in monthly billing",
    "Option2": "Power allocation from Government of India",
@@ -8811,7 +10314,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Rate of interest on working capital shall be equal to ",
    "Option1": "Long term weighted average cost of debt",
    "Option2": "Short term Prime lending rate of SBI",
@@ -8820,7 +10323,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The tariff Regulation of CERC  is applicable to generating stations                                                                                                     (1) Generating stations owned or controlled by the Central Government;                                                                                         (2)Generating stations other than those owned or controlled by the Central Government having a composite scheme for generation and sale of electricity in more than one state;                                                   (3) Generating stations owned or controlled by the State Government and supplying power within the State;                                                                           (4) Generating stations supplying power to the trader",
    "Option1": "1&2",
    "Option2": "2&3",
@@ -8829,7 +10332,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Rate of Post  tax return allowed for the storage type hydro generating station in tariff period 2014-19 is  ",
    "Option1": "14%",
    "Option2": "16.50%",
@@ -8838,7 +10341,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Useful life of  a thermal generating station is ",
    "Option1": "25 years",
    "Option2": "35 years",
@@ -8847,7 +10350,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Initial Spares allowed for a gas based generating station as a %  of capital cost is ",
    "Option1": "2.50%",
    "Option2": "3.50%",
@@ -8856,7 +10359,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "If the actual equity deployed is 25% then what would be the Debt Equity ratio considered for the purpose of tariff  for project  declared under commercial operation after 1.4.2009  ",
    "Option1": "70:30",
    "Option2": "60:40",
@@ -8865,7 +10368,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "In interest on working capital, two month receivable means",
    "Option1": " Fixed and energy charges of two month ",
    "Option2": "Interest of two months",
@@ -8874,7 +10377,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The loan repayment is considered equal to  ",
    "Option1": " annual depreciation",
    "Option2": "actual repayment",
@@ -8883,7 +10386,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The rate of interest for the computation of interest on loan shall be ",
    "Option1": " weighted average rate of interest on the basis of actual loan portfolio",
    "Option2": " SBI PLR",
@@ -8892,7 +10395,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "How many times truing up exercise can be taken up by the Commission during the tariff period ",
    "Option1": "One",
    "Option2": "Two ",
@@ -8901,7 +10404,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "If the station COD is 3.1.2010 then what would be the cut off date",
    "Option1": "31.3.2010",
    "Option2": "31.3.2011",
@@ -8910,7 +10413,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Special allowance which may be opted by the coal/lignite generating station after useful life",
    "Option1": "Rs 5 Lakh/MW in 2014-15  escalated @5.72% every year",
    "Option2": "Rs 6 Lakh/MW in 2014-15   escalated @5.72% every year",
@@ -8919,7 +10422,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Determination of Tariff of generating station is function of CERC under Electricity Act,2003",
    "Option1": "Section 62",
    "Option2": "Section 178",
@@ -8928,7 +10431,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The Components of Annual Fixed charges for a coal based generating stations are ",
    "Option1": "8",
    "Option2": "6",
@@ -8937,7 +10440,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is norm of cost of coal in working capital for a pit head station",
    "Option1": "one and half month",
    "Option2": "one month",
@@ -8946,7 +10449,7 @@ var questions = [
    "answer": 0
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "If the  value of Minimum Alternate tax( MAT) is 20% then what would be Pre-tax return on equity as per the Regulation corresponding to 15.5% post tax return",
    "Option1": "19.38%",
    "Option2": "20%",
@@ -8955,7 +10458,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is norm of Maintenance spares for the gas based stations in working capital calculations",
    "Option1": "25% of O&M expenses",
    "Option2": "20% of O&M expenses",
@@ -8964,7 +10467,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Norm of O&M expenses are specified for thermal generating stations ",
    "Option1": "In Rs Lakh/MW",
    "Option2": " In Rs Lakh/MWh",
@@ -8973,7 +10476,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is norm of Secondary fuel oil consumption for a coal based station for 2014-19 control period ",
    "Option1": "1 ml/kWh",
    "Option2": "1.5 ml/kWh",
@@ -8982,7 +10485,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "In case Annual Plant  Availability Factor is less than the NAPAF fixed by Commission  then the tariff recovery would  ",
    "Option1": "Increase ",
    "Option2": "Decrease",
@@ -8991,7 +10494,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "If the GCV of the coal decreases during the month then the energy charges shall ",
    "Option1": "decrease",
    "Option2": "increase",
@@ -9000,7 +10503,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The norms for the transit and handling losses as a % of coal in case of non-pit head stations is",
    "Option1": "0.20%",
    "Option2": "0.50%",
@@ -9009,7 +10512,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Tariff of hydro consist of only fixed charges but tariff is recovered in ",
    "Option1": "Single Part",
    "Option2": "two part",
@@ -9018,7 +10521,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "In Availability Based Tariff payment of fixed charges are linked to ",
    "Option1": "PLF",
    "Option2": "Heat rate",
@@ -9027,7 +10530,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Gross station heat rate norm of new coal based station is specified as on/after 1.4.2014 COD",
    "Option1": "1.065 x Design Heat rate ",
    "Option2": "1.05 x Design Heat rate",
@@ -9036,7 +10539,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "What is the norm of Auxiliary Energy Consumption for 210MW unit using steam driven BFP with Forced draft cooling towers",
    "Option1": "6%",
    "Option2": "8.50%",
@@ -9045,7 +10548,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Sil of 765kV quad bersimis",
    "Option1": "2225",
    "Option2": "2250",
@@ -9054,7 +10557,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Who calculate TAFM",
    "Option1": "RLDC",
    "Option2": "RPC   ",
@@ -9063,7 +10566,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Who veryfy the TAFM",
    "Option1": "RLDC",
    "Option2": "RPC   ",
@@ -9072,7 +10575,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Who certify TAFM ",
    "Option1": "RLDC",
    "Option2": "RPC   ",
@@ -9081,7 +10584,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "TAFM is calculated for A & HVDC",
    "Option1": "seperately",
    "Option2": "together",
@@ -9090,7 +10593,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Depreciation rate of overhead lines",
    "Option1": "3.34%",
    "Option2": "5.38%",
@@ -9099,7 +10602,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Time schedule of completiition of green filed unit size of 660MW/800MW ",
    "Option1": "44ths",
    "Option2": "33mths",
@@ -9108,7 +10611,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Time schedule of copletion of 765kV S/C",
    "Option1": "46mths",
    "Option2": "50mths",
@@ -9117,7 +10620,7 @@ var questions = [
    "answer": 0
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "FEHS for Hydro station is",
    "Option1": "12% or act. Which is less",
    "Option2": "5% or act. Which is less",
@@ -9126,7 +10629,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Aux. energy consumption for HVDC shall be borne by",
    "Option1": "Benificiaries",
    "Option2": "Trans. Licensee",
@@ -9135,7 +10638,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "If outage of a transmission element is affecting evacuation of power then outage hrs shal be multiplied by",
    "Option1": "1.5",
    "Option2": "same as normal hrs.",
@@ -9144,7 +10647,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Aux. consumption of surface hydro is -----than underground hydro",
    "Option1": "less",
    "Option2": "more",
@@ -9153,7 +10656,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Aux. consumption between rotating exciters and static excitation is differ by ",
    "Option1": "0.20%",
    "Option2": "0.30%",
@@ -9162,7 +10665,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Aux. power consumptiion of a station with coal rejects",
    "Option1": "8.50%",
    "Option2": "5.25%",
@@ -9171,7 +10674,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Secondry fuel oil consumption for lignate gene. With CFBC Tech",
    "Option1": "0.5ml/kwh",
    "Option2": "1ml/kwh",
@@ -9180,7 +10683,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Aux. power consumptiion for gas station having COD after 1/4/09",
    "Option1": "1.045* design heat rate",
    "Option2": "design heat rate",
@@ -9189,7 +10692,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "station GHR is less by ---kcal/kwh for electricaly driven boiler feed pumps of units 500MW and above",
    "Option1": "35kcl/kwh",
    "Option2": "50kcl/kwh",
@@ -9198,7 +10701,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Transit and handling losses wrt coal for pit head & non pit heads are",
    "Option1": "1%&8%",
    "Option2": "0.2% & 0.8%",
@@ -9207,7 +10710,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "% incentivesallowed  to generators hving exbus scheduled energy  in excess of  NAPLF",
    "Option1": "75ps/kwh",
    "Option2": "98ps/kwh",
@@ -9216,7 +10719,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "lime stone consumtion is a part of",
    "Option1": "capacity charge",
    "Option2": "energy charge",
@@ -9225,7 +10728,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "water charge is a part of O&M .T/F",
    "Option1": "TRUE",
    "Option2": "FALSE",
@@ -9234,7 +10737,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Working capital of a hydro station include",
    "Option1": "receivables = 2mths of fixed cost, 15% maint spares,O&M for one month",
    "Option2": "receivables = 1mth fixed cost, 11% maint spares,O&M for two month",
@@ -9243,7 +10746,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Additional ROE is not allowed for line having length less than",
    "Option1": "32km",
    "Option2": "100km",
@@ -9252,7 +10755,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "in case FGMO/RGMO/telemetry/communication are not available the ROE is reduced by",
    "Option1": "0.50%",
    "Option2": "1.50%",
@@ -9261,7 +10764,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "These regulations shall not apply for determination of tariff",
    "Option1": "under Section 63 of the Act;",
    "Option2": "Terms and Conditions for Tariff determination from Renewable Energy Sources) Regulations, 2012",
@@ -9270,7 +10773,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Small gas turbine generating station",
    "Option1": "capacity range of\n50 MW or below;",
    "Option2": "capacity range of\n10 MW or below;",
@@ -9279,7 +10782,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "the useful life for AC and DC substations and GIS for which Notice Inviting Tender is floated on or after 01.04.2014 shall be",
    "Option1": "35 Years",
    "Option2": "25 Years",
@@ -9288,7 +10791,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Year’ means a in  TCT",
    "Option1": "Financial Year ",
    "Option2": "Calender Year ",
@@ -9297,7 +10800,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "amount under-recovered or over-recovered, along with simple interest at the\nrate ",
    "Option1": "equal to the bank rate as on 1st April of the respective year",
    "Option2": "equal to the bank rate as on 1st Jan of the respective year",
@@ -9306,7 +10809,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "following shall be excluded or removed from the capital cost of the existing\nand new project",
    "Option1": "assets forming part of the project, but not in use",
    "Option2": "Decapitalisation of Asset",
@@ -9315,7 +10818,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Capacity Charges Comprises",
    "Option1": "Return on equity & Interest on loan capital and Working capital",
    "Option2": "Depreciation",
@@ -9324,7 +10827,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Energy Charges Comprises of ",
    "Option1": "Landed Fuel Cost of primary fuel",
    "Option2": "Cost of secondary fuel oil consumption",
@@ -9333,7 +10836,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Return on Equity",
    "Option1": "15.50% for thermal generators, transmission system, run of the river hydro generating",
    "Option2": "base rate of 16.50% for the storage type\nhydro generating, pumped storage hydro generating, run\nof river generating",
@@ -9342,7 +10845,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Rate of return of a new project shall be reduced by 1% if declared under commercial operation without commissioning",
    "Option1": "Restricted Governor Mode Operation (RGMO)/ Free Governor Mode\nOperation (FGMO)",
    "Option2": "data telemetry, communication system up to load dispatch Center",
@@ -9351,7 +10854,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The working capital shall cover cost of coal or lignite and limestone towards stock, for -----------days for\npit-head generating stations and ---------- days for non-pit-head generating",
    "Option1": "15,30",
    "Option2": "10,10",
@@ -9360,7 +10863,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Auxiliary Energy Consumption for Coal-based generating stations with Electrically driven boiler feed pumps",
    "Option1": "6.00%",
    "Option2": "7.75%",
@@ -9369,7 +10872,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Auxiliary Energy Consumption for Combined Cycle ------- and for Open Cycle is --------",
    "Option1": "2.5% , 1%",
    "Option2": "1% , 2.5%",
@@ -9378,7 +10881,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Rebate on payments are made on any day after 2 days and within a period of 30 days of presentation of bills, by the generating company or the transmission licensee by  ---%",
    "Option1": "1%",
    "Option2": "2%",
@@ -9387,7 +10890,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Late payment surcharge on delay by a beneficiary as the case may be, beyond a period of 60 days from the date of billing",
    "Option1": "1%",
    "Option2": "2%",
@@ -9396,7 +10899,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "Submission of information and calculation of expected revenue from tariff and charges to be done on or before ",
    "Option1": "30-Nov",
    "Option2": "31-Dec",
@@ -9405,7 +10908,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "10.TCT14-19-Regulatory",
+   "Topic": "TCT14-19-Regulatory",
    "Question": "The formats in respect of expected revenue from traiffs and charges shall contain financial position for - ",
    "Option1": "previous financial year ",
    "Option2": "current financial year ",
@@ -9414,7 +10917,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What is the position of India in Wind Internationally ?",
    "Option1": "10th  ",
    "Option2": "20th   ",
@@ -9423,7 +10926,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What is the relation between wind velocity and power?",
    "Option1": "proportional to square of velocity  ",
    "Option2": "inversely proportional to cube of velocity  ",
@@ -9432,7 +10935,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What is the definition of Penetration level of Wind source ?",
    "Option1": "percentage wind energy  in design energy  ",
    "Option2": "percentage wind energy  in annual energy   ",
@@ -9441,7 +10944,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "One REC is issued for an injection of ________ energy",
    "Option1": "100MWh    ",
    "Option2": "100 kWh     ",
@@ -9450,7 +10953,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "A company was issued 100 RECs on 01-03-2012. Out of them 60 were sold on 30-03-2012.  Upto what period can the company retain the  balance REC?",
    "Option1": "I year",
    "Option2": "2 years",
@@ -9459,7 +10962,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What is the Pf range in which Wind generators are to operate?",
    "Option1": "0.8 pf  lag to 0.9 pf lead   ",
    "Option2": "0.95pf lag to 0.95pf lead  ",
@@ -9468,7 +10971,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What is the minimum voltage at which WTG can disconnect under Fault Ride Through condition?",
    "Option1": "below 10%  ",
    "Option2": "below 85%   ",
@@ -9477,7 +10980,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Which state in India has the highest wind potential?",
    "Option1": "TN  ",
    "Option2": "Gujarat   ",
@@ -9486,7 +10989,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Which of the following would best describe a type 4 WTG?",
    "Option1": "Synchronous generator   ",
    "Option2": "Squirrel  cage Induction  ",
@@ -9495,7 +10998,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What is the short circuit contribution of WTG?",
    "Option1": "Nil",
    "Option2": "it depends on direct connection or AC-DC-AC connection ",
@@ -9504,7 +11007,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What is the inertia contribution of type 4 (Full conversion) WTG?",
    "Option1": "nil   ",
    "Option2": "very less   ",
@@ -9513,7 +11016,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What is the lateral clearance between Wind Turbine Generators to be maintained in hilly terrains (consider D to be the diameter of rotor blades)?",
    "Option1": "2D    ",
    "Option2": "7D    ",
@@ -9522,7 +11025,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Which country has highest installed capacity of Wind?",
    "Option1": "Spain    ",
    "Option2": "US  ",
@@ -9531,7 +11034,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Which country has a dedicated control centre for Renewables ?",
    "Option1": "US    ",
    "Option2": "China    ",
@@ -9540,7 +11043,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "A Renewable Energy generator sells power of 1500 MWh to a Discom @ 3.50 ps/u a preferential rate fixed by the SERC.  How many Renewable Energy Certificates will the generator get?",
    "Option1": "1500",
    "Option2": "1500000",
@@ -9549,7 +11052,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Renewable Energy Certificates are traded at the Power Exchanges on",
    "Option1": "every Wednesday of the month",
    "Option2": "every last Wednesday of the month",
@@ -9558,7 +11061,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "The Floor Price and the Forebearance Price of Renewable Energy Certificates are ____",
    "Option1": "discovered at the Power Exchanges",
    "Option2": "decided by the eleigible entities",
@@ -9567,7 +11070,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Accreditation of the Renewable Energy project is done by the ___",
    "Option1": "SERC",
    "Option2": "State Agency",
@@ -9576,7 +11079,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Which of the following renewable energy projects connected to the 33 kV level and above are bound by IEGC to forecast their generation?",
    "Option1": "10 MW and above wind projects and 10MW and above solar projects",
    "Option2": "5 MW and above wind projects and 5 MW and above solar projects",
@@ -9585,7 +11088,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Which of the following hydro generators are eligible for Renewable Energy Certificates?",
    "Option1": "less than 25 MW",
    "Option2": "less than 10 MW",
@@ -9594,7 +11097,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What is the maximum efficiency of a WTG (wind turbine generator) ?",
    "Option1": "approximately 72 %",
    "Option2": "approximately 45 %",
@@ -9603,7 +11106,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Which state in India has the highest installed wind capacity ?",
    "Option1": "TN  ",
    "Option2": "Gujarat   ",
@@ -9612,7 +11115,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What is the denomination of each REC issued?",
    "Option1": "1 MWh",
    "Option2": "5 KWh",
@@ -9621,7 +11124,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What are the types of RECs issued?",
    "Option1": "Wind & Solar",
    "Option2": "Wind & Biomass",
@@ -9630,7 +11133,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "An RE Generator is selling power at Preferential Tariff. In a particular month it injects 250 MWh into the grid. How many RECs can be issued to the said RE Generator?",
    "Option1": "250 RECs",
    "Option2": "25000 RECs",
@@ -9639,7 +11142,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Whether Captive Power Plants(CPPs) based on RE Source not recognised by MNRE would be eligible for REC ?",
    "Option1": "Yes",
    "Option2": "No",
@@ -9648,7 +11151,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "RECs are issued to :",
    "Option1": "Distribution Licensee",
    "Option2": "RE Generators",
@@ -9657,7 +11160,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "RECs are issued by:",
    "Option1": "NLDC",
    "Option2": "RLDC",
@@ -9666,7 +11169,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "RECs are valid for:",
    "Option1": "2 years",
    "Option2": "5 years",
@@ -9675,7 +11178,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Whether Auxiliary consumption of any RE generator (including RE CPP or Bagasse based cogeneration power plants) is entitled for issuance of REC?",
    "Option1": "No",
    "Option2": "Yes",
@@ -9684,7 +11187,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "RECs are traded at:",
    "Option1": "Power Exchanges",
    "Option2": "NLDC",
@@ -9693,7 +11196,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "In normal circumstances, RECs are traded on: ",
    "Option1": "Last Friday of the Month",
    "Option2": "Last Wednesday of the Month",
@@ -9702,7 +11205,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Who designate State Agency under REC Mechanism?",
    "Option1": "CERC",
    "Option2": "Respective SERC",
@@ -9711,7 +11214,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Which Agency has been designated as Central Agency  under REC Mechanism?",
    "Option1": "SLDC",
    "Option2": "SERC",
@@ -9720,7 +11223,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "A RE Generator Registered by Central Agency under REC Mechanism injected 500 MWh in the month of May, 2011, it applied for issuance of RECs in the Month of October, 2011. How many RECs can be issued?",
    "Option1": "500 RECs",
    "Option2": "5,00,000 RECs",
@@ -9729,7 +11232,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Accreditation and Registration under REC Mechanism  are valid for:",
    "Option1": "3 Years",
    "Option2": "6 Months",
@@ -9738,7 +11241,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Who validates Energy Injection Report?",
    "Option1": "SLDC",
    "Option2": "STU",
@@ -9747,7 +11250,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "‘First Trade’ under REC Mechanism occurred in:",
    "Option1": "March, 2011",
    "Option2": "February, 2011",
@@ -9756,7 +11259,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "RE Generator can apply for Accreditation…………………………. prior to proposed date of Commissioning.",
    "Option1": "3 Months",
    "Option2": "6 Months",
@@ -9765,7 +11268,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "RE Generator can apply for Registration…………………………. prior to proposed date of Commissioning.",
    "Option1": "3 Months",
    "Option2": "6 Months",
@@ -9774,7 +11277,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Which one of the following is the correct sequence of ‘Process under REC Mechanism’?",
    "Option1": "Accreditation, Registration, Issuance, Redemption",
    "Option2": "Redemption, Issuance,Registration, Accreditation",
@@ -9783,7 +11286,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Which of the following functions under REC Mechanism are undertaken by Central Agency? ",
    "Option1": "Registration Only",
    "Option2": "Registration, Issuance",
@@ -9792,7 +11295,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Which of the following functions under REC Mechanism are undertaken by State Agency? ",
    "Option1": "Accreditation",
    "Option2": "Registration, Issuance",
@@ -9801,7 +11304,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "RECs can be purchased by:",
    "Option1": "Mandatory Buyers",
    "Option2": "Voluntary Buyers",
@@ -9810,7 +11313,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Which one of the following is the URL for REC Mechanism?",
    "Option1": "www.recregistryindia.com",
    "Option2": "www.recregistryindia.in",
@@ -9819,7 +11322,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Who is Administrator of the REC Website?",
    "Option1": "NLDC",
    "Option2": "CERC",
@@ -9828,7 +11331,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "RECs shall be issued by the Central Agency within ______ from the date of application by the eligible entities",
    "Option1": "15 days",
    "Option2": "10days ",
@@ -9837,7 +11340,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What is Floor Price for Non- Solar RECs?",
    "Option1": "Rs 3300 per REC",
    "Option2": "Rs 17000 per REC",
@@ -9846,7 +11349,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What is Forbeareance Price for Non- Solar RECs?",
    "Option1": "Rs 13300 per REC",
    "Option2": "Rs 3300 per REC",
@@ -9855,7 +11358,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Supposing the Floor Price and Forbearance price for Solar RECs as Rs 9000 per REC and Rs 15000 per REC then what can be the probable Market Clearing Price (MCP) per REC discovered in Power Exchanges? ",
    "Option1": "MCP shall necessarily be greater than  Rs 9000 & less than Rs 15000 as discovered in the Market",
    "Option2": "MCP shall necessarily be greater than Rs 15000 as discovered in the Market",
@@ -9864,7 +11367,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "An RE generator is eligible for issuance of REC towards",
    "Option1": "Gross generation",
    "Option2": "Ex-bus generation after auxiliary consumption",
@@ -9873,7 +11376,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "All RE based Captive power plants shall be recognised by -------- before issuence of RECs",
    "Option1": "CERC",
    "Option2": "MNRE",
@@ -9882,7 +11385,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Renewable purchase obligation is specified under",
    "Option1": "Renewable purchase obligation-Solar",
    "Option2": "Renewable purchase obligation-Non Solar",
@@ -9891,7 +11394,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "As per REC Regulation, Central Agency shall accord registration to eligible applicant within _________ from the date of application for registration",
    "Option1": "10 days",
    "Option2": "15 days",
@@ -9900,7 +11403,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Person aggrieved by the order of the Central Agency wrt registartion under proviso to Regulation 5, clause (3) of  REC regulation may appeal before the Commission within ______  from the date of such order.",
    "Option1": "10 days",
    "Option2": "1 month",
@@ -9909,7 +11412,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Person aggrieved by the order of the Central Agency wrt revokation of registartion under proviso to Regulation 6, clause (1) of  REC regulation may appeal before the Commission within ______  from the date of such order.",
    "Option1": "15 days",
    "Option2": "1 month",
@@ -9918,7 +11421,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Each RE Certificate issued to a captive power plant using RE sources shall represent one Megawatt hour of electricity generated from renewable energy source",
    "Option1": "injected ito the grid",
    "Option2": "deemed to be injected into the grid",
@@ -9927,7 +11430,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Captive Generating Plant (CGP) based on RE sources shall be eligible for the entire energy generated from such plant for self consumption for participating in the REC scheme only after a period of three years has elapsed subject to the condition",
    "Option1": "CGP has not availed or does not propose to avail any benefit in the form of concessional/promotional transmission or wheeling charges and/or banking facility benefit",
    "Option2": "CGP has foregone the benefits in the form of concessional/promotional transmission or wheeling charges and/or banking facility benefit",
@@ -9936,7 +11439,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "RE generator including captive generating plant shall be permitted to retain RECs for offsetting ",
    "Option1": "its RPO as a consumer.",
    "Option2": "RPO of its group companies as consumer",
@@ -9945,7 +11448,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Even if accreditation of eligible entity is revoked at a later date, RECs issued for the electricity generated at a time when such entity fulfilled the eligibility criteria for accreditation, shall remain valid for ",
    "Option1": "730 days",
    "Option2": "365 days",
@@ -9954,7 +11457,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Floor price and forbearance price of RECs shall be guided based on ",
    "Option1": "Variation in cost of generation of different renewable energy technologies",
    "Option2": "Variation in the Pooled Cost of Purchase",
@@ -9963,7 +11466,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Solar REC Floor price for the Solar projects commissioned on and after 1.4.2014",
    "Option1": "3800 INR/MWh",
    "Option2": "3500 INR/MWh",
@@ -9972,7 +11475,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Solar REC Forbearance price for the Solar projects commissioned on and after 1.4.2014",
    "Option1": "4500 INR/MWh",
    "Option2": "5500 INR/MWh",
@@ -9981,7 +11484,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Highest difference between the Commission determined Solar PV tariff (FIT) and the APPC across states for the year 2014-15 is the basis for ",
    "Option1": "Solar REC Floor price",
    "Option2": "Solar REC Forbearance price",
@@ -9990,7 +11493,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Highest difference between the minimum requirement for project viability of solar PV and respective states APPC of previous year (2014-15) has been considered to derive",
    "Option1": "Solar REC Floor price",
    "Option2": "Solar REC Forbearance price",
@@ -9999,7 +11502,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "What factors has been considered by CERC to arrive at the quantum of RECs to be issued to Solar projects registered under REC framework prior to 01.01.2015, for the period upto 31st March, 2017",
    "Option1": "Solar REC Floor price for 2012-13",
    "Option2": "Vintage Multiplier",
@@ -10008,7 +11511,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Post 31.03.2017, RECs issued to Solar projects registered under REC framework prior to 01.01.2015 is on the basis of ",
    "Option1": "1.33 times REC issued for every MWh generated ",
    "Option2": "One REC issued for every MWh generated",
@@ -10017,7 +11520,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Entity who can participate in REC Mechanism ",
    "Option1": "Eligible Generating Companies",
    "Option2": "Eligible Distribution Licensees",
@@ -10026,7 +11529,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Distribution licensees shall apply to the Central Agency for Certificates within ______  from the date of obtaining the certification from the concerned Appropriate Commission.",
    "Option1": "3 months",
    "Option2": "6 months",
@@ -10035,7 +11538,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "The eligible entity other than distribution licensee shall apply to the Central Agency for certificates within _______ from the corresponding generation from eligible renewable energy projects",
    "Option1": "3 months",
    "Option2": "6 months",
@@ -10044,7 +11547,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Application for issuance of certificates may be made on ",
    "Option1": "10th of a month",
    "Option2": "20th of a month",
@@ -10053,7 +11556,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Captive generating Plant (CPP) based on renewable energy sources does not propose to avail any benefit in the form of concessional/promotional transmission or wheeling charges and banking facility shall be eligible for ---------------------------------. ",
    "Option1": " participating in REC mechanism for only the energy generated for self consumption",
    "Option2": "participating in REC mechanism for the entire energy generated from such plant\nincluding self consumption",
@@ -10062,7 +11565,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "In case PPA entererd into by a RE Generator for sale of electricity at a preferential tariff is terminated pre-maturely, the generator is not eligible tp participate in REC scheme for ",
    "Option1": "3 years from the date of termination",
    "Option2": "till scheduled date of expiry of the PPA",
@@ -10071,7 +11574,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "If an eligible entity has been accreditated and registered on the basis of false information/suppression of material information and the accreditation of such entity is revoked at a later date,",
    "Option1": "RECs already issued to such entity but not redeemed shall stand revoked from the date of issue",
    "Option2": "If RECs already redeemed, such entity shall deposit the amount realized from sale of RECs with Central Agency",
@@ -10080,7 +11583,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Terms and conditions for recognition and issuance of Renewable Energy Certificate for Renewable Enenrgy Generation-Regulations 2010 are also referred to as",
    "Option1": "Terms and Conditions for Tariff determination from Renewable Energy Sources",
    "Option2": "The REC Regulations",
@@ -10089,7 +11592,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Registration of eligible netities for RECs is a function of",
    "Option1": "SERC",
    "Option2": "CERC",
@@ -10098,7 +11601,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Issuance of RECs is a function of",
    "Option1": "SERC",
    "Option2": "CERC",
@@ -10107,7 +11610,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Maintaining and settlement of accounts of RECs is a funstion of",
    "Option1": "SERC",
    "Option2": "CERC",
@@ -10116,7 +11619,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "CGP based on renewable energy sources, including renewable\nenergy generating plant not fulfilling the conditions of CGP as prescribed in the\nElectricity Rules, 2005 but having self-consumption,shall be eligible for the entire energy generated from such plant for participating in\nthe REC scheme if they fulfill these conditions",
    "Option1": "having date of commissioning between 29th September 2010 and 31st\nMarch 2016",
    "Option2": "registered with Central Agency under REC scheme on or before 30th June\n2016",
@@ -10125,7 +11628,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "RECs shall be dealt through",
    "Option1": "Power Exchanges only",
    "Option2": "In case of Eligible CGP, for offsetting their RPO as a consumer",
@@ -10134,7 +11637,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "Procedure for the Implementation of the Mechanism of Renewable\nRegulatory Fund is not applicable to",
    "Option1": "plants selling power through collective\ntransactions",
    "Option2": "plants selling power through bilateral\ntransactions",
@@ -10143,7 +11646,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "14.REC-Regulatory",
+   "Topic": "REC-Regulatory",
    "Question": "The wind generators shall be responsible for forecasting their generation upto\nan accuracy of_____ as per RRF mechanism",
    "Option1": "70%",
    "Option2": "80%",
@@ -10783,7 +12286,7 @@ var questions = [
  },
  {
    "Topic": "SCADA_EMS",
-   "Question": " 'Milli seconds accurate time of status changes' for devices monitored is provided by which application?",
+   "Question": " Milli seconds accurate time of status changes for devices monitored is provided by which application?",
    "Option1": "Historical Data Recorder",
    "Option2": "Sequence of Events",
    "Option3": "Network Managemetn System",
@@ -12070,7 +13573,7 @@ var questions = [
  },
  {
    "Topic": "IT",
-   "Question": "Voice over IP (Voice over Internet Protocol or \"VoIP\") technology converts voice calls from",
+   "Question": "Voice over IP (Voice over Internet Protocol or VoIP) technology converts voice calls from",
    "Option1": "analog to digital",
    "Option2": "digital to analog",
    "Option3": "It depends",
@@ -12430,7 +13933,7 @@ var questions = [
  },
  {
    "Topic": "IT",
-   "Question": "Which of the following terms is a \"browser\"?",
+   "Question": "Which of the following terms is a browser?",
    "Option1": "Netscape Navigator",
    "Option2": "World Wide Web",
    "Option3": "Launcher ",
@@ -12573,7 +14076,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Electricity Act 2003 replaces",
    "Option1": "Electricity Act 1910",
    "Option2": "Eletricity Act 1948",
@@ -12582,7 +14085,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "For generating Thermal electricity, clearance from Central Electricity Authority ",
    "Option1": "is required ",
    "Option2": "is not required",
@@ -12591,7 +14094,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Judgment of the appellate tribunal can be appealed against in",
    "Option1": "Sessions Court",
    "Option2": "High Court",
@@ -12600,7 +14103,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Which section of the Electricity Act, 2003 empowers the RLDCs to give directions to licensees,  Generating companies, generating stations, sub-station and any other person connected with the operation of power system for ensuring stability of grid operations. ",
    "Option1": "Section 16",
    "Option2": "Section 29",
@@ -12609,7 +14112,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Who can issue directions to RLDCs or SLDCs for mainting smooth and stable transmission and supply of Electricity to any Region or State.",
    "Option1": "Setion 37",
    "Option2": "Section 30",
@@ -12618,7 +14121,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Name the forum for redressal of the consumers grievance within the area of distribution licensee.",
    "Option1": "Section 39",
    "Option2": "Section 45",
@@ -12627,7 +14130,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The terms and condition for determination of tariff by the apporopriate commission is specified under ",
    "Option1": "Section 52  of Electricity Act, 2003",
    "Option2": "Section 62 of Electricity Act, 2003",
@@ -12636,7 +14139,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The constitution of the Central Commission is enshrined under which  Section of Electricity Act, 2003",
    "Option1": "Section",
    "Option2": "Section 46",
@@ -12645,7 +14148,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Which section of the Electricity Act, 2003 provides  for the functions of the Central Commission",
    "Option1": "Section 49",
    "Option2": "Section 58",
@@ -12654,7 +14157,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Function of the State Commission is provided in which section of the Electricity Act, 2003",
    "Option1": "Section 43",
    "Option2": "Section 56",
@@ -12663,7 +14166,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Appeal  form the order of the State Commission or the Central Commission can be preferred before which authority?",
    "Option1": "Disctrict court",
    "Option2": "Appellete Tribunal",
@@ -12672,7 +14175,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The limitation for filing  Appeal beofre the Appellate  Tribunal  is",
    "Option1": "30 DAYS",
    "Option2": "60 DAYS",
@@ -12681,7 +14184,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Revision against the order of the appropriate commission can be filed within how many days of the date of order",
    "Option1": "90 days",
    "Option2": "60 days",
@@ -12690,7 +14193,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Under which provisions of the Act or the Regulation can review peition be filed   against the order of the Central Commission?",
    "Option1": "Section 110 of Ecltricity Act, 2003",
    "Option2": "Section 130 of the CERC of Conduct Business Regulations, 1999",
@@ -12699,7 +14202,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Which setion of the Electricity Act, 2003 empowers the Central Commssion to make Regulation for carrying out the provision of the Electricity Act?",
    "Option1": "108",
    "Option2": "110",
@@ -12708,7 +14211,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "What is meant by Grid Code?",
    "Option1": "Grid cade means a code specified by the cnetal government under Section 79 (1) of the Eletricity Act, 2003",
    "Option2": "Grid means a Regulation that lays down the Rules guidelines and standards to be followed by various persons and particiants in the power system",
@@ -12717,7 +14220,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Name the section that enables or transmission licensee to engage in other business with prior intimation to the appropriate commssion:",
    "Option1": "Section 29",
    "Option2": "Section 31",
@@ -12726,7 +14229,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Which part of the Electricity Act, 2003 deals with the offenses and penalities under the Act?",
    "Option1": "Part XIV",
    "Option2": "Part X",
@@ -12735,7 +14238,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Which Section of Electiricty Act , 2003 provides for the punishment for non-compliance of directions by the appropriate commssion? ",
    "Option1": "Section 156",
    "Option2": "Section 142",
@@ -12744,7 +14247,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "El;ectricity Act, 2003  was promulgated after repealing which earlier enactment of Electricity Laws",
    "Option1": "Electtricity Act, 1910",
    "Option2": "Electricity Supply Act, 1948",
@@ -12753,7 +14256,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "What are the activities that are licensed under the new Elecitiricty Act, 2003 ?",
    "Option1": "Generation",
    "Option2": "Ttransmission",
@@ -12762,7 +14265,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Under which section of the Electriicty Act the Central Government prepares the national electiricty policy and tarif policy?",
    "Option1": "Section 8",
    "Option2": "Section 15",
@@ -12771,7 +14274,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Which Section of the Electricity Act, 2003 empowers the appropriate commission to grant licencse? ",
    "Option1": "Section 14",
    "Option2": "Section 23",
@@ -12780,7 +14283,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Which was the first State in the Country to establish Regulatory Commission ",
    "Option1": "Andhra",
    "Option2": "Karnataka",
@@ -12789,25 +14292,25 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "ATE consists of ",
-   "Option1": "  Three Members",
+   "Option1": "  Three Members",
    "Option2": "Five Members",
    "Option3": "Four Members",
    "Option4": "Six Members",
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "IEGC Regulation -2010 Came Into Force On",
-   "Option1": "01-04-2010",
-   "Option2": "03-04-2010",
-   "Option3": "03-05-2011",
-   "Option4": "01-06-2010",
+   "Option1": "01/04/2010",
+   "Option2": "03/04/2010",
+   "Option3": "03/05/2011",
+   "Option4": "01/06/2010",
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "If system frequency falls to 49.7 hz and constituents draw   more than their scheduled drawal then they are violating grid code clause no.",
    "Option1": "5.4.2 (d)",
    "Option2": "5.4.2 (x)",
@@ -12816,7 +14319,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Grid code  5.4.2 (b) says “ the SLDC/ SEB/SEB/Distribution licencee  and bulk consumer shall ensure that requisite load shedding  is carried out in its control area  so that there is no overdrawl when frequency is ----------hz or below.",
    "Option1": "49.2 HZ",
    "Option2": "49.5 HZ",
@@ -12825,7 +14328,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "No part of the grid shall be deliberately isolated from the rest of the national / regional grid , except under an emergency, and conditions in which such isolation would prevent  a  total grid collapse and / or would enable early restoration of power supply,…………….",
    "Option1": "6.8 ( a) ",
    "Option2": "5.2 (b)",
@@ -12834,7 +14337,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Which clause of grid code allows the users, ctu, and stu for isolation of the part of the grid ?",
    "Option1": "6.8 ( a) ",
    "Option2": "5.2 (b)",
@@ -12843,7 +14346,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "if concerned SLDC/CTU/User is not intimating RLDC about important element tripping manual or automatic then they are violating grid code clause no",
    "Option1": "5.2(b)",
    "Option2": "6.2(d)",
@@ -12852,7 +14355,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "As per iegc clause no.5.2 (e), any prolonged outage of power system elements of any user/ ctu/stu, which causing or likely to cause danger to the grid or sub-optimal operation of the grid shall regularly be monitored by…………..",
    "Option1": "NLDC",
    "Option2": "RPC",
@@ -12861,7 +14364,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "If any user reduces generation of a unit of 210mw capacity down to 90mw without any case of emergency or any act to prevent imminent damage to costly equipment then that user violates grid code clause no. …….",
    "Option1": "6.2 (l)                        ",
    "Option2": "5.2 (j )                    ",
@@ -12870,7 +14373,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "No user / SEB shall cause a sudden variation in its load by more than …………mw without prior intimation to and consent of the RLDC",
    "Option1": "50 MW           ",
    "Option2": "100 MW",
@@ -12879,7 +14382,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "As per IEGC, all SEBs, distribution licensees, ctu stus and sldcs shall ensure that the -------------and-----------schemes are always functional. RLDC shall inform RPC secretariat about instances when the desired load relief is not obtained through relays in real time operation.",
    "Option1": "Over flux and over load   ",
    "Option2": "Under frequency and df/dt",
@@ -12888,7 +14391,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "“NLDC / RLDC are authorized to defer the planned outage” under which grid code clause, should they can exercise this power?",
    "Option1": "5.7.4 (g)     ",
    "Option2": "5.9.2 (a)     ",
@@ -12897,7 +14400,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Generation of power from NRE sources such as wind, small hydro, Bio maas and solar energy is exremely vital for",
    "Option1": "green power",
    "Option2": "cheaper",
@@ -12906,7 +14409,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "National Solar mission is intiative of",
    "Option1": "Govt of India",
    "Option2": "State Govt",
@@ -12915,7 +14418,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The total estimated medium-term (2032) for power generation from renewable sources is",
    "Option1": "190000 MW",
    "Option2": "183000 MW",
@@ -12924,7 +14427,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "As on 31.03.2011, the grid interactive Installed Capacity from renewable is --------- MW",
    "Option1": "19975",
    "Option2": "20000",
@@ -12933,7 +14436,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "During 12th Plan renewable capacity of -------- MW has been envisaged",
    "Option1": "18,500",
    "Option2": "16000",
@@ -12942,7 +14445,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "During 13th Plan renewable capacity of -------- MW has been envisaged",
    "Option1": "30000",
    "Option2": "30500",
@@ -12951,7 +14454,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "There is an urgent need for setting up ----------- plants during the 12th Plan with proper regulatory support.",
    "Option1": "coal plants",
    "Option2": "peaking power",
@@ -12960,7 +14463,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Peaking plants shall be --------- and must comply with      --------",
    "Option1": "environmentally-friendly, emission norms",
    "Option2": "environmentally-friendly, cheaper",
@@ -12969,7 +14472,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "peaking power would be costlier as compared to off peak power due to ",
    "Option1": "higher heat rate  ",
    "Option2": "O&M costs",
@@ -12978,7 +14481,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "System reserves can be classified into",
    "Option1": "Primary Control Reserves or Frequency Control Reserves",
    "Option2": "Secondary Reserves or Spinning and Non-spinning Reserves ",
@@ -12987,7 +14490,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Primary reserves are those reserves that should be activated within ---------- seconds",
    "Option1": "5",
    "Option2": "15",
@@ -12996,7 +14499,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Secndory reserves are those reserves that should be activated within ---------- seconds",
    "Option1": "5",
    "Option2": "25",
@@ -13005,7 +14508,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "tertiary reserves also which can take over from the secondary reserves within --------- minutes of the disturbance and release these secondary reserves",
    "Option1": "10",
    "Option2": "15",
@@ -13014,7 +14517,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "ertiary reserves are generally",
    "Option1": "spinning reserves",
    "Option2": "non spinning reserves",
@@ -13023,7 +14526,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The Working Group recommends planning for at least --------- MW gas based peaking power plants during 12th Plan",
    "Option1": "2000",
    "Option2": "3000",
@@ -13032,7 +14535,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "A per working group ------ MW each in ------ major metro cities of India with proper regulatory support",
    "Option1": "400,5",
    "Option2": "500,4",
@@ -13041,7 +14544,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "A per working group ---------- plants which have a high efficiency must be promoted",
    "Option1": "Combined Heating and Cooling (CHP) ",
    "Option2": "dieseal",
@@ -13050,7 +14553,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Super Critical thermal units of 660 MW (steam parameters of 247 kg/cm2 and 535/565 deg ) and 800 MW (Temp 565/593 deg )   need to be promoted aggressively",
    "Option1": "TRUE",
    "Option2": "FALSE",
@@ -13059,7 +14562,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Policy Options could be considered for making supercritical units mandatory beyond 12th Plan",
    "Option1": "Issue of advisory by MoP/CEA for the utilities to install supercritical units only",
    "Option2": "Suitable provisions to install supercritical units in the coal allocation policy for coal linkages of 13th Plan projects",
@@ -13068,7 +14571,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "In the existing boilers maximum --% of blending of imported coal is possible",
    "Option1": "10",
    "Option2": "15",
@@ -13077,7 +14580,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "In the Optimistic scenario, the coal required to be imported is about ---- MT",
    "Option1": "159",
    "Option2": "167",
@@ -13086,7 +14589,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Due to reduced availability of gas from KG D6 field and also from APM sources, existing power plants in the country are operating at low PLF",
    "Option1": "TRUE",
    "Option2": "FALSE",
@@ -13095,7 +14598,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "which activities are included in R & M schemes",
    "Option1": "aim at increasing the efficiency of the unit",
    "Option2": "improving its availability & renovating obsolete equipment",
@@ -13104,7 +14607,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The Working Group recommends setting up of a Task Force under CERC to deliberate upon the various aspects associated with ",
    "Option1": "setting up of peaking plants",
    "Option2": "creation of adequate system reserves",
@@ -13113,7 +14616,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The total inter-regional transmission capacity at the beginning of 11th Plan was ------ MW which is now expected to grow to about ------ MW by the end of 11th Plan",
    "Option1": "14050,    25650",
    "Option2": "15000,  27000",
@@ -13122,7 +14625,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Till March 2011, CTU has received about ---- Long Term Open Access (LTA) applications for transfer of power from their generation projects of capacity about ----- MW to various target regions",
    "Option1": "187, 177000",
    "Option2": "185, 178000",
@@ -13131,7 +14634,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The Inter-regional transmission capacity of all-India grid at the end of 12th Plan",
    "Option1": "63000 MW",
    "Option2": "71000 MW",
@@ -13140,25 +14643,25 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "During 12th Plan period about -------- circuit kilometres (ckm) of transmission lines will get added",
    "Option1": "107000",
-   "Option2": "1,09,000",
+   "Option2": "109,000",
    "Option3": "110000",
    "Option4": "130000",
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "During 12th Plan period about ---------- MVA of AC transformation capacity will get added",
-   "Option1": "2,60,000",
-   "Option2": "2,70,000",
+   "Option1": "260,000",
+   "Option2": "270,000",
    "Option3": "280000",
    "Option4": "290000",
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "During 12th Plan period about ----------  MW of HVDC systems are estimated to be added.",
    "Option1": "9000",
    "Option2": "11000",
@@ -13167,16 +14670,16 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The total fund requirement for development of transmission system in 12th plan is estimated to be of the order of Rs ------ crore ",
-   "Option1": "1,80,000",
+   "Option1": "180,000",
    "Option2": "170000",
    "Option3": "190000",
    "Option4": "195000",
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The total fund requirement for development of transmission system in 12th plan for central sector is estimated to be of the order of Rs ------ crore ",
    "Option1": "90000",
    "Option2": "100000",
@@ -13185,7 +14688,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The total fund requirement for development of transmission system in 12th plan for state sector is estimated to be of the order of Rs ------ crore ",
    "Option1": "45000",
    "Option2": "55000",
@@ -13194,7 +14697,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The total fund requirement for development of transmission system in 12th plan for private sector is estimated to be of the order of Rs ------ crore ",
    "Option1": "25000",
    "Option2": "30000",
@@ -13203,7 +14706,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Transmission capacity addition in 13th plan ----------- ckt kms",
    "Option1": "130000",
    "Option2": "140000",
@@ -13212,7 +14715,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Sub station (Transformation) capacity addition in 13th plan      -------- MVA",
    "Option1": "290000",
    "Option2": "300000",
@@ -13221,7 +14724,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Funf requirement foraddition of  transmission and transformation capacity during 13th plan is ----------- crores",
    "Option1": "180000",
    "Option2": "190000",
@@ -13230,7 +14733,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "Major challenges being faced in the transmission sector are as follows",
    "Option1": "Right Of Way (ROW)",
    "Option2": "Fexibility in Line Loading and Regulation of Power",
@@ -13239,7 +14742,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "GB Pradhan committee formed by MoP on ",
    "Option1": "Jan-08",
    "Option2": "Feb-08",
@@ -13248,7 +14751,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "An application for determination of tariff should be made available on website by the applicant from the date of publication for atleast",
    "Option1": "30 days",
    "Option2": "2 weeks",
@@ -13257,7 +14760,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "The applicant shall within 7 days after making an application for determination of tariff, publish a notice of his application in",
    "Option1": "any leading daily English newspaper circulated in the State/Union territory where beneficiaries are situated",
    "Option2": "atleast two daily newspapers, one in English language and one in verncular language having circulation in each State/Union territory where beneficiaries are situated",
@@ -13266,7 +14769,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "24.Regulatory_mix",
+   "Topic": "Regulatory_mix",
    "Question": "While making an application for determination of tariff to the commission, the following information is not required to be provided",
    "Option1": "beneficiaries of generation system/transmission system",
    "Option2": "Scheduled date of commercial operation",
@@ -13275,7 +14778,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Bulk consumer is a consumer who avails supply at a voltage of ______",
    "Option1": "11 kV or above",
    "Option2": "33 kV or above",
@@ -13284,7 +14787,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Grid disturbance means tripping of one or more power system elements results in ______at 220 kV and above(132 kV above in case of NER)",
    "Option1": "Total failure of supply at a S/S",
    "Option2": "Loss of integrity of the Grid",
@@ -13293,7 +14796,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The steady state operating voltage limits in case of 220 kV and below transmission",
    "Option1": "0.95 to 1.05 pu",
    "Option2": "0.9 to 1.1 pu",
@@ -13302,7 +14805,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The steady state operating voltage limits in case of 400 kV transmission",
    "Option1": "0.95 to 1.05 pu",
    "Option2": "0.9 to 1.1 pu",
@@ -13311,7 +14814,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The steady state operating voltage limits in case of 765 kV  transmission",
    "Option1": "728 to 800 kV",
    "Option2": "700 to 800 kV",
@@ -13320,7 +14823,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The temporary over voltage (kV peak/ph) due to sudden load rejection in case of 765 kV shall be with in a limit of",
    "Option1": "927 kV",
    "Option2": "932 kV",
@@ -13329,7 +14832,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "what is voltage unbalance ?",
    "Option1": "Unequal voltages in all 3 phases",
    "Option2": "Variation of phase voltage from average to maximum",
@@ -13338,7 +14841,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The operating frequency band of Indian Power System is in the range of",
    "Option1": "49.91 to 50.03 Hz",
    "Option2": "49.09 to 50.03 Hz",
@@ -13347,7 +14850,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The maximum permissible voltage unbalance in 765 kV and 400 kV shall be",
    "Option1": "2%",
    "Option2": "2.50%",
@@ -13356,7 +14859,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Maximum fault clearance time in 765 and 400 kV transmission system shall be",
    "Option1": "150 ms",
    "Option2": "180ms",
@@ -13365,7 +14868,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The temporary over voltage (kV peak/ph) due to sudden load rejection in case of 765 kV shall be with in a limit of",
    "Option1": "924 kV",
    "Option2": "914 kV",
@@ -13374,7 +14877,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The temporary over voltage (kV peak/ph) due to sudden load rejection in case of 220 kV shall be with in a limit of",
    "Option1": "293 kV",
    "Option2": "275 kV",
@@ -13383,7 +14886,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The maximum permissible voltage unbalance for 765 kV & 400 kV shall be",
    "Option1": "1%",
    "Option2": "1.5%",
@@ -13392,7 +14895,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The maximum permissible voltage unbalance in 220kV shall be",
    "Option1": "1%",
    "Option2": "1.5%",
@@ -13401,7 +14904,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Maximum fault clearance time in 220 kV transmission system shall be",
    "Option1": "100 ms",
    "Option2": "150ms",
@@ -13410,7 +14913,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "In the event of non-clearance of fault with in max fault clearnce time by a breaker, the type of protection should act is",
    "Option1": "Back up Relay Protection",
    "Option2": "Back up breaker protection",
@@ -13419,7 +14922,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The steady state operating voltage limits in case of 400 kV transmission",
    "Option1": "0.95 to 1.05 pu",
    "Option2": "0.9 to 1.1 pu",
@@ -13428,7 +14931,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The temporary over voltage (kV peak/ph) due to sudden load rejection in case of 132 kV shall be with in a limit of",
    "Option1": "165 kV",
    "Option2": "177 kV",
@@ -13437,7 +14940,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Maximum fault clearance time of 100ms is allowed for _______transmission system",
    "Option1": "400 kV",
    "Option2": "220kV",
@@ -13446,7 +14949,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "which of the voltage level of transmission is allowed with a mximum of 3% voltage unbalance?",
    "Option1": "66 kV",
    "Option2": "132 kV",
@@ -13455,7 +14958,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Who shall ensure that the  the quality of voltage wave form at all points in the Grid is maintained ______",
    "Option1": "Load Despatch Centres",
    "Option2": "Transmission Licensees",
@@ -13464,7 +14967,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The temporary over voltage (kV peak/ph) due to sudden load rejection in case of 400 kV shall be with in a limit of",
    "Option1": "498 kV",
    "Option2": "523 kV",
@@ -13473,7 +14976,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "In the event of non-clearance of fault with in max fault clearnce time by a breaker,tripping shall be initiated for all other breakers in the concerned bus-section within_____time",
    "Option1": "next 150ms",
    "Option2": "next 200ms",
@@ -13482,7 +14985,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The permissible limit of volatge fluctuations for repetitive step changes is",
    "Option1": "1%",
    "Option2": "1.5%",
@@ -13491,7 +14994,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The maximum permissible limit of occasional  volatge fluctuations other than  step changes is",
    "Option1": "1%",
    "Option2": "1.5%",
@@ -13500,7 +15003,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The total Harmonic distortion permissible as per the Grid standards for 765 kV and 400 kV system voltage are",
    "Option1": "1%,1.5%",
    "Option2": "1.5%, 2%",
@@ -13509,7 +15012,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "For a system voltage of 220 kV, individual Harmonic of any particular frequency permissible is",
    "Option1": "1%",
    "Option2": "1.50%",
@@ -13518,8 +15021,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
-   "Question": "Match the following for permissible voltage unbalance:\na. 765 kV                                          1. 1%\nb. 400 kV                                          2. 2%\nc. 220 kV                                           3. 3%\nd. 132 kV                                          4. 1.5%",
+   "Topic": "gridstandard",
+   "Question": "Match the following for permissible voltage unbalance:a. 765 kV                                          1. 1%\nb. 400 kV                                          2. 2%\nc. 220 kV                                           3. 3%\nd. 132 kV                                          4. 1.5%",
    "Option1": "a-1,b-4,c-2,d-3",
    "Option2": "a-1,b-1,c-2,d-3",
    "Option3": "a-2,b-4,c-3,d-4",
@@ -13527,7 +15030,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The entity(s) responsible for operational planning of the Grid by reviewing voltage & frequency profile, grid disturbances & incidentss, line loading etc is/are _______",
    "Option1": "CEA",
    "Option2": "RPC",
@@ -13536,7 +15039,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The annual maintenance plan for inter-state transmission system shall be prepared by ________",
    "Option1": "RLDC",
    "Option2": "NLDC",
@@ -13545,7 +15048,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Match the following for permissible Total Harmonic Distortion  :\na. 765 kV                                          1. 2%\nb. 400 kV                                          2. 1.5%\nc. 220 kV                                           3. 5%\nd. 132 kV                                          4. 3%\ne. 66 kV                                            5. 2.5%",
    "Option1": "a-1,b-4,c-5,d-3,e-3",
    "Option2": "a-2,b-2,c-1,d-4,e-4",
@@ -13554,7 +15057,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The annual maintenance plan of inter-state transmission system shall be prepared considering the following:",
    "Option1": "Demand pattern of the regions",
    "Option2": "Diversity in demand of the states",
@@ -13563,7 +15066,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Annual maintenance plan of intra-state transmission system shall be prepared by",
    "Option1": "CEA",
    "Option2": "SLDC",
@@ -13572,7 +15075,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The Generating station or Tranmsmission licensee before taking shutdown of a plant or line shall take approval of ______",
    "Option1": "CEA",
    "Option2": "RPC",
@@ -13581,7 +15084,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The record of operating instructions given by each RLDC & SLDC shall be preserved for atleast ______",
    "Option1": "3 months",
    "Option2": "6 months",
@@ -13590,8 +15093,8 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
-   "Question": "Match the following for permissible individual harmonic of any particular frequency:a. 765 kV                                          1. 1%\nb. 400 kV                                          2. 2%\nc. 220 kV                                           3. 3%\nd. 132 kV                                          4. 1.5%",
+   "Topic": "gridstandard",
+   "Question": "Match the following for permissible individual harmonic of any particular frequency:\na. 765 kV                                          1. 1%\nb. 400 kV                                          2. 2%\nc. 220 kV                                           3. 3%\nd. 132 kV                                          4. 1.5%",
    "Option1": "a-1,b-4,c-2,d-3",
    "Option2": "a-1,b-1,c-2,d-3",
    "Option3": "a-2,b-4,c-3,d-4",
@@ -13599,7 +15102,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Under Frequency Relay and df/dt relay settings shall be made by the entities as instructed by ______",
    "Option1": "RPC",
    "Option2": "RLDC",
@@ -13608,7 +15111,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Detailed report on operation of UFR and df/dt relays shall be submitted by the constituents to _____",
    "Option1": "RLDC",
    "Option2": "RPC",
@@ -13617,7 +15120,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Detailed report on operation of UFR and df/dt relays shall be submitted by the constituents on ________",
    "Option1": "weekly basis",
    "Option2": "Daily basis",
@@ -13626,7 +15129,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Islanding schemes for the seperation of the system in case of Grid disturbance shall be prepared by _______",
    "Option1": "CTU",
    "Option2": "RLDC",
@@ -13635,7 +15138,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Grid incidents is categorized based on __________",
    "Option1": "Voltage rating of lines",
    "Option2": "Loss of Generation",
@@ -13644,7 +15147,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Grid disturbances are categorized based on _____________",
    "Option1": "Voltage rating of lines",
    "Option2": "Loss of Generation",
@@ -13653,7 +15156,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Grid incidents & Grid disturbances are categorized into _______ no. of categories",
    "Option1": "2, 5",
    "Option2": "3, 4",
@@ -13662,7 +15165,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GI-1 incident means no loss of integrity at (Not applicable for NER)",
    "Option1": "132 kV",
    "Option2": "220 kV",
@@ -13671,7 +15174,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GI-2 incident means no loss of integrity at (Not applicable for NER)",
    "Option1": "132 kV",
    "Option2": "220 kV",
@@ -13680,7 +15183,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GD-1 disturbance means loss of  __ % generation or load in the region",
    "Option1": "<10",
    "Option2": "10  to <20",
@@ -13689,7 +15192,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GD-2 disturbance means loss of  __ % generation or load in the region",
    "Option1": "<10",
    "Option2": "10  to <20",
@@ -13698,7 +15201,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GD-3 disturbance means loss of  __ % generation or load in the region",
    "Option1": "<10",
    "Option2": "10  to <20",
@@ -13707,7 +15210,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GD-4 disturbance means loss of  __ % generation or load in the region",
    "Option1": "<10",
    "Option2": "10  to <20",
@@ -13716,7 +15219,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GD-5 disturbance means loss of  __ % generation or load in the region",
    "Option1": "<10",
    "Option2": "10  to <20",
@@ -13725,7 +15228,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "One unit of Loktak generating station got tripped due to fault in Lube oil pump, but the integrity of the 132 kV system remains due to immediate counter actions. This is categorized as __________",
    "Option1": "GD-1",
    "Option2": "GI-1",
@@ -13734,7 +15237,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "RLDC shall report the occurrence of a grid disturbance to _______ immediately after the occurrence.",
    "Option1": "RPC",
    "Option2": "CEA",
@@ -13743,7 +15246,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Grid disturbance causing failure of supply to the large areas shall be reported to the Authority with in _______ of the occurrence of it.",
    "Option1": "12 hrs",
    "Option2": "Immediately",
@@ -13752,7 +15255,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The entity responsible for developing restoration procedures for inter-state transmission system is",
    "Option1": "RPC",
    "Option2": "NLDC",
@@ -13761,7 +15264,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The entity responsible for developing restoration procedures for intra-state transmission system is",
    "Option1": "RPC",
    "Option2": "NLDC",
@@ -13770,7 +15273,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Opeartional data including equipment and system parameters logged manually and electronically shall be preserved for atleast _____",
    "Option1": "3 Yrs",
    "Option2": "2 Yrs",
@@ -13779,7 +15282,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The compendium of grid disturbances shall be maintained by ",
    "Option1": "RLDC",
    "Option2": "NLDC",
@@ -13788,7 +15291,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Mock exercise in Fire fighting shall be carried out at least once in a ______ and record to be maintained at sub-station",
    "Option1": "3 Yrs",
    "Option2": "2 Yrs",
@@ -13797,7 +15300,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Hot-spots on over head transmission lines can be detected by___________",
    "Option1": "Cluster Analysis",
    "Option2": "Thermo Sensors",
@@ -13806,7 +15309,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Therrmo vision scanning shall be carried out once in _____ at voltage level 220 kV and above",
    "Option1": "3 Yrs",
    "Option2": "2 Yrs",
@@ -13815,8 +15318,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
-   "Question": "A 'Bulk consumer' avails supply at ",
+   "Topic": "gridstandard",
+   "Question": "A Bulk consumer avails supply at ",
    "Option1": " 220 kV and above",
    "Option2": "33 kV and above",
    "Option3": "132 kV and above",
@@ -13824,7 +15327,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "Entity of the grid is ",
    "Option1": "a generating company",
    "Option2": "a transmission licensee",
@@ -13833,7 +15336,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The operating frequency band as per grid code is ",
    "Option1": "49.2 to 50.3",
    "Option2": "49.0 to 50.5",
@@ -13842,7 +15345,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The steady state voltage limits in case of 220 kV and below",
    "Option1": "0.95 to 1.1 p.u.",
    "Option2": "0.9 to 1.05 p.u",
@@ -13851,7 +15354,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The steady state voltage limits in case of 400 kV are",
    "Option1": "0.95 to 1.1 p.u.",
    "Option2": "0.9 to 1.05 p.u",
@@ -13860,7 +15363,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The steady state voltage limits in case of 765 kV are",
    "Option1": "700 to 800 kV",
    "Option2": "728 to 800 kV",
@@ -13869,7 +15372,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The temporary over voltage in case of load rejection in 220 kV shall be ",
    "Option1": "245 kV",
    "Option2": "265 kV",
@@ -13878,7 +15381,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The maximum possible voltage unbalance in 33 to 132 kV shall be ",
    "Option1": "2%",
    "Option2": "1%",
@@ -13887,7 +15390,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The maximum possible voltage unbalance in 220 kV shall be ",
    "Option1": "2%",
    "Option2": "1%",
@@ -13896,7 +15399,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The maximum possible voltage unbalance in 400 and 765 kV shall be ",
    "Option1": "2%",
    "Option2": "1.5%",
@@ -13905,7 +15408,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The maximum fault clearence time in case of 132 and 220 kV shall be ",
    "Option1": "100 ms",
    "Option2": "160 ms",
@@ -13914,7 +15417,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The maximum fault clearence time in case of 400 and 765 kV shall be ",
    "Option1": "100 ms",
    "Option2": "160 ms",
@@ -13923,7 +15426,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The total harmonic distortion in 33 to 132 kV system shall not exceed",
    "Option1": "1.50%",
    "Option2": "2.00%",
@@ -13932,7 +15435,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The total harmonic distortion in 220 kV system shall not exceed",
    "Option1": "1.50%",
    "Option2": "2.00%",
@@ -13941,7 +15444,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The total harmonic distortion in 400 kV system shall not exceed",
    "Option1": "1.50%",
    "Option2": "2.00%",
@@ -13950,7 +15453,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The total harmonic distortion in 765 kV system shall not exceed",
    "Option1": "1.50%",
    "Option2": "2.00%",
@@ -13959,7 +15462,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The entity responsible for operation planning to maintain frequency, voltage profile, line loading,etc is",
    "Option1": "RLDC",
    "Option2": "SLDC",
@@ -13968,7 +15471,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The annual maintenance plan for inter-state tansmission system shall be prepared by ",
    "Option1": "RLDC",
    "Option2": "SLDC",
@@ -13977,7 +15480,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The annual maintenance plan for intra-state tansmission system shall be prepared by ",
    "Option1": "RLDC",
    "Option2": "SLDC",
@@ -13986,7 +15489,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The record of operating instructions shall be preserved for at least __ months.",
    "Option1": "3",
    "Option2": "6",
@@ -13995,7 +15498,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GI-1 incident means no loss of integrity at ",
    "Option1": "132 kV",
    "Option2": "220 kV",
@@ -14004,7 +15507,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GI-2 incident means no loss of integrity at ",
    "Option1": "132 kV",
    "Option2": "220 kV",
@@ -14013,7 +15516,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GD-1 disturbance means loss of  __ % generation or load in the region",
    "Option1": "0 to 10",
    "Option2": "10 to 20",
@@ -14022,7 +15525,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GD-2 disturbance means loss of  __ % generation or load in the region",
    "Option1": "0 to 10",
    "Option2": "10 to 20",
@@ -14031,7 +15534,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GD-3 disturbance means loss of  __ % generation or load in the region",
    "Option1": "0 to 10",
    "Option2": "10 to 20",
@@ -14040,7 +15543,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The category GD-4 disturbance means loss of  __ % generation or load in the region",
    "Option1": "0 to 10",
    "Option2": "10 to 20",
@@ -14049,7 +15552,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The entity responsible for developing restoration procedure for inter state  system after a grid disturbance is ",
    "Option1": "RPC",
    "Option2": "NLDC",
@@ -14058,7 +15561,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "15.gridstandard",
+   "Topic": "gridstandard",
    "Question": "The compendium of grid disturbances shall be maintained by ",
    "Option1": "RPC",
    "Option2": "RLDC",
@@ -14067,7 +15570,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The regulations specifying the Philosophy and the responsibilities for planning and operation of Indian power system",
    "Option1": "Electricity act 2003",
    "Option2": "Ring fencing",
@@ -14076,7 +15579,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "An outage of a generating unit or a transmission element due to a fault or other reasons which has not been planned. This para talks in IEGC about:",
    "Option1": "“force majeure”",
    "Option2": "“forced outage”",
@@ -14085,7 +15588,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Any event which is beyond the control of the person involved which they could not foresee or with a reasonable amount of  diligence could not have forseen ",
    "Option1": "“force majeure”",
    "Option2": "“forced outage”",
@@ -14094,7 +15597,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "A sahre of a beneficiary (in Mw /MWh in the installed capacity /output capability of an ISGS means",
    "Option1": "Drawal schedule",
    "Option2": "ISGS capability",
@@ -14103,7 +15606,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "A device provided at the end of a transmission line to measure/indicate the distance at which a line fault may have occureed",
    "Option1": "under frequency relay",
    "Option2": "SPS",
@@ -14112,7 +15615,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Pool account incudes",
    "Option1": " Deviation charge account",
    "Option2": "Reactive Energy account ",
@@ -14121,7 +15624,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The procedure necessary to recover from a partial or total black out in the region",
    "Option1": "recovery procedure",
    "Option2": "Black start procedure",
@@ -14130,7 +15633,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The standards specified by the Authority under clause (d)of section 73 of the act",
    "Option1": "Grid standards",
    "Option2": "generating standards",
@@ -14139,7 +15642,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Thesubstation where pooling of generation of individual wind generators or solar generators is done for inter facing with next higher level",
    "Option1": "All of these",
    "Option2": "RE pooling station",
@@ -14148,7 +15651,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The IEGC bring together a single set of -------and --------------encompassing all the utilities connected to or using the inter -State transmission system(ISTS).",
    "Option1": "technical",
    "Option2": "commercial rules",
@@ -14157,7 +15660,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Objective of IEGC  include",
    "Option1": "Optimal operation of the Grid",
    "Option2": "Facilitation for Functioning Power markets  and Ancillary services",
@@ -14166,7 +15669,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Any neighbouring country inter-connected with Indian (national ) grid shall be treated as ",
    "Option1": "Separate system",
    "Option2": "Special conrtol area",
@@ -14175,7 +15678,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "A central generating station or other generating station, in which two or more states have shares - is known as",
    "Option1": "ISTS",
    "Option2": "ISGS",
@@ -14184,7 +15687,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Available transfer capability (ATC), mathematically can be written as",
    "Option1": "ATC=TTC –TRM",
    "Option2": "ATC =TTC+ TRM",
@@ -14193,7 +15696,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "In IEGC regulation-2010 part-5 deals with",
    "Option1": "Planning code",
    "Option2": "Connection code",
@@ -14202,7 +15705,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC (latest amendment) “frequency band” in Hz is ",
    "Option1": "49.2 – 50.5",
    "Option2": "49.5 – 50.3",
@@ -14211,7 +15714,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Most of the wind and solar generators are presently connected to -------------------network",
    "Option1": "Intra State Power System",
    "Option2": "Inter-state Power System",
@@ -14220,7 +15723,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "In addition to the inter-State transmission system, the CTU shall plan, from time to time, -------- need of which may arise to overcome the constraints in power transfer and to improve the overall performance of the grid.",
    "Option1": "extended transmission plan",
    "Option2": "System protection scheme",
@@ -14229,7 +15732,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC clause no.5.2 (e), any prolonged outage of power system elements of any user/ CTU/STU, which are causing or likely to cause danger to the grid or sub-optimal operation of the grid shall regularly be monitored by…………..",
    "Option1": "NLDC",
    "Option2": "RPC",
@@ -14238,7 +15741,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "No user / SEB shall cause a sudden variation in its load by more than …………MW without prior intimation to and consent of the RLDC",
    "Option1": "50 MW           ",
    "Option2": "100 MW",
@@ -14247,7 +15750,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, all SEBs, distribution licensees, CTU, STUs and SLDCs shall ensure that the -------------and-----------schemes are always functional. RLDC shall inform RPC secretariat about instances when the desired load relief is not obtained through relays in real time operation.",
    "Option1": "Over flux and over load   ",
    "Option2": "Under frequency and df/dt",
@@ -14256,7 +15759,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Non-Compliance of IEGC  for taking action against defaulting entity  is to be reported to ",
    "Option1": " Regional Power Committee (RPC)",
    "Option2": "Regional Load Despatch Centre (RLDC)",
@@ -14265,7 +15768,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Action for non-compliance of IEGC  may be taken by",
    "Option1": "Central Electricity Authority (CEA) on recommendation by RPC or RLDC",
    "Option2": "Regional Power Committee  (RPC) on report by RLDC ",
@@ -14274,7 +15777,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per provisions of IEGC, CTU  can not engage  in  ",
    "Option1": "Planning and development of Inter-State Transmission System",
    "Option2": "Power Generation",
@@ -14283,7 +15786,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per provisions of IEGC in case of Inter-State Transmission System, nodal agency for the connectivity, long-term access and medium –term open access is ",
    "Option1": " Regional Load Despatch Centre (RLDC)",
    "Option2": "National Load Despatch Centre (NLDC)",
@@ -14292,7 +15795,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, Suitable System Protection Schemes (SPS) for Inter-State Transmission System may be planned by",
    "Option1": "Regional Load Despatch Centre (RLDC)/National Load Despatch Centre (NLDC)",
    "Option2": "Central Electricity Authority (CEA)",
@@ -14301,7 +15804,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, Reliable and efficient speech and data communication systems are to be provided in their systems by",
    "Option1": " Central Transmission Utility (CTU)",
    "Option2": "Users of Inter - State Transmission System",
@@ -14310,7 +15813,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": " A part of the grid can be deliberately isolated from the rest of the National/Regional grid, only",
    "Option1": "under an emergency, or to prevent collapse of grid",
    "Option2": " for safety of human life",
@@ -14319,7 +15822,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, Under Frequency Relays (UFRs) are to be provided for ",
    "Option1": "Day to Day Load shedding to mange Load by States/UTs",
    "Option2": "Preventing the grid from cascade tripping and  Grid Disintegration/ Grid Collapse",
@@ -14328,7 +15831,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, who is responsible for keeping the record of expected vis-a vis. actual relief from Under Frequency Relays",
    "Option1": "Regional Load Despatch Centre (RLDC)",
    "Option2": " National Load Despatch Centre (NLDC)",
@@ -14337,7 +15840,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, all possible measures are to be taken to maintain  frequency in the range of",
    "Option1": "49.7-50.3 Hz.",
    "Option2": " 49.9 - 50.05 Hz.",
@@ -14346,7 +15849,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, all possible measures are to be taken to maintain  400 kV voltage in the minimum and maximum range of",
    "Option1": "390-420 kV",
    "Option2": "380-410 kV",
@@ -14355,7 +15858,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, all possible measures are to be taken to maintain  765kV voltage in the minimum and maximum range of",
    "Option1": "790-750Kv",
    "Option2": "815-730KV",
@@ -14364,7 +15867,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, all possible measures are to be taken to maintain  220 kV voltage in the minimum and maximum range of",
    "Option1": "245-198KV",
    "Option2": "250-190Kv",
@@ -14373,7 +15876,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, who is responsible for installation of  special energy meters on all inter connections between the regional entities and other identified points for recording of actual net MWh interchanges and MVArh drawals",
    "Option1": "Central Transmission Utility (CTU)",
    "Option2": "State Transmission Utility (STU)",
@@ -14382,7 +15885,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, restricted governor mode of operation is to be implemented for generating stations synchronized with grid  ( with exceptions mentioned in IEGC)  of the following category.",
    "Option1": "Coal/lignite basedThermal units >=200MW and Hydro units,Open Cycle Gas Turbine/Combined Cycle generating stations having\ngas turbines of capacity more than 50 MW each  >=25MW irrespective of owneship.",
    "Option2": "Coal/lignite basedThermal units >=200MW and Hydro units,Open Cycle Gas Turbine/Combined Cycle generating stations having\ngas turbines of capacity more than 25 MW each  >=10MW irrespective of owneship.",
@@ -14391,7 +15894,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Any prolonged outage of power system  element of any User/CTU/STU, which is causing or likely to cause danger to the grid or sub-optimal operation of the grid shall regularly be monitored by ",
    "Option1": "Regional Load Despatch Centre (RLDC)",
    "Option2": "Central Electricity Authority (CEA)",
@@ -14400,7 +15903,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, All Users, CTU and STUs shall endeavor to operate their respective power systems and power stations in an integrated manner ",
    "Option1": "When instructed by RLDC",
    "Option2": "When instructed by NLDC",
@@ -14409,7 +15912,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC5, following type ( types) of trippings  of important elements specified by Regional grid shall be precisely intimated by the concerned SLDC/CTU/User to RLDC as soon as possible,",
    "Option1": "Any tripping, whether manual or automatic",
    "Option2": "Manual trippling only",
@@ -14418,7 +15921,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC 5.2 (f), amended time to time, There should not be any reduction in generation in case of improvement in grid frequency below ---- Hz ",
    "Option1": "50.0Hz",
    "Option2": "49.7 Hz",
@@ -14427,7 +15930,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC5.4.2(b), amended time to time, the  SLDC/ SEB/Distribution licensee/Bulk consumer  shall ensure that requisite load shedding is carried out in its control area  so that ",
    "Option1": "there is no over drawal ",
    "Option2": "There is no under drawal ",
@@ -14436,7 +15939,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, Annual outage plan is to be prepared by ",
    "Option1": " RPC Secretariat in consultation with NLDC and RLDC ",
    "Option2": "RPC Secretariat in consultation with CEA ",
@@ -14445,7 +15948,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per provisions of IEGC, if any deviation is required from annual outage plan prepared in advance  it shall be with prior permission from",
    "Option1": "RPC and RLDC. ",
    "Option2": "RPC only",
@@ -14454,7 +15957,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The control Area jurisdiction of any generating station is normally, decided on the basis of ",
    "Option1": "Ownership , UMPP Status  and capacity under commercial operation of Generating Station",
    "Option2": "Share of host State",
@@ -14463,7 +15966,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per stipulations in IEGC, the control Area jurisdiction of any generating station ",
    "Option1": "Can not change once decided",
    "Option2": "May be in one control area (i.e. SLDC) at one point of time and another control area (i.e. RLDC) at another point of time",
@@ -14472,7 +15975,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, Regional grids are to  be operated as  power pools ",
    "Option1": "With centralised scheduling by RLDCs",
    "Option2": "With centralized scheduling by RLDC and NLDC",
@@ -14481,7 +15984,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, which of the following is not  total responsibility of  SLDCs with respect to its control area",
    "Option1": "Scheduling/ despatching their own generation (including generation of their embedded licensees)",
    "Option2": "Regulating the demand of its control area and permitting long term access, medium term and short term open access transactions for embedded generators/consumers, in accordance with the contracts ",
@@ -14490,7 +15993,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per provisions of IEGC, Drawal Schedule of control areas are decided on ",
    "Option1": "Hourly basis",
    "Option2": "Day-ahead basis",
@@ -14499,7 +16002,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, which is  the apex body to ensure integrated operation of the power system in the concerned region.",
    "Option1": "CEA",
    "Option2": "RPC",
@@ -14508,7 +16011,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The Regional Load Despatch Centre is responsible for optimum scheduling and despatch of electricity within the region in accordance with ",
    "Option1": "The contracts entered into with the  licensees or the generating companies operating in the region",
    "Option2": "Direction by CEA",
@@ -14517,7 +16020,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, who is responsible to  ensure development of an efficient, co-ordinated and economical system of inter-State transmission lines for smooth flow of electricity from generating stations to the load centers",
    "Option1": "CEA",
    "Option2": "CTU",
@@ -14526,7 +16029,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, at present, scheduling is ",
    "Option1": "Mandatory for regional entity  wind generators",
    "Option2": "Mandatory for  all wind generators",
@@ -14535,16 +16038,16 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC Var charges are applicable when ",
    "Option1": " voltage at the metering point is below 97%",
    "Option2": "voltage is above103%. ",
    "Option3": " In case of voltage below 97% or greater than 103% at the metering point.",
-   "Option4": "  Voltage at metering point is below 95 % or above 105 %",
+   "Option4": "  Voltage at metering point is below 95 % or above 105 %",
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Switching in/out of all 400 kV bus or line Reactors throughout the grid and  Tap changing on all 400/220 kV ICTs shall be done ",
    "Option1": "As per RLDCs instructions only.",
    "Option2": "As per decision by respective transmission Utility",
@@ -14553,7 +16056,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "First IEGC, which became effective from 1st Feb, 2000 was ",
    "Option1": " A Regulation made by Central Electricity Authority (CEA)",
    "Option2": "A Regulation made by Central Electricity Regulatory Commission(CERC)",
@@ -14562,7 +16065,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "For the purpose of the IEGC, the Damodar Valley Corporation (DVC) is treated",
    "Option1": "similar to a Stae Electricity Board (SEB)",
    "Option2": "Similar to a generator",
@@ -14571,7 +16074,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Which of the following would act as the Central control room in case of natural & man made emergency/disaster where it affects the power system operation.",
    "Option1": "Regional Load Despatch Centre (RLDC)",
    "Option2": "Control Room set up by CEA for this purpose",
@@ -14580,7 +16083,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC who is responsible for keeping accounts of quantity of electricity transmitted through the regional grid",
    "Option1": "Regional Power Committee (RPC)",
    "Option2": "Regional Load Despatch Centre (RLDC)",
@@ -14589,7 +16092,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC who is responsible for discharging all functions of planning and co-ordination relating to inter-State transmission system in co-ordination with various agencies ",
    "Option1": "Regional Power Committee (RPC)",
    "Option2": " Regional Load Despatch Centre (RLDC)",
@@ -14598,7 +16101,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC who is responsible for issuing of Transmission Planning Criteria and guidelines ",
    "Option1": "Regional Power Committee (RPC)",
    "Option2": "Ministry of Power, Government of India",
@@ -14607,7 +16110,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, in all substations of 132 kV and above, how many transformers are to be provided.",
    "Option1": "At least One",
    "Option2": "At least Two",
@@ -14616,7 +16119,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, the primary objective of integrated operation of the National / Regional grids is ",
    "Option1": "to enhance the overall operational reliability and economy of the entire electric power network spread over the geographical area of the interconnected system",
    "Option2": " to enhance the overall operational reliability and economy of the Inter-State electric power network only",
@@ -14625,7 +16128,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC under Restricted Governor Mode Operation (RGMO), ",
    "Option1": "There should not be any increase in generation in case of  decrease  in grid frequency below 49.7 Hz.",
    "Option2": "There should not be any reduction in generation in case of  improvement in grid frequency above 50.2 Hz.",
@@ -14634,7 +16137,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC provision of protections and relay settings are to  be coordinated periodically throughout the Regional grid, ",
    "Option1": "As per a plan finalized by the Protection sub-Committee of the RPC.",
    "Option2": "As per direction of RLDC",
@@ -14643,7 +16146,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, Who is/are allowed to carry out checking of Power System Stabilizers (PSS) in Automatic Voltage Regulators (AVRs) of generating units (wherever provided) and further tuning it, wherever considered necessary",
    "Option1": "CTU only",
    "Option2": "RLDC",
@@ -14652,7 +16155,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, Automatic Under-Frequency and df/dt Relays for load shedding in their respective systems are to be provided by",
    "Option1": "All SEBs, Distribution licensees and STUs",
    "Option2": "CTU and all STUs",
@@ -14661,7 +16164,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, state-of-the-art Automatic Demand Management Schemes are to be formulated and implemented by",
    "Option1": "LDC through respective State Electricity Boards/Distribution Licensees",
    "Option2": " SLDC through respective State Transmission Utility",
@@ -14670,7 +16173,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Detailed plans and procedures for restoration after partial/total blackout of each User/STU/CTU system within a Region, are to be  finalized by the ",
    "Option1": "RLDC in consultation with NLDC all Users,STU,CTU,SLDC & RPC",
    "Option2": "concerned User/STU/CTU in coordination with the RLDC",
@@ -14679,7 +16182,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Mock trial runs of the procedure for restoration after partial/total blackout for different sub-systems are to  be carried out by the Users/CTU/STU at least ",
    "Option1": "once in every year.",
    "Option2": "once in every three months.",
@@ -14688,7 +16191,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "IEGC,2010 ( read with other relevant CERC Regulations) contains provisions related to scheduling of ",
    "Option1": "Long-term, Medium –term and short-term transactions",
    "Option2": "Only Long-term and  Medium –term transactions",
@@ -14697,7 +16200,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, The Inter-State Generating Stations ( ISGS) ",
    "Option1": "may deviate from the given schedules within the limits specified in the CERC UI Regulations ",
    "Option2": "can not  deviate from the given schedules ",
@@ -14706,7 +16209,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Which of the following is correct regarding scheduling of Hydro Generating Stations",
    "Option1": "These are expected to respond to grid frequency changes ",
    "Option2": "These are expected to respond to inflow fluctuations. ",
@@ -14715,7 +16218,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, In the event of bottleneck in evacuation of power due to any constraint, in the transmission system necessitating reduction in generation, which statement is true",
    "Option1": "RLDC certifies the event and RLDC can revise the schedule which is  effective from the 4th time block, counting the time block in which the bottleneck in evacuation of power has taken place to be the first one. ",
    "Option2": "RLDC certifies the event and RLDC can revise the schedule which is  effective from the 6th time block, counting the time block in which the bottleneck in evacuation of power has taken place to be the first one. ",
@@ -14724,7 +16227,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Certification of grid disturbance in respect of revising the schedule of generating stations and beneficiaries is to be done by ",
    "Option1": "RLDC",
    "Option2": "NLDC",
@@ -14733,7 +16236,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, In the interest of better operation of Grid,  RLDC can revise the schedule",
    "Option1": "RLDC can revise the schedule at any point of time",
    "Option2": "RLDC can revise the schedule on its own",
@@ -14742,7 +16245,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Under IEGC, the regional entities are mandated to first regulate their generation and/or consumers’ load so as to maintain their actual drawal from the regional grid ",
    "Option1": "close to their schedule. ",
    "Option2": "Exactly same as schedule",
@@ -14751,7 +16254,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per provisions of IEGC, If a generating station is connected both to ISTS and the State network, scheduling and other functions performed by the system operator of a control area will be done by SLDC, only if state has",
    "Option1": "more than 50% Share of power",
    "Option2": "less than 50% Share of power",
@@ -14760,7 +16263,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, who has to ensure immediate compliance of the directions by RLDCs  in case of contingencies and /or threat to the system security ",
    "Option1": "SLDC",
    "Option2": "Distribution Company",
@@ -14769,7 +16272,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, amended time to time, all the Users, STU/SLDC and CTU  have to  send information/data including disturbance recorder/sequential event recorder output   to RLDC for purpose of analysis of any grid disturbance/event",
    "Option1": "Within 24 Hours ",
    "Option2": "Within 7 days ",
@@ -14778,7 +16281,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, who  has to carry out planning studies for Reactive Power compensation of ISTS including reactive power compensation requirement at the generator’s /bulk consumer’s switchyard and for connectivity of new generator/ bulk consumer to the ISTS",
    "Option1": "CEA",
    "Option2": "RLDC",
@@ -14787,7 +16290,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Who can implement the curtailment in Inter State open access transaction?",
    "Option1": " Seller",
    "Option2": "Buyer",
@@ -14796,7 +16299,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "If for any reason curtailment is required,as per IEGC what is the procedure for the curtailment to be followed?",
    "Option1": "1st short-term, 2nd  medium-term and then long-term customers.",
    "Option2": "1st long-term and then short-term customers.",
@@ -14805,7 +16308,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Any tripping, whether manual or automatic of any of the important elements of regional grid shall be intimated by the concerened SLDC/CTU/User to RLDC with in -------",
    "Option1": "One hour",
    "Option2": "24 Hrs",
@@ -14814,7 +16317,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "If the state has a share of more than 50% in an IPP, then the scheduling and other functions shall be performed by-----",
    "Option1": "SLDC",
    "Option2": "RLDC",
@@ -14823,7 +16326,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As perIEGC 5.2(e) which period will be considered as prolonged outage?",
    "Option1": "15 days",
    "Option2": "More than 5 days",
@@ -14832,7 +16335,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Each USER, CTU and STU shall obtain the final approval from RLDC prior to availing an outage: Is it mandatory?",
    "Option1": "Yes",
    "Option2": "No",
@@ -14841,7 +16344,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Scheduling and Despatch code has been described in IEGC part----- ",
    "Option1": "4",
    "Option2": "5",
@@ -14850,7 +16353,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "If a generating station is connected only to the ISTS, ------ shall co-ordinate the scheduling except for central generating satations where full shares is allocated to one state as per IEGC 6.4.2(c-i).",
    "Option1": "SLDC",
    "Option2": "RLDC",
@@ -14859,7 +16362,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per gridcode 6.4.26, who is responsible for scheduling and despatch of electricity over inter-regional links in accordance with the grid code specified by central commission in co- ordination with RLDCs?",
    "Option1": "SLDC",
    "Option2": "NLDC",
@@ -14868,7 +16371,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "If a generating station connected both to ISTS and the state network, scheduling and other functions performed by the system operator of a control area will be done by SLDC only-----",
    "Option1": "If the stae has 50% share of power",
    "Option2": "If the sate has more than 50% share of power",
@@ -14877,7 +16380,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Scheduling of collective transaction through power exchange shall be done by",
    "Option1": "NLDC",
    "Option2": "RLDCs",
@@ -14886,7 +16389,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "If the state has a share of 50% or less in an IPP(Regional Entity), then the scheduling and other functions shall be performed by-----",
    "Option1": "SLDC",
    "Option2": "RLDC",
@@ -14895,7 +16398,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The individual transactions for state utilities/ intra state entitities shall be scheduled by the respective------",
    "Option1": "RLDC",
    "Option2": "SLDCs",
@@ -14904,7 +16407,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per grid code 6.5.14 which ramping rate is generally acceptable for an ISGS?",
    "Option1": "50MW/hr",
    "Option2": "150MW/hr",
@@ -14913,7 +16416,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC clause 6.5.18, revision of declared cabability by the ISGS having two part tariff with capacity charge and energy charge(except hydro stations) and requisition by beneficiary for the remaining period of the day shall also be permitted with advance notice. Revised schedules shall be effective from-----",
    "Option1": "4th time block",
    "Option2": "6 th time block",
@@ -14922,7 +16425,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "After sheduling of forced outage of a unit under STOA, RLDC shall inform about the revised schedule to --------",
    "Option1": "Seller",
    "Option2": "Buyer",
@@ -14931,7 +16434,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "After getting report about prolonged outage of any grid element who will finalise the action plan?",
    "Option1": "RLDC",
    "Option2": "NLDC",
@@ -14940,7 +16443,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Collective transaction through power exchanges would normally be curtailed subsequent to the(--------------) bilateral transactions.",
    "Option1": "Medium - term",
    "Option2": "Short - term",
@@ -14949,7 +16452,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "In case of associated transmission system where ------------- , and where agreement could not be reached in respect of system strengthening schemes, the CTU may approach the Commission for the regulatory approval in accordance with Central Electricity ",
    "Option1": "All PPAs have not been signed",
    "Option2": "All PPAs have  signed",
@@ -14958,7 +16461,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC 3.4 (e) (e) As ------------------------ plays an important role in inter-state transmission of energy, special attention shall be accorded, by \nCTU,  for planning of capacitors, reactors, SVC and Flexible \nAlternating Current Transmission Systems (FACTS), etc",
    "Option1": "energy management",
    "Option2": "Metering",
@@ -14967,7 +16470,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "All utilities shall have in place, a------------------ to identify the critical cyber assets and protect them so as to support reliable operation of the grid.",
    "Option1": "regulatory frame work",
    "Option2": " cyber security framework",
@@ -14976,7 +16479,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "CTU and other transmission licensees granted license by CERC shall submit annually to CERC by --------------- each year a schedule of transmission assets, which constitute the Regional Grid as on 31st March of that year indicating owner ship on which RLDC has operational control responsibility",
    "Option1": "31-Mar",
    "Option2": "31-Dec",
@@ -14985,7 +16488,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC 5.1.(f) A set of detailed operating procedures for each regional grid shall be developed and maintained by the ---------------",
    "Option1": "RLDC",
    "Option2": "NLDC",
@@ -14994,7 +16497,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC 5.1.(g) A set of detailed operating procedures for each state grid shall be developed and maintained by the ---------------",
    "Option1": "RLDC",
    "Option2": "NLDC",
@@ -15003,7 +16506,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Maintenance of their respective power system elements shall be carried out by users, STUs and CTU in accordance with the provisions in --------------------",
    "Option1": "Central Electricity Authority (Grid standerds )Regulation, 2010",
    "Option2": "A Regulation made by Central Electricity Regulatory Commission(CERC)",
@@ -15012,7 +16515,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "In the restricted  governer mode of operation,There should not be any reduction in generation in case of improvement in grid frequency below --------------",
    "Option1": "50.10",
    "Option2": "50.05",
@@ -15021,8 +16524,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
-   "Question": "RGMO,  Ripple filter of +/- 0.03 Hz. shall be provided so that small changes in frequency are ignored for load correction, in order to ---------------",
+   "Topic": "IEGC",
+   "Question": "RGMO,  Ripple filter of +/- 0.03 Hz. shall be provided so that small changes in frequency are ignored for load correction, in order to ---------------",
    "Option1": "prevent governor hunting. ",
    "Option2": "prevent load  hunting. ",
    "Option3": "power swing",
@@ -15030,7 +16533,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "if a generating unit cannot be operated under restricted governor mode operation, then it shall be operated in ------------------ to operate in the manner required under restricted governor mode operation",
    "Option1": "free governor mode operation without  manual intervention",
    "Option2": "free governor mode operation with manual intervention",
@@ -15039,7 +16542,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Voltage fluctuation limits and voltage wave-form quality shall be maintained as specified in ---------------------------",
    "Option1": "As per system reqirement",
    "Option2": "Central Electricity Authority (Grid Standards) Regulations, 2010",
@@ -15048,7 +16551,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Who shall also prepare islanding schemes and ensure its implementation in accordance with Central Electricity Authority (Grid Standards) Regulations, 2010. ",
    "Option1": "RLDC ",
    "Option2": "RPC",
@@ -15057,7 +16560,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": " SLDC shall furnish monthly report of--------- and ------- operation in their respective system to the respective RPC. ",
    "Option1": "UFR",
    "Option2": "df/dt relay",
@@ -15066,7 +16569,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "System operator (SLDC/ RLDC) shall make all efforts to evacuate the available solar and wind power and treat as----------------",
    "Option1": " a must-run station",
    "Option2": "RE station",
@@ -15075,7 +16578,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "System operator may instruct  the solar /wind generator to -----------on consideration of grid security or safety of any equipment or personnel is endangered and Solar/ wind generator shall comply with the same. ",
    "Option1": "not to back down generation ",
    "Option2": "back down generation ",
@@ -15084,7 +16587,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "During the wind generator start-up, the wind generator shall ensure that--------------------------- (inrush currents incase of induction generators) shall not affect the grid performanc",
    "Option1": "the reactive power drawl ",
    "Option2": "the active power drawal",
@@ -15093,8 +16596,8 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
-   "Question": "As per IEGC 5.3.(g)           The SLDC shall take into account the Wind Energy ------------------------to meet the active and reactive power requirement. ",
+   "Topic": "IEGC",
+   "Question": "As per IEGC 5.3.(g)           The SLDC shall take into account the Wind Energy ------------------------to meet the active and reactive power requirement. ",
    "Option1": "solar energy forcasting",
    "Option2": "wing energy forcasting",
    "Option3": "Both A&B",
@@ -15102,7 +16605,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC 5.6.1(b)   The------------------- is a mandatory built-in hierarchical function of the NLDC, RLDC, SLDC and Users, to facilitate quick transfer of information to operational staff.",
    "Option1": " Operational cordination function",
    "Option2": "Operational liaison function ",
@@ -15111,7 +16614,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The LGBR shall be prepared by the respective ---------------- for peak as well as off-peak scenarios. ",
    "Option1": "RLDC",
    "Option2": "NLDC",
@@ -15120,8 +16623,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
-   "Question": "  NLDC/RLDC are authorized to defer the planned outage in case of any of the following, taking into account the statutory requirements: ",
+   "Topic": "IEGC",
+   "Question": "  NLDC/RLDC are authorized to defer the planned outage in case of any of the following, taking into account the statutory requirements: ",
    "Option1": " grid disturbances ",
    "Option2": "System isolation &Prtial Blac out in the State",
    "Option3": " Any other event in the system that may have an adverse impact on the system security by the proposed outage. ",
@@ -15129,7 +16632,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Scheduling and Despatch code also provides the methodology for re-scheduling of wind and solar energy generators which are regional entities, on --------------------",
    "Option1": "half hourly",
    "Option2": "15 minutes",
@@ -15138,7 +16641,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The concerned SEB/distribution licensee/User, SLDC shall ensure that their ------------------------- mentioned in clause 5.4.2 acts to ensure that there is no over-drawal.",
    "Option1": "Energy management system",
    "Option2": "automatic demand management scheme",
@@ -15147,8 +16650,8 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
-   "Question": "For hydro generating station,     It is also expected that ---------------actually supplied by the generating station on that day would equal the declared total energy, in order that the water release requirement is met",
+   "Topic": "IEGC",
+   "Question": "For hydro generating station,     It is also expected that ---------------actually supplied by the generating station on that day would equal the declared total energy, in order that the water release requirement is met",
    "Option1": "the total net energy",
    "Option2": "scheduled  energy",
    "Option3": "injection",
@@ -15156,7 +16659,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The procedure for scheduling and the final schedules issued by RLDC, shall be open to all regional entities and other regional open access customers entities for any checking/verification, for a period of ------days",
    "Option1": "6",
    "Option2": "10",
@@ -15165,7 +16668,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "In general, the Regional Entities except -------------------- shall endeavor to minimize the VAr drawal at an interchange point when the voltage at that point is below 95% of rated, and shall not return VAr when the voltage is above 105%",
    "Option1": "Discoms",
    "Option2": "generating stations",
@@ -15174,7 +16677,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The computation and payments for such VAr exchanges shall be effected as -------------  the two Beneficiaries",
    "Option1": "mutually agreed between",
    "Option2": "as written in the regulation",
@@ -15183,7 +16686,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "i)Day ahead forecast: Wind and solar energy generation forecast with an interval of 15 minutes for the next 24 hours for the aggregate generation capacity of -------------",
    "Option1": "100&above",
    "Option2": "50 MW and above. ",
@@ -15192,7 +16695,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The charges payable for deviation from schedule by the wind and solar generators which are regional entities, shall be ---------------- frequency ",
    "Option1": "The total net energy",
    "Option2": "linked with",
@@ -15201,16 +16704,16 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "IEGC Regulation -2010 Came Into Force On",
-   "Option1": "01-Apr-2010",
-   "Option2": "03-Apr-2010",
-   "Option3": "03-May-10",
-   "Option4": "01-Jun-2010",
+   "Option1": "01/Apr/2010",
+   "Option2": "03/Apr/2010",
+   "Option3": "3-May-10",
+   "Option4": "01/Jun/2010",
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "An outage of a generating unit or a transmission element due to a fault or other reasons which has not been planned. This para talks in IEGC about:",
    "Option1": "“force majeure”",
    "Option2": "“forced outage”",
@@ -15219,7 +16722,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "A central generating station or other generating station , in which two or more states have shares ; is/are known as",
    "Option1": "ISTS",
    "Option2": "ISGS",
@@ -15228,7 +16731,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Available transfer capability (atc), mathematically can be written as",
    "Option1": "ATC=TTC –TRM",
    "Option2": "ATC =TTC+ TRM",
@@ -15237,7 +16740,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "UI stands for",
    "Option1": "Unscheduled Exchange",
    "Option2": "Unscheduled  Interchange",
@@ -15246,7 +16749,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "In IEGC regulation-2010 part-5 deals with",
    "Option1": "Planning code",
    "Option2": "General code",
@@ -15255,7 +16758,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per iegc “frequency band” in hz. Is",
    "Option1": "49.2 – 50.5",
    "Option2": "49.5 – 50.3",
@@ -15264,7 +16767,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per iegc, the operating voltage range for 400 kv system is",
    "Option1": "MAX        MIN\n440kv          360kv",
    "Option2": "MAX        MIN\n420kv        380kv",
@@ -15273,7 +16776,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Constituents draw   more than their scheduled drawal then they are violating grid code clause no.",
    "Option1": "5.4.2 (d)",
    "Option2": "5.4.2 (x)",
@@ -15282,7 +16785,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Grid code  5.4.2 (b) says “ the SLDC/ SEB/SEB/Distribution licencee  and bulk consumer shall ensure that requisite load shedding  is carried out in its control area  so that there is no overdrawl ",
    "Option1": "At all times",
    "Option2": "49.5 HZ",
@@ -15291,7 +16794,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "No part of the grid shall be deliberately isolated from the rest of the national / regional grid , except under an emergency, and conditions in which such isolation would prevent  a  total grid collapse and / or would enable early restoration of power supply,…………….",
    "Option1": "6.8 ( a) ",
    "Option2": "5.2 (b)",
@@ -15300,7 +16803,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Which clause of grid code allows the users, ctu, and stu for isolation of the part of the grid ?",
    "Option1": "6.8 ( a) ",
    "Option2": "5.2 (b)",
@@ -15309,7 +16812,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "if concerned SLDC/CTU/User is not intimating RLDC about important element tripping manual or automatic then they are violating grid code clause no",
    "Option1": "5.2(b)",
    "Option2": "6.2(d)",
@@ -15318,7 +16821,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per iegc clause no.5.2 (e), any prolonged outage of power system elements of any user/ ctu/stu, which causing or likely to cause danger to the grid or sub-optimal operation of the grid shall regularly be monitored by…………..",
    "Option1": "NLDC",
    "Option2": "RPC",
@@ -15327,7 +16830,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "If any user reduces generation of a unit of 210mw capacity down to 90mw without any case of emergency or any act to prevent imminent damage to costly equipment then that user violates grid code clause no. …….",
    "Option1": "6.2 (l)                        ",
    "Option2": "5.2 (j )                    ",
@@ -15336,7 +16839,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "No user / SEB shall cause a sudden variation in its load by more than …………mw without prior intimation to and consent of the RLDC",
    "Option1": "50 MW           ",
    "Option2": "100 MW",
@@ -15345,7 +16848,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, all SEBs, distribution licensees, ctu stus and sldcs shall ensure that the -------------and-----------schemes are always functional. RLDC shall inform RPC secretariat about instances when the desired load relief is not obtained through relays in real time operation.",
    "Option1": "Over flux and over load   ",
    "Option2": "Under frequency and df/dt",
@@ -15354,7 +16857,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "“NLDC / RLDC are authorized to defer the planned outage” under which grid code clause, should they can exercise this power?",
    "Option1": "5.7.4 (g)     ",
    "Option2": "5.9.2 (a)     ",
@@ -15363,16 +16866,16 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The power system utilities are made to operate closer to their design capabilities and security margins due to",
    "Option1": "Constraints in Economic, environmental and regulatory aspects.",
    "Option2": "Complexity in the operation of huge power system network",
    "Option3": "Continuously escalating fuel costs and depeleting resources",
-   "Option4": "  All of the above.",
+   "Option4": "  All of the above.",
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The developing countries are facing the challenges during system operation and control due to ",
    "Option1": "Large gap between the generation and demand",
    "Option2": "Small gap between the generation and demand",
@@ -15381,34 +16884,34 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Which of the following statement is true regarding the power system secure state?",
    "Option1": "Only Voltage is within the acceptable limits",
    "Option2": " Only Voltage & frequency are within the acceptable limits",
    "Option3": " Voltage, frequency are within the acceptable limits but the system is unstable for the credible contingency conditions.",
-   "Option4": "  Voltage, frequency, equipment loadings are within the acceptable limits and system is stable for the credible contingency conditions.",
+   "Option4": "  Voltage, frequency, equipment loadings are within the acceptable limits and system is stable for the credible contingency conditions.",
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": " A power system is said to be in Alert State when,",
    "Option1": " Frequency ,Voltage, equipment loadings are within acceptable limits, n-1 , n-2 outage acceptable, all loads met",
    "Option2": " Frequency ,Voltage, equipment loadings are within acceptable limits, n-1, n-2 outage not acceptable, all loads met",
    "Option3": " Frequency ,Voltage, equipment loadings are not within acceptable limits, all loads not met",
-   "Option4": "  None of the above",
+   "Option4": "  None of the above",
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "What does STOR stand for?",
    "Option1": " Storage Technology Operation Region",
    "Option2": "Short Term Operating Reserve",
-   "Option3": "  Short Terminology for Operator Region",
-   "Option4": "  Slow Temperature Operation Region",
+   "Option3": "  Short Terminology for Operator Region",
+   "Option4": "  Slow Temperature Operation Region",
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The major functions of a load dispatch center are:",
    "Option1": " Monitoring & Assessing only",
    "Option2": "Controlling only",
@@ -15417,25 +16920,25 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The grid operation is a fundamentally important function for ",
    "Option1": "Utilities only",
    "Option2": " Transmission companies only",
    "Option3": "utilities, transmission companies & ISOs/RTOs",
-   "Option4": "  ISOs only",
+   "Option4": "  ISOs only",
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The system if insecure, under disturbed condition will bring the normal operating state of a power system to",
    "Option1": "Alert",
    "Option2": " Restorative",
-   "Option3": "  Emergency",
+   "Option3": "  Emergency",
    "Option4": " In Extremis",
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Worldwide, the system operators & network companies will need to invest in ______ required to manage the complexity",
    "Option1": "Share markets",
    "Option2": " Control systems",
@@ -15444,7 +16947,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "What does a balancing service platform represent?",
    "Option1": "Demand side working group",
    "Option2": "Holding balancing services open day",
@@ -15453,7 +16956,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Flexible Reserve Product: ____________ volumes of reserve shall be made available during core hours 8am to 6pm on working days",
    "Option1": " Lesser",
    "Option2": "Greater",
@@ -15462,7 +16965,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "A consolidated reserve product shall offer ____________ operation of the transmission system needs.",
    "Option1": " Flexibility",
    "Option2": " Good Service characteristics ",
@@ -15471,7 +16974,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The grid operators are continuing to work on developing ___________ processes so that they have better reflecting varying wind forecasting into reserve requirements.",
    "Option1": "Dynamic reserve for wind",
    "Option2": " Static reserve for wind",
@@ -15480,16 +16983,16 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Series compensators are devices which _______the apparent impedance of a circuit thus ___________ the transfer capability where it is limited by system stability.",
    "Option1": "Reduce, increasing",
-   "Option2": "  Increase, decreasing",
+   "Option2": "  Increase, decreasing",
    "Option3": " Reduce, decreasing",
    "Option4": " Increase, \nincreasing ",
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "__________ has conducted wide range of research initiatives in the system operation such as advanced alarm management, report on human centered situational awareness etc",
    "Option1": " CPRI",
    "Option2": " EPRI",
@@ -15498,7 +17001,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The real time security monitoring functions does not include,",
    "Option1": "Network topology processing",
    "Option2": "Observability Analysis",
@@ -15507,16 +17010,16 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The operator request load flow, load forecasting, contingency analysis and fault study are functions of",
    "Option1": " Security Monitoring system",
-   "Option2": "  Security assessment",
+   "Option2": "  Security assessment",
    "Option3": "Security Control system",
-   "Option4": "  None of \nthe above",
+   "Option4": "  None of \nthe above",
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC clause no.5.2 (e), any prolonged outage of power system elements shall regularly be monitored by…………..and shall be reported to…………….",
    "Option1": "NLDC,CEA",
    "Option2": "RPC,RLDC",
@@ -15525,7 +17028,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "No generator shall cause a sudden decrease in its generation by more than …………MW without prior intimation to and consent of the RLDC as per IEGC clause no. 5.2(j)",
    "Option1": "50 MW           ",
    "Option2": "100 MW",
@@ -15534,7 +17037,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "………….has to observe instances when the desired load relief is not obtained from df/dt and under frequency load shedding/islanding schemes and report the same to ……..",
    "Option1": "CTU/STU",
    "Option2": "RLDC,RPC",
@@ -15543,7 +17046,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per IEGC, restricted governor mode of operation is to be implemented for generating stations synchronized with grid  ( with exceptions mentioned in IEGC)  of the following category.",
    "Option1": "Coal/lignite based thermal generating units >=200MW , Open Cycle Gas Turbine/Combined Cycle generating stations >= 50 MW and Hydro units >=25MW irrespective of ownership.",
    "Option2": "All hydro units (except those with upto three hours pondage) of 10 MW and above, ",
@@ -15552,7 +17055,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Grid code  5.4.2 (b) says “ the SLDC/ SEB/SEB/Distribution licencee  and bulk consumer shall ensure that requisite load shedding  is carried out in its control area  so that there is no overdrawl when frequency is ----------hz or below.",
    "Option1": "so that there is no overdrawal",
    "Option2": "49.5 HZ",
@@ -15561,7 +17064,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "When system frequency is below 50.05 hz but above 49.90 hz and constituents can overdraw up to …………. % of schedule subject to grid conditions",
    "Option1": "0.1",
    "Option2": "12% or 150MW whichever is less",
@@ -15570,7 +17073,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "What is the resolution while availability declaration by ISGS ",
    "Option1": "Not less than 100MW",
    "Option2": "0.1 MW",
@@ -15579,7 +17082,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "What is the resolution for entitlements, requisitions and schedules at each control area boundary and for each of the transaction",
    "Option1": "Not less than 100MW",
    "Option2": "",
@@ -15588,7 +17091,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "For how much time weekly report on performance of national grid be available on NLDC website",
    "Option1": "5 days",
    "Option2": "5 weeks",
@@ -15597,7 +17100,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Partial loading of generators during trial run ",
    "Option1": "is not to be allowed",
    "Option2": "can be allowed if average load during trial run duration is not less than MCR",
@@ -15606,7 +17109,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "If a generator is unable to demonstrate full load capacity/MCR during trial run, it ",
    "Option1": "can declare new derated capacity, then new demonstrated capacity will be 100 % of derated capacity",
    "Option2": "can go for re-trial run",
@@ -15615,7 +17118,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Short interruptions in load of generators during trial run",
    "Option1": "not to be permitted",
    "Option2": "short interruptions for cumulative duration of 4 hrs is permissible",
@@ -15624,7 +17127,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "RLDC not to entertain",
    "Option1": "schedule/DC changes of less than 5 % of previous value",
    "Option2": "schedule/DC changes of less than 3 % of previous value",
@@ -15633,7 +17136,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Wind/Solar plants can request upto …… revisions in a day",
    "Option1": "8",
    "Option2": "10",
@@ -15642,7 +17145,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "As per 4th amendment of IEGC derated capacity of a generator for COD or trial run should not be less than……..",
    "Option1": "95 % of name plate rating or contracted capacity",
    "Option2": "90 % of name plate rating or contracted capacity",
@@ -15651,7 +17154,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "VWO(Valve Wide Open) operation of generating units whether running at part load or full load is not permitted as per clause …….. Of IEGC",
    "Option1": "5.2 (e)",
    "Option2": "5.2 (h)",
@@ -15660,7 +17163,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Which one is true regarding gain/loss during sale of power by ISGS in market after standing consent by beneficiary",
    "Option1": "Gain to be shared in 50:50 ratio or as mutually agreed by ISGS and beneficiary",
    "Option2": "Gain to be shared in 70:30 ratio  by ISGS and beneficiary",
@@ -15669,8 +17172,8 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
-   "Question": "In spinning reserve definition 'devices' include",
+   "Topic": "IEGC",
+   "Question": "In spinning reserve definition devices include",
    "Option1": "BESS",
    "Option2": "generator",
    "Option3": "Only B",
@@ -15678,7 +17181,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Wind generators which are regional entity will bear UI charges if…..",
    "Option1": "Actual generation is beyond ± 30% of schedule",
    "Option2": "Actual generation is beyond ± 40% of schedule",
@@ -15687,7 +17190,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Islanding schemes are to be prepared by ……",
    "Option1": "RLDC",
    "Option2": "RPC",
@@ -15696,7 +17199,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Who will bear deviation charges for ± 30% deviation from schedule in case of RE wind generators ?",
    "Option1": "Wind generator",
    "Option2": "Host state",
@@ -15705,7 +17208,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "No charges are payable/receivable by wind generator for upto",
    "Option1": "upto 50 MW/10% deviation from schedule whichever is lesser",
    "Option2": " ± 20% deviation from schedule",
@@ -15714,7 +17217,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Deviation charges borne by Host state for deviation from schedule of wind generators …….",
    "Option1": "is shared by all states and UTs in ratio of their peak demands in previous month based on data published by CEA",
    "Option2": "shared by all states and UTs in form of Renewable Refulatory charge through Renewable Regulatory Fund",
@@ -15723,7 +17226,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": " The Capacities which are provided by devices including generating station or units thereof synchronized to the grid and which can be activated on the direction of the System Operator and effect the change in active power is called",
    "Option1": "Spinning Reserve",
    "Option2": "URS",
@@ -15732,7 +17235,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "NLDC shall be the nodal agency for ",
    "Option1": "collective transactions ",
    "Option2": "collective transactions and Ancillary Services ",
@@ -15741,8 +17244,8 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
-   "Question": "RGMO on Open Cycle Gas Turbine/Combined Cycle generating stations having gas turbines of capacity more than 50 MW each came into  effect from",
+   "Topic": "IEGC",
+   "Question": "RGMO on Open Cycle Gas Turbine/Combined Cycle generating stations having gas turbines of capacity more than 50 MW each came into  effect from ",
    "Option1": "01.10.2017",
    "Option2": "01.08.2010",
    "Option3": "01.04.2018",
@@ -15750,7 +17253,7 @@ var questions = [
    "answer": 0
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "For any fall in grid frequency, generation from the unit should increase as per generator droop upto a maximum of ----- of the generation subject to ceiling limit of ----- of the MCR of the unit having regard to machine capability”",
    "Option1": "5%,105%",
    "Option2": "3%,110%",
@@ -15759,8 +17262,17 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
-   "Question": "All coal/lignite based thermal generating units of 200 MW and above, Open Cycle Gas Turbine/Combined Cycle generating stations having gas turbines of more than 50 MW each and all hydro units of 25 MW and above operating at or up to 100% of their Maximum Continuous Rating (MCR) shall have the capability of (and shall not in any way be prevented from) instantaneously picking up to -----,-----,-----,of their MCR, respectively, when the frequency falls suddenly.”\t105%, 110% and 110% \t110%, 105% and 110% \t105%, 105% and 110% \tnone of these\t3\n16.IEGC\t",
+   "Topic": "IEGC",
+   "Question": "All coal/lignite based thermal generating units of 200 MW and above, Open Cycle Gas Turbine/Combined Cycle generating stations having gas turbines of more than 50 MW each and all hydro units of 25 MW and above operating at or up to 100% of their Maximum Continuous Rating (MCR) shall have the capability of (and shall not in any way be prevented from) instantaneously picking up to -----,-----,-----,of their MCR, respectively, when the frequency falls suddenly.”",
+   "Option1": "105%, 110% and 110% ",
+   "Option2": "110%, 105% and 110% ",
+   "Option3": "105%, 105% and 110% ",
+   "Option4": "none of these",
+   "answer": 3
+ },
+ {
+   "Topic": "IEGC",
+   "Question": "For the purpose of ensuring primary response, RLDCs/SLDCs shall not schedule the generating station or unit(s) thereof beyond -------- corresponding to 100% of the Installed capacity of the generating station or unit(s) thereof",
    "Option1": "IC",
    "Option2": "exbus generation",
    "Option3": "DC",
@@ -15768,7 +17280,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Provided that the generator or trading licensee any other agency selling power from the generating station or unit(s) thereof may revise its estimated restoration time -----  and the revision schedule shall become effective from the ------, counting the time block in which the revision is advised by the generator to be the first one.",
    "Option1": "once in a day,4th time block",
    "Option2": "only once immedietly after tripping, 4th TMBK",
@@ -15777,7 +17289,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "in case of the generating station as a whole, COD is the date of commercial operation of the -------  of the generating station:",
    "Option1": "first Unit",
    "Option2": "last unit",
@@ -15786,7 +17298,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "the beneficiaries / buyers have been tied up for purchasing power from the generating station, the trial run or each repeat of trial run shall commence after a notice of -------- by the generating company to the beneficiaries/buyers and concerned RLDC or SLDC",
    "Option1": "not less than 3days",
    "Option2": "not less than10 days",
@@ -15795,7 +17307,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "company has the option to de-rate the capacity or to go for repeat trial run. Where the generating company decides to de-rate the unit capacity, the demonstrated capacity in such cases shall be more or equal to ------of de-rated capacity for thermal stations.",
    "Option1": "95%",
    "Option2": "105%",
@@ -15804,7 +17316,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The concerned RLDC or SLDC, as the case may be, shall convey clearance to the generating company for declaration of COD within -------days of receiving the generation data based on the trial run.",
    "Option1": "7",
    "Option2": "3",
@@ -15813,7 +17325,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Scheduling of power from the generating station or unit thereof shall commence from-------  after declaration of COD",
    "Option1": "any time",
    "Option2": "",
@@ -15822,7 +17334,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "company has the option to de-rate the capacity or to go for repeat trial run. Where the generating company decides to de-rate the unit capacity, the demonstrated capacity in such cases shall be more or equal to ------of de-rated capacity for hydro stations.",
    "Option1": "95%",
    "Option2": "110%",
@@ -15831,7 +17343,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Trial Run or Trial Operation in relation to a thermal Central Generating Station or inter-State Generating Station or a unit thereof shall mean successful running of the generating station or unit thereof on designated fuel at Maximum Continuous Rating or Installed Capacity or Name Plate Rating for a continuous period of -- hours and in case of a hydro Central Generating Station or inter-state Generating Station or a unit thereof for a continuous period of -- hours",
    "Option1": "72,12",
    "Option2": "72,72",
@@ -15840,7 +17352,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The short interruptions, for a cumulative duration of -- hours, shall be permissible, with corresponding increase in the duration of the test.",
    "Option1": "6",
    "Option2": "4",
@@ -15849,7 +17361,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Trial run and Trial operation in relation to a transmission system or an element thereof shall mean successful charging of the transmission system or an element thereof for -- hours at continuous flow of power, and communication signal from the sending end to the receiving end and with requisite metering system, telemetry and protection system in",
    "Option1": "24",
    "Option2": "72",
@@ -15858,7 +17370,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Date of commercial operation in relation to a communication system or an element thereof shall mean the date declared by the transmission licensee from 0000 hour of which a communication system or element thereof shall be put into service after completion of site acceptance test including transfer of voice and data to respective control centre as certified by the respective Regional Load Dispatch Centre.",
    "Option1": "TRUE",
    "Option2": "FALSE",
@@ -15867,7 +17379,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "The technical minimum for operation in respect of a unit or units of a Central Generating Station of inter-State Generating Station shall be ----- of MCR loading or installed capacity of the unit of at generating station.",
    "Option1": "45%",
    "Option2": "55%",
@@ -15876,7 +17388,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "In case of coal / lignite based generating stations,if unit loading is 65-74.99 percentage of IC,  station heat rate degradation or actual heat rate, whichever is lower, shall be considered for the purpose of compensationfor super critical and sub-critical  are….,-----, respectively.",
    "Option1": "2%&4%",
    "Option2": "1.25%& 2.25%",
@@ -15885,7 +17397,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "In case of coal / lignite based generating stations,if unit loading is 75-84.99 percentage of IC  station heat rate degradation or actual heat rate, whichever is lower, shall be considered for the purpose of compensationfor super critical and sub-critical  are….,-----, respectively.",
    "Option1": "2%&4%",
    "Option2": "1.25%& 2.25%",
@@ -15894,7 +17406,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "In case of coal / lignite based generating stations,if unit loading is 55-64.99 percentage of IC  station heat rate degradation or actual heat rate, whichever is lower, shall be considered for the purpose of compensationfor super critical and sub-critical  are….,-----, respectively.",
    "Option1": "2%&4%",
    "Option2": "1.25%& 2.25%",
@@ -15903,7 +17415,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "In case of coal / lignite based generating stations,if unit loading is 85-100 percentage of IC  station heat rate degradation or actual heat rate, whichever is lower, shall be considered for the purpose of compensationfor super critical and sub-critical  are….,-----, respectively.",
    "Option1": "2%&4%",
    "Option2": "1.25%& 2.25%",
@@ -15912,7 +17424,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "16.IEGC",
+   "Topic": "IEGC",
    "Question": "Where the scheduled generation falls below the technical minimum schedule, the concerned CGS or ISGS shall have the option to go for reserve shut down and in such cases, start-up fuel cost over and above----  start / stop in a year shall be considered as additional compensation",
    "Option1": "seven (7)",
    "Option2": "three(3)",
@@ -15921,7 +17433,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "CEA ( Technical Standard for connectivity to the Grid) Regulation  is",
    "Option1": "Required by Sub-Section (2) of Section 177 of Electricity Act 2003",
    "Option2": "Required by Sub-Section (1) of Section 177 of Electricity Act 2003",
@@ -15930,7 +17442,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Requester Mean a person such as generator/ Captive  generating plant/transmission licensee ( excluding CTU, STU) or distribution licensee or Bulk consumer, who is seeking connectively of his new/ expanded electrical plant to the Grid at a voltage level of .....................kV and above",
    "Option1": "33kV and above",
    "Option2": "66kV and above",
@@ -15939,7 +17451,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The requester/ user shall provide necessary facilities for voice and data communication and transfer of on-line operational data format as prescribe by ",
    "Option1": "Appropriate Transmission Utilities",
    "Option2": "Appropriate Load despatch centre",
@@ -15948,7 +17460,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The requester/user shall coorporate with the RPC and aapropriate RLDC in respect of the following matter",
    "Option1": "Protection corordination and setting of its protective relay and  maintain the meter and communication system in good condition",
    "Option2": "furnish data as required by appropriate Transmission Utilities / RLDC/RPC",
@@ -15957,7 +17469,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The connection agreement is a _______",
    "Option1": "Appropritae Transmissioin Utilities",
    "Option2": "Distribution Licensee",
@@ -15966,7 +17478,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The connection agreement contain ",
    "Option1": "General technical condition",
    "Option2": "Specific Technical condition",
@@ -15975,7 +17487,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Information in Site Resposibility Schedule(SRS)",
    "Option1": "Schedule of electrical apparatus service and supplies",
    "Option2": "Schedule of telecommunication and measurement appratus",
@@ -15984,7 +17496,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": " Site Resposibility Schedule(SRS) is prepared by ",
    "Option1": "Generating company or licensee operating the electricity system to which connection is taking place",
    "Option2": "Appropriate Transmission licensee",
@@ -15993,7 +17505,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "User owning the electrical plant shall provide the reasonalable access to ",
    "Option1": "Appropriate Transmission Utilities",
    "Option2": "Appropriate Load despatch centre",
@@ -16002,7 +17514,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Site common drawing shall be prepared for each connection point by ",
    "Option1": "Generating company or licensee operating the electricity system to which connection is taking placeplace",
    "Option2": "Appropriate Transmission licensee",
@@ -16011,7 +17523,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Meter shall be provided as specified in the CEA ( installation and Operation of Meters) Regulation 2006",
    "Option1": "TRUE",
    "Option2": "FALSE",
@@ -16020,8 +17532,8 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
-   "Question": "BIL (Basic Insulation level ) of various equipment and rating  shall be decided on the follow order of priorityi. ensure safety to public and operating personal\nii. Avoid permanent damage to th eplant\niii.  Prevent failure of costly equipment\niv. Minimise circuit interruptions\nv. Minimise interruption of power",
+   "Topic": "CEA Tech Std for Con",
+   "Question": "BIL (Basic Insulation level ) of various equipment and rating  shall be decided on the follow order of priority\ni. ensure safety to public and operating personal\nii. Avoid permanent damage to th eplant\niii.  Prevent failure of costly equipment\niv. Minimise circuit interruptions\nv. Minimise interruption of power",
    "Option1": " i,ii,iii,iv, v",
    "Option2": "I,iii,ii,ivv",
    "Option3": "ii,iv,v, iii,i",
@@ -16029,7 +17541,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Protection coordination issues shall be finalized by ",
    "Option1": "RPC",
    "Option2": "RLDC",
@@ -16038,7 +17550,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The protection manuals shall be develop by ………. Conforming the various standards for the reference and use of its personnel",
    "Option1": "RPC",
    "Option2": "RLDC",
@@ -16047,7 +17559,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The user/ requester shall prepare the SLD  in respect of its system facility and make the same available to ",
    "Option1": "Appropriate Transmission Utilitiy or licensee",
    "Option2": "RLDC",
@@ -16056,7 +17568,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The station shall be provide with disturbance recording and event logging facilities",
    "Option1": "All 220kV and above ",
    "Option2": "400kV and above",
@@ -16065,7 +17577,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The Disturbance recoder and event logger facilities shall be provided with time synchronization facility",
    "Option1": "TRUE",
    "Option2": "FALSE",
@@ -16074,7 +17586,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The user shall complete all inspection and tests finalized in consulation with the ……………………... to which his equipment are connected",
    "Option1": "Appropriate transmission Utilities or Licensee or Generating station to which its equipment is connect to",
    "Option2": "RLDC",
@@ -16083,7 +17595,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Any new genrating unit of capacity ____shall have AVR (Automatic voltage regulator) with digital control",
    "Option1": "100MW rating and above",
    "Option2": "200MW rating and above",
@@ -16092,7 +17604,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "PSS ( Power System Stabilizer ) is mandated for units of  ",
    "Option1": "100MW rating and above",
    "Option2": "200MW rating and above",
@@ -16101,7 +17613,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The generator transformer winding shall have ….. connection on low voltage and …… connection on high voltage",
    "Option1": "Delta, Star",
    "Option2": "Star, delta",
@@ -16110,7 +17622,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The governor of thermal generating station shall have droop of ",
    "Option1": "3 to 6%",
    "Option2": "0- 10 %",
@@ -16119,7 +17631,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The governor of Hydro generating station shall have droop of ",
    "Option1": "3 to 6%",
    "Option2": "0- 10 %",
@@ -16128,7 +17640,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The voltage and current harmonics on the grid shall not exceed the limit specified in the IEEE standard___",
    "Option1": "519",
    "Option2": "419",
@@ -16137,7 +17649,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Generating Units located near the load centre shall be capable of operating at rated O/P PF varing between ",
    "Option1": "0.85 lagging(over-excited) to 0.95 leading(Under excited)",
    "Option2": "0.95 lagging( over -excited) to 0.95 leading(Under excited)",
@@ -16146,7 +17658,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Generating Units commisioned before 01.01.2014 and located far from  the load centre shall be capable of operating at rated O/P PF varing between ",
    "Option1": "0.85 lagging( over -excited) to 0.95 leading(Under excited)",
    "Option2": "0.95 lagging( over -excited) to 0.95 leading(Under excited)",
@@ -16155,7 +17667,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "All generating units commissioned  on or after 01.01.2014, shall be capable of operating at rated \npower factor varying between ",
    "Option1": "0.95 lagging( over -excited) to 0.95 leading(Under excited)",
    "Option2": "0.90 lagging( over -excited) to 0.95 leading(Under excited)",
@@ -16164,7 +17676,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The coal and Lignite based thermal generating units shall be capable of generating up to ….. % of Maximum continuous rating",
    "Option1": "105%",
    "Option2": "110%",
@@ -16173,7 +17685,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The Hydro generating units shall be capable of generating up to ….. % of Maximum continuous rating",
    "Option1": "105%",
    "Option2": "110%",
@@ -16182,7 +17694,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Hyro units having rated capacity of …..MW and above shall be capable of operation in synchronous condensor mode, wherever feasible",
    "Option1": "10 MW",
    "Option2": "50 MW",
@@ -16191,7 +17703,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The Bus Bar protection shall be provided on all the sub-station at ",
    "Option1": "220kV and Above",
    "Option2": "400kV and above",
@@ -16200,7 +17712,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "For power supply to sub-station auxiliaries of 220kV and above the AC supply system must comprise of .......",
    "Option1": "Two HT supplies from independent sources and one additional emergency supply from DG source of suitable capacity",
    "Option2": "One HT supply and one DG set",
@@ -16209,7 +17721,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "For Power supply to Sub-Station auxiliaries of aboove 66kV and below 220KV, the AC supply must have",
    "Option1": "Two HT supplies from independent sources and one additional emergency supply from DG source of suitable capacity",
    "Option2": "One HT supply and one DG set",
@@ -16218,7 +17730,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Power supply to Sub-Station auxiliaries of 33kV and below 66KV, the  AC supply must have",
    "Option1": "Two HT supplies from independent sources and one additional emergency supply from DG source of suitable capacity",
    "Option2": "One HT supply and one DG set",
@@ -16227,7 +17739,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Power supply to Sub-Station auxiliaries of 132kV and above, the DC supply would comprise of …......",
    "Option1": "Two HT supplies from independent sources and one additional emergency supply from DG source of suitable capacity",
    "Option2": "One HT supply and one DG set",
@@ -16236,7 +17748,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Power supply to Sub-Station auxiliaries of  below 132kV  , the DC supply would comprise of ",
    "Option1": "One set of batteries and charger",
    "Option2": "One HT supply and one DG set",
@@ -16245,7 +17757,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The power factor of bulk consumer and distribution system shall not be less then",
    "Option1": "0.95",
    "Option2": "0.9",
@@ -16254,7 +17766,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The total harmonic distortion (THD) for  voltage at the connection point shall not exceed …..% with no individual harmoic higher then  ………%",
    "Option1": "5%, 3%",
    "Option2": "3%, 3%",
@@ -16263,7 +17775,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The total harmoic distortion for current drawn from transmissioin stsrem at the connection point shall not exceed …….%",
    "Option1": "8%",
    "Option2": "5%",
@@ -16272,7 +17784,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The voltage Unbalance at 33kV and above shall not exceed ….%",
    "Option1": "3%",
    "Option2": "5%",
@@ -16281,7 +17793,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The equipment in overhead lines and cable shall comply with ------------------ (relevent) standards",
    "Option1": "Indian Standard, British Standard",
    "Option2": "International Electrotechnical commission (IEC)",
@@ -16290,7 +17802,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Sub station grounding shall be done according to the norms of",
    "Option1": "Indian Standard, British Standard",
    "Option2": "American Nationa Standards Institute (ANSI)",
@@ -16299,7 +17811,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Ground mat used for earthing in the Substation is connected to",
    "Option1": "Energized metallic equipment",
    "Option2": "All Non metallic stuctures/equipment",
@@ -16308,7 +17820,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Grounding mat shall limit the voltages and currents within safty limits for human and equipment adjacent to it under………condition",
    "Option1": "Normal condition",
    "Option2": "Fault condition",
@@ -16317,7 +17829,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Insulation coordination of the equipment and lines on both sides of a connection point belonging to requester and the grid shall be accomplished and the coordination shall be done by",
    "Option1": "Requester",
    "Option2": "Appropriate Transmission Utilty",
@@ -16326,7 +17838,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Earth Fault Factor for an effectively earthed system is to be --------- ",
    "Option1": "1.4 or less",
    "Option2": "greater than 1.4",
@@ -16335,7 +17847,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "In case of Solar Photo voltaic generating station, each inverter along with associated modules will be reckoned \nas a separate generating unit",
    "Option1": "TRUE",
    "Option2": "FALSE",
@@ -16344,7 +17856,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "STU shall inform CTU and CEA , within ……… of acceptance of application for connectivity of GENERATING station to electricity system operating at ….kV and above",
    "Option1": "30 days, 110kV",
    "Option2": "6 months , 220kV",
@@ -16353,7 +17865,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Short-Circuit Ratio (SCR) for generators shall be as per…",
    "Option1": "IEC-34",
    "Option2": "IEC-474",
@@ -16362,7 +17874,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Harmonic DC current injections from a wind generating station shall not exceed the  limits specified in",
    "Option1": "IEC-34",
    "Option2": "IEC-475",
@@ -16371,7 +17883,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The Wind Generating station shall not inject  DC current greater than….% of the  full  rated  output at the \ninterconnection point.",
    "Option1": "0.10%",
    "Option2": "0.50%",
@@ -16380,7 +17892,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The wind generating station shall not introduce flicker beyond the limits specified in ………….Provided that the standards for flicker will come into effect from 1st April 2014",
    "Option1": "IEC 61000",
    "Option2": "IEC 62000",
@@ -16389,7 +17901,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Measurement of harmonic content, DC injection and flicker shall  be done at least ……",
    "Option1": "Twice in a year",
    "Option2": "Thrice in a year",
@@ -16398,7 +17910,7 @@ var questions = [
    "answer": 3
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "The Wind generating station shall be capable of supplying dynamically varying reactive power support so as to maintain power factor within the limits of………",
    "Option1": " 0.95 lagging to 0.95 leading",
    "Option2": "0.90 lagging( over -excited) to 0.95 leading(Under excited)",
@@ -16407,7 +17919,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Wind generating station connected at voltage level of 66 kV and above shall have facility to control active power injection in  accordance with a set point, which shall be capable of being revised based on the directions of the appropriate Load Despatch Centre",
    "Option1": "FALSE",
    "Option2": "TRUE",
@@ -16416,7 +17928,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "As per Technical Standards for Connectivity of the Distributed Generation Resource,2013, The substation grounding of distributed generation shall comply",
    "Option1": "IS 3043",
    "Option2": "IEEE-80",
@@ -16425,8 +17937,8 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
-   "Question": "\"distributed generation resource\" means a generating station feeding electricity into the electricity \nsystem at voltage level of",
+   "Topic": "CEA Tech Std for Con",
+   "Question": "distributed generation resource means a generating station feeding electricity into the electricity \nsystem at voltage level of",
    "Option1": "below 11kV",
    "Option2": "below 66kV",
    "Option3": "33kv or below",
@@ -16434,7 +17946,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Distributed generation resource operating in  parallel with electricity system shall disconnect if …………………..  or any narrower range that appropriate licensee prescribed",
    "Option1": "voltage reaches above 110% or below 80% ,with a clearing time upto two  seconds",
    "Option2": "voltage reaches above 120% or below 70% ,with a clearing time upto two  seconds",
@@ -16443,7 +17955,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Distributed generation resource operating in  parallel with electricity system shall disconnect if …………………..  or any narrower range that appropriate licensee prescribed",
    "Option1": "if frequency reaches 50.5 Hz and below \n47.5 Hz with a clearing time upto 0.2 seconds",
    "Option2": "if frequency reaches 50.4 Hz and below \n47.6 Hz with a clearing time upto 0.2 seconds",
@@ -16452,7 +17964,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Distributed generation resource shall cease to energise the circuit to which it is \nconnected in case of any fault in this circuit",
    "Option1": "TRUE",
    "Option2": "FALSE",
@@ -16461,7 +17973,7 @@ var questions = [
    "answer": 1
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Distributed generation resource shall cease to energise the electricity system \nwithin two seconds of the formation of an unintended Island. ",
    "Option1": "FALSE",
    "Option2": "TRUE",
@@ -16470,7 +17982,7 @@ var questions = [
    "answer": 2
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Parallelng-device of distributed generation resource shall be capable of withstanding \n………..% of the nominal voltage at the interconnection point",
    "Option1": "150%",
    "Option2": "120%",
@@ -16479,7 +17991,7 @@ var questions = [
    "answer": 4
  },
  {
-   "Topic": "25.CEA Tech Std for Con",
+   "Topic": "CEA Tech Std for Con",
    "Question": "Distributed generation resource shall not cause voltage fluctuation greater lhan …….% at the point of connection at the time of synchronization",
    "Option1": "± 10%",
    "Option2": "± 6%",
