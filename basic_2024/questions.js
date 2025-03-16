@@ -6,8 +6,7 @@ var questions = [
     "Option2": "One and half breaker",
     "Option3": "Double bus double breaker",
     "Option4": "Main and\n Transfer",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day1",
@@ -16,8 +15,7 @@ var questions = [
     "Option2": "Secondary",
     "Option3": "Tertiary",
     "Option4": "Auxiliary",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -26,8 +24,7 @@ var questions = [
     "Option2": "Two winding transformer",
     "Option3": "Auto transformer",
     "Option4": "Converter transformer",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -36,8 +33,7 @@ var questions = [
     "Option2": "Bus Reactor",
     "Option3": "Line Reactor",
     "Option4": "Series Capacitor",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day1",
@@ -46,8 +42,7 @@ var questions = [
     "Option2": "Double Bus",
     "Option3": "Single Bus and Transfer",
     "Option4": "Single Bus with sectionalizer",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -56,8 +51,7 @@ var questions = [
     "Option2": "Ring bus",
     "Option3": "One and half breaker",
     "Option4": "Double Main with transfer",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day1",
@@ -66,8 +60,7 @@ var questions = [
     "Option2": "Single Bus and Transfer",
     "Option3": "One and half breaker",
     "Option4": "Double bus",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -76,8 +69,7 @@ var questions = [
     "Option2": 3,
     "Option3": 1,
     "Option4": 2,
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -86,8 +78,7 @@ var questions = [
     "Option2": "Wavetrap",
     "Option3": "Line CVT",
     "Option4": "Lightening Arrestor",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -96,8 +87,7 @@ var questions = [
     "Option2": "Line Reactor",
     "Option3": "CT",
     "Option4": "Circuit Breaker",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day1",
@@ -106,8 +96,7 @@ var questions = [
     "Option2": "Segregate bus into\n number of sections",
     "Option3": "Isolate fault in bus",
     "Option4": "Synchronize",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day1",
@@ -116,8 +105,7 @@ var questions = [
     "Option2": "To record the current and voltages",
     "Option3": "To provide proportional current and voltage to relays, meters  and synchronizing",
     "Option4": "To act as isolating device in high voltage system",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -126,8 +114,7 @@ var questions = [
     "Option2": "To limit the voltage",
     "Option3": "To divert lightning surges to ground",
     "Option4": "To absorb switching and lighting surges and discharge",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -136,8 +123,7 @@ var questions = [
     "Option2": "Separate Earth \nelectrodes",
     "Option3": "Earth mat",
     "Option4": "Need not be earthed",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -146,8 +132,7 @@ var questions = [
     "Option2": "Increasing the \nearth resistance",
     "Option3": "Increasing the area of Substation",
     "Option4": "Reducing the fault current and the earth resistance",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -156,8 +141,7 @@ var questions = [
     "Option2": "High Court",
     "Option3": "Supreme Court",
     "Option4": "Consumer court",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -166,8 +150,7 @@ var questions = [
     "Option2": "Government",
     "Option3": "Public",
     "Option4": "Generation Company",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day1",
@@ -176,8 +159,7 @@ var questions = [
     "Option2": "Appellete Tribunal",
     "Option3": "High Court",
     "Option4": "Supreme \nCourt",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day1",
@@ -186,8 +168,7 @@ var questions = [
     "Option2": "60 DAYS",
     "Option3": "90 DAYS",
     "Option4": "45 DAYS",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -196,8 +177,7 @@ var questions = [
     "Option2": "Electricity Supply Act, 1948",
     "Option3": "The Electricity Regulatory  Commssions Act, 1998",
     "Option4": "All of these",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -206,8 +186,7 @@ var questions = [
     "Option2": "Transmission",
     "Option3": "Distribution",
     "Option4": "Both Transmission and Distribution",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -216,8 +195,7 @@ var questions = [
     "Option2": "threat to security of the state",
     "Option3": "any circumstance arising in public interst",
     "Option4": "all of these options",
-    "answer": 4,
-    "": "sec11"
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -226,8 +204,7 @@ var questions = [
     "Option2": "CERC",
     "Option3": "CEA",
     "Option4": "Central Government in consultation with the state governments and the CEA",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -236,8 +213,7 @@ var questions = [
     "Option2": "once in two years",
     "Option3": "once in five years",
     "Option4": "as and when felt appropriate",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -246,8 +222,7 @@ var questions = [
     "Option2": "Rs. 10 lakhs",
     "Option3": "Rs. 15 lakhs",
     "Option4": "Rs. 20 lakhs",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -256,8 +231,7 @@ var questions = [
     "Option2": "Competition",
     "Option3": "SEB-centric",
     "Option4": "job creation",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day1",
@@ -266,8 +240,7 @@ var questions = [
     "Option2": "CERC",
     "Option3": "Appellate Tribunal",
     "Option4": "Supreme Court",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -276,8 +249,7 @@ var questions = [
     "Option2": "Central Government",
     "Option3": "SERC",
     "Option4": "CERC",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day1",
@@ -286,8 +258,7 @@ var questions = [
     "Option2": "By Parliament Committees",
     "Option3": "Govt. Controls",
     "Option4": "Rules and Regulations",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -296,8 +267,7 @@ var questions = [
     "Option2": "CERC",
     "Option3": "SERC",
     "Option4": "State Govt.",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day1",
@@ -306,8 +276,7 @@ var questions = [
     "Option2": "Central Govt",
     "Option3": "SERC",
     "Option4": "CERC",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day1",
@@ -316,8 +285,7 @@ var questions = [
     "Option2": "Replace the foreign Companies",
     "Option3": "Complement public sector",
     "Option4": "Efficiency",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -326,8 +294,7 @@ var questions = [
     "Option2": "Central Govt",
     "Option3": "SERC",
     "Option4": "CERC",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -336,8 +303,7 @@ var questions = [
     "Option2": "State Govt.",
     "Option3": "SERC",
     "Option4": "CERC",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -346,8 +312,7 @@ var questions = [
     "Option2": "Central Govt",
     "Option3": "SERC",
     "Option4": "CERC",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -356,8 +321,7 @@ var questions = [
     "Option2": "SDA",
     "Option3": "BEE",
     "Option4": "Ministry of Power",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -366,8 +330,7 @@ var questions = [
     "Option2": "Energy Efficiency Financing Platform",
     "Option3": "Framework For Energy Efficient Economic Development",
     "Option4": "All of these",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -376,8 +339,7 @@ var questions = [
     "Option2": "Improving efficiencies of ground water extraction",
     "Option3": "Reducing the subsidy burden of the states without sacrificing the service obligation to the sector",
     "Option4": "All of these",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -386,8 +348,7 @@ var questions = [
     "Option2": "CERC",
     "Option3": "CEA",
     "Option4": "Central Government in consultation with the state governments",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -396,8 +357,7 @@ var questions = [
     "Option2": "Whole India Except North Eastern States",
     "Option3": "Whole India Except Jammu & Kashmir",
     "Option4": "Whole India Except Union Teritories",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -406,8 +366,7 @@ var questions = [
     "Option2": "the period of five years available to a designated consumer to\ncomply with the energy consumption norms and standards",
     "Option3": "the period of two years available to a designated consumer to\ncomply with the energy consumption norms and standards",
     "Option4": "the period of ten years available to a designated consumer to\ncomply with the energy consumption norms and standards",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day1",
@@ -416,8 +375,7 @@ var questions = [
     "Option2": "Perfom After Trade",
     "Option3": "Perfrom Achieve Trade",
     "Option4": "Profit Achieve Trade",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -426,8 +384,7 @@ var questions = [
     "Option2": 2,
     "Option3": 3,
     "Option4": 4,
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day1",
@@ -436,8 +393,7 @@ var questions = [
     "Option2": "CERC",
     "Option3": "CEA",
     "Option4": "BEE",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -446,8 +402,7 @@ var questions = [
     "Option2": "Central Government",
     "Option3": "CEA",
     "Option4": "CERC",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day1",
@@ -456,8 +411,7 @@ var questions = [
     "Option2": "1000 MW can be easily transferred from Area B to Area A.",
     "Option3": "The ATC from Area A to Area B would become less than 500 MW.",
     "Option4": "500 MW can be easily scheduled from Area A to Area B.",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -466,8 +420,7 @@ var questions = [
     "Option2": "500 MW",
     "Option3": "Could be less than or equal to 1900 MW.",
     "Option4": "1900 MW",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -476,8 +429,7 @@ var questions = [
     "Option2": "Sag, active power and reactive power",
     "Option3": "temperature, pressure and relative humidity",
     "Option4": "MVA",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day1",
@@ -486,8 +438,7 @@ var questions = [
     "Option2": "Both are equal to each other",
     "Option3": "Transfer capability is less than transmission capacity",
     "Option4": "None of these",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day1",
@@ -496,8 +447,7 @@ var questions = [
     "Option2": "Would have to be worked out from simulation studies",
     "Option3": "630 MW",
     "Option4": "Zero",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day1",
@@ -506,8 +456,7 @@ var questions = [
     "Option2": "Doubles",
     "Option3": "Becomes half",
     "Option4": "Becomes four times.",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day1",
@@ -516,8 +465,7 @@ var questions = [
     "Option2": "Reduce reliability margin by 200 MW and approve all the open access requests.",
     "Option3": "Approve all the transactions and curtail in real time in case of a congestion",
     "Option4": "Issue a curtailed approval based on ATC.",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day1",
@@ -526,8 +474,7 @@ var questions = [
     "Option2": "Availability and dependability",
     "Option3": "Mean Time To Repair and Mean Time Between Failures",
     "Option4": "availability and optimal loading",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day1",
@@ -536,8 +483,7 @@ var questions = [
     "Option2": "Consumer protection laws are lax",
     "Option3": "Does not make sense at all",
     "Option4": "None of the above",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day1",
@@ -546,8 +492,7 @@ var questions = [
     "Option2": "Line loading and voltage drop",
     "Option3": "Line loading and reactive power",
     "Option4": "None of the above",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day1",
@@ -556,8 +501,7 @@ var questions = [
     "Option2": "Help the system operator in real time",
     "Option3": "Barriers to free trade and restraint on traders",
     "Option4": "None of the above",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -566,8 +510,7 @@ var questions = [
     "Option2": "Energy Intensity",
     "Option3": "Per Capita Consumption",
     "Option4": "None",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -576,8 +519,7 @@ var questions = [
     "Option2": "BLY",
     "Option3": "S&L",
     "Option4": "None",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day2",
@@ -586,8 +528,7 @@ var questions = [
     "Option2": "49.5 – 50.3",
     "Option3": "49.7 – 50.2",
     "Option4": "49.5 – 50.2",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -596,8 +537,7 @@ var questions = [
     "Option2": "Regional Power Committee  (RPC) on report by RLDC",
     "Option3": "Central Electricity Regulatory Commission(CERC) on report by RPC and RLDC only",
     "Option4": "Central Electricity Regulatory Commission(CERC) on report by any person or suo-motu",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day2",
@@ -606,8 +546,7 @@ var questions = [
     "Option2": "for safety of human life",
     "Option3": "when serious damage to a costly equipment is imminent and such isolation would prevent it,",
     "Option4": "All of these",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day2",
@@ -616,8 +555,7 @@ var questions = [
     "Option2": "All hydro units (except those with upto three hours pondage) of 10 MW and above,",
     "Option3": "Thermal units >=200MW and Hydro units >=10MW owned by central sector Generating companys",
     "Option4": "All coal/lignite based thermal generating units of 200MWand above, open cycle gas turbine/CCGT of capacity more than 50MW and all hydro units of 25MW and above",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day2",
@@ -626,8 +564,7 @@ var questions = [
     "Option2": "May be in one control area (i.e. SLDC) at one point of time and another control area (i.e. RLDC) at another point of time",
     "Option3": "As decided by RPC",
     "Option4": "As decided by RLDC",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -636,8 +573,7 @@ var questions = [
     "Option2": "voltage is above103%.",
     "Option3": "In case of voltage below 97% or greater than 103% at the metering point.",
     "Option4": "Voltage at metering point is below 95 % or above 105 %",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day2",
@@ -646,8 +582,7 @@ var questions = [
     "Option2": "RLDC",
     "Option3": "Neither SLDC nor RLDC",
     "Option4": "Either SLDC or RLDC",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -656,8 +591,7 @@ var questions = [
     "Option2": "RLDC",
     "Option3": "Neither SLDC nor RLDC",
     "Option4": "Either SLDC or RLDC",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -666,8 +600,7 @@ var questions = [
     "Option2": "33 kV and above",
     "Option3": "132 kV and above",
     "Option4": "400 kV \nand above",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -676,8 +609,7 @@ var questions = [
     "Option2": "1%",
     "Option3": "3%",
     "Option4": "5%",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day2",
@@ -686,8 +618,7 @@ var questions = [
     "Option2": "2.00%",
     "Option3": "2.50%",
     "Option4": "5.00%",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day2",
@@ -696,8 +627,7 @@ var questions = [
     "Option2": "220 kV",
     "Option3": "400 kV",
     "Option4": "765 kV",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -706,8 +636,7 @@ var questions = [
     "Option2": "10 to 20",
     "Option3": "20 to 30",
     "Option4": "30 to 40",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -716,8 +645,7 @@ var questions = [
     "Option2": "double main and transfer scheme or double main with breaker by pass scheme",
     "Option3": "one and half breaker scheme or double main and transfer bus scheme",
     "Option4": "double bus double breaker scheme",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -726,8 +654,7 @@ var questions = [
     "Option2": "160 milliseconds",
     "Option3": "300 milliseconds",
     "Option4": "100 microseconds",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -736,8 +663,7 @@ var questions = [
     "Option2": "at the Genrator Terminals manufacturer guarented  rated MW",
     "Option3": "after deducting station auxilary  load  on manufacturer guarented  average MW/day",
     "Option4": "at the Genrator Terminals manufacturer guarented  average MW/day",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -746,8 +672,7 @@ var questions = [
     "Option2": "1.0 or less",
     "Option3": "1.4 or more",
     "Option4": "1.4 or less",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day2",
@@ -756,8 +681,7 @@ var questions = [
     "Option2": "5-8%",
     "Option3": "3-8%",
     "Option4": "3-6 %",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day2",
@@ -766,8 +690,7 @@ var questions = [
     "Option2": "5%",
     "Option3": "3%",
     "Option4": "8%",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day2",
@@ -776,8 +699,7 @@ var questions = [
     "Option2": "Delicensed",
     "Option3": "Restricted",
     "Option4": "Commercial",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -786,8 +708,7 @@ var questions = [
     "Option2": "Equipment Standardisation",
     "Option3": "Environmental Concerns",
     "Option4": "System Operation and Control",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day2",
@@ -796,8 +717,7 @@ var questions = [
     "Option2": "Equipment Standardisation",
     "Option3": "Environmental Concerns",
     "Option4": "System Operation and Control",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -806,8 +726,7 @@ var questions = [
     "Option2": "MW flows from B to A",
     "Option3": "No MW flows in the line",
     "Option4": "Can not be determined from the given data",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -816,8 +735,7 @@ var questions = [
     "Option2": 60.6,
     "Option3": 23.49,
     "Option4": 2.349,
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day2",
@@ -826,8 +744,7 @@ var questions = [
     "Option2": "Is no",
     "Option3": "Either end",
     "Option4": "None of the above",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -836,8 +753,7 @@ var questions = [
     "Option2": "GSHR in closed cycle is greater than than in open cycle",
     "Option3": "GSHR in open cycle is greater than than in closed cycle",
     "Option4": "It depends on the unit size",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day2",
@@ -846,8 +762,7 @@ var questions = [
     "Option2": "Overflux",
     "Option3": "Differential",
     "Option4": "Loss of field",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -856,8 +771,7 @@ var questions = [
     "Option2": "governor",
     "Option3": "OLTC",
     "Option4": "frequency relay",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -866,8 +780,7 @@ var questions = [
     "Option2": "turbine and generator",
     "Option3": "boiler and turbile",
     "Option4": "generator and transformer",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -876,8 +789,7 @@ var questions = [
     "Option2": "decrease",
     "Option3": "remains constant",
     "Option4": "increases by 100%",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -886,8 +798,7 @@ var questions = [
     "Option2": "less than",
     "Option3": "equal to",
     "Option4": "No relationship",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day2",
@@ -896,8 +807,7 @@ var questions = [
     "Option2": "The governor waits several minutes to see what happens",
     "Option3": "The governor closes the control valve position some what to decrease turbine input",
     "Option4": "None of \nthe above",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day2",
@@ -906,8 +816,7 @@ var questions = [
     "Option2": "Machine 'A' picks up large portion of load",
     "Option3": "Share the increase in load equally",
     "Option4": "Neither A nor B pick up the load",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -916,8 +825,7 @@ var questions = [
     "Option2": "Rotating loads",
     "Option3": "A combination of lighting loads and rotating loads",
     "Option4": "Silicon loads",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -926,8 +834,7 @@ var questions = [
     "Option2": "49.5 Hz",
     "Option3": "50.5 Hz",
     "Option4": "51.0 Hz",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day2",
@@ -936,8 +843,7 @@ var questions = [
     "Option2": 2940,
     "Option3": 3060,
     "Option4": 2880,
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -946,8 +852,7 @@ var questions = [
     "Option2": "Over frequency unit tripping",
     "Option3": "reduction in load with decrease in frequency",
     "Option4": "manual load shedding",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day2",
@@ -956,8 +861,7 @@ var questions = [
     "Option2": "-0.15Hz",
     "Option3": "+0.3Hz",
     "Option4": "-0.3Hz",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -966,8 +870,7 @@ var questions = [
     "Option2": "(ii) & (iii)",
     "Option3": "(i), (ii) & (iii)",
     "Option4": "(i) & (ii)",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day2",
@@ -976,8 +879,7 @@ var questions = [
     "Option2": "500 kVAr",
     "Option3": "50 kVAr",
     "Option4": "300 kVAr",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -986,8 +888,7 @@ var questions = [
     "Option2": "P0*(1-Kse) / (1-Ksh)",
     "Option3": "P0*Sqrt(1-Ksh) / Sqrt(1-Kse)",
     "Option4": "P0*Sqrt(1-Kse) / Sqrt(1-Ksh)",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day2",
@@ -996,8 +897,7 @@ var questions = [
     "Option2": 404,
     "Option3": 396,
     "Option4": 412,
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -1006,8 +906,7 @@ var questions = [
     "Option2": "410kV/201kV",
     "Option3": "420kV/225kV",
     "Option4": "380kV/180kV",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -1016,8 +915,7 @@ var questions = [
     "Option2": "Load angle",
     "Option3": "Line reactance",
     "Option4": "Sending end voltage",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -1026,8 +924,7 @@ var questions = [
     "Option2": 1.5,
     "Option3": 0.95,
     "Option4": 1.3,
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -1036,8 +933,7 @@ var questions = [
     "Option2": 1.14,
     "Option3": 0.9,
     "Option4": 1.4,
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -1046,8 +942,7 @@ var questions = [
     "Option2": "The current flowing through a protected zone to a fault in the same zone",
     "Option3": "The current flowing through the protected device before fault",
     "Option4": "The post fault current flowing through the protected device",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -1056,8 +951,7 @@ var questions = [
     "Option2": "a-3; b-1; c-2; d-4",
     "Option3": "a-3; b-2; c-1; d-4;",
     "Option4": "a-4;b-1;c-2;d-3",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day2",
@@ -1066,8 +960,7 @@ var questions = [
     "Option2": "PLC",
     "Option3": "Communication Front End",
     "Option4": "Operator Console",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day2",
@@ -1076,8 +969,7 @@ var questions = [
     "Option2": "LAN",
     "Option3": "DMZ",
     "Option4": "Ring main unit",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -1086,8 +978,7 @@ var questions = [
     "Option2": "Sequence of Events",
     "Option3": "Network Management System",
     "Option4": "Human Machine Interface",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -1096,8 +987,7 @@ var questions = [
     "Option2": "SCADA analog measurements",
     "Option3": "SCADA digital measurements",
     "Option4": "All of the above",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -1106,8 +996,7 @@ var questions = [
     "Option2": "Newton Raphson Method",
     "Option3": "Decoupled Powerflow Method",
     "Option4": "Gauss-Siedel Method",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day2",
@@ -1116,8 +1005,7 @@ var questions = [
     "Option2": "Total internal reflection of light",
     "Option3": "Refraction of light",
     "Option4": "Diffusion of light",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day2",
@@ -1126,8 +1014,7 @@ var questions = [
     "Option2": "More susceptible to electromagnetic interference",
     "Option3": "Less signal degradation",
     "Option4": "Lighter and thinner than copper wire",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1136,8 +1023,7 @@ var questions = [
     "Option2": "Power Generation",
     "Option3": "Power Trading",
     "Option4": "Power Trading and Generation both",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1146,8 +1032,7 @@ var questions = [
     "Option2": "Preventing the grid from cascade tripping and  Grid Disintegration/ Grid Collapse",
     "Option3": "Protection of the Transmission Lines",
     "Option4": "Protection of Transformers",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1156,8 +1041,7 @@ var questions = [
     "Option2": "With centralized scheduling by RLDC and NLDC",
     "Option3": "with decentralized scheduling and despatch,",
     "Option4": "None of these",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1166,8 +1050,7 @@ var questions = [
     "Option2": "As per decision by respective transmission Utility",
     "Option3": "As per decision by CTU",
     "Option4": "Any time as per decision by CPCC",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -1176,8 +1059,7 @@ var questions = [
     "Option2": "Regional Load Despatch Centre (RLDC)",
     "Option3": "Central Transmission Utility (CTU)",
     "Option4": "Central Electricity Authority (CEA)",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1186,8 +1068,7 @@ var questions = [
     "Option2": "CTU and all STUs",
     "Option3": "Distribution licensees and STUs",
     "Option4": "CTU and all SEBs",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1196,8 +1077,7 @@ var questions = [
     "Option2": "Buyer",
     "Option3": "Seller and Buyer",
     "Option4": "Either seller or Buyer",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1206,8 +1086,7 @@ var questions = [
     "Option2": "200 MW",
     "Option3": "100 MW",
     "Option4": "250 MW",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1216,8 +1095,7 @@ var questions = [
     "Option2": "132 kV and above",
     "Option3": "66 kV and above",
     "Option4": "400 kV and above",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1226,8 +1104,7 @@ var questions = [
     "Option2": "CEA",
     "Option3": "The licensee with whose system the inter-connection is proposed",
     "Option4": "CERC",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -1236,8 +1113,7 @@ var questions = [
     "Option2": "Not less than 0.95",
     "Option3": "Not less than 0.9",
     "Option4": "Not less than 0.85",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1246,8 +1122,7 @@ var questions = [
     "Option2": "one",
     "Option3": "one with two LT transformers",
     "Option4": "Three",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -1256,8 +1131,7 @@ var questions = [
     "Option2": "5-8%",
     "Option3": "4-6%",
     "Option4": "3-6%",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -1266,8 +1140,7 @@ var questions = [
     "Option2": "Appropriate Commission",
     "Option3": "Ministry of Power",
     "Option4": "Appellate Tribunal for Electricity",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1276,8 +1149,7 @@ var questions = [
     "Option2": "GD 2",
     "Option3": "GD 20",
     "Option4": "Can't say",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -1286,8 +1158,7 @@ var questions = [
     "Option2": "once every 6 months",
     "Option3": "once a year",
     "Option4": "once in 2 years",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1296,8 +1167,7 @@ var questions = [
     "Option2": "double main and transfer scheme",
     "Option3": "one and half breaker scheme",
     "Option4": "double bus double breaker scheme",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -1306,8 +1176,7 @@ var questions = [
     "Option2": "2.00%",
     "Option3": "2.50%",
     "Option4": "5.00%",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1316,8 +1185,7 @@ var questions = [
     "Option2": "1.5%",
     "Option3": "3%",
     "Option4": "5%",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1326,8 +1194,7 @@ var questions = [
     "Option2": "decrease",
     "Option3": "remain constant",
     "Option4": "decrease by 10 degrees",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -1336,8 +1203,7 @@ var questions = [
     "Option2": "load angles",
     "Option3": "frequencies",
     "Option4": "voltages",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1346,8 +1212,7 @@ var questions = [
     "Option2": "increase the excitation",
     "Option3": "Increase the power input to the prime mover",
     "Option4": "Increase the terminal voltage and increase the excitation",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1356,8 +1221,7 @@ var questions = [
     "Option2": "possible damage to turbine blades due to vibration at low speed",
     "Option3": "certain customers' equipment will run at higher than normal speed",
     "Option4": "None of these",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1366,8 +1230,7 @@ var questions = [
     "Option2": "1.0 Hz",
     "Option3": "0.5 Hz",
     "Option4": "0.25Hz",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1376,8 +1239,7 @@ var questions = [
     "Option2": 2940,
     "Option3": 3060,
     "Option4": 2880,
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1386,8 +1248,7 @@ var questions = [
     "Option2": "increase, increase",
     "Option3": "decrease, decrease",
     "Option4": "decrease, increase",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -1396,8 +1257,7 @@ var questions = [
     "Option2": "500 kVAr",
     "Option3": "50 kVAr",
     "Option4": "250 kVAr",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -1406,8 +1266,7 @@ var questions = [
     "Option2": "controls the power flow through parallel lines",
     "Option3": "controls the receiving end voltage",
     "Option4": "all of these",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -1416,8 +1275,7 @@ var questions = [
     "Option2": "a-3, b-1, c-2",
     "Option3": "a-2,b-3,c-1",
     "Option4": "a-3,b-2,c-1",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1426,8 +1284,7 @@ var questions = [
     "Option2": "P0*Sqrt(1-Kse)",
     "Option3": "P0 * (1-Kse)",
     "Option4": "P0/(1-Kse)",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -1436,8 +1293,7 @@ var questions = [
     "Option2": "100 kVAr",
     "Option3": "500 kVAr",
     "Option4": "250 KVAr",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -1446,8 +1302,7 @@ var questions = [
     "Option2": "inversely proportional",
     "Option3": "it remains unchanged",
     "Option4": "excitation is fixed and cannot be changed",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1456,8 +1311,7 @@ var questions = [
     "Option2": "leads the voltage by 45 degrees",
     "Option3": "leads the voltage by 90 degrees",
     "Option4": "leads the voltage by 180 degrees",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1466,8 +1320,7 @@ var questions = [
     "Option2": "To compensate voltage rise caused by capacitive charging at light load",
     "Option3": "To improve power factor",
     "Option4": "To reduce the fault current",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1476,8 +1329,7 @@ var questions = [
     "Option2": "(b) only",
     "Option3": "both (a) and (b)",
     "Option4": "Neither (a) nor (b)",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1486,8 +1338,7 @@ var questions = [
     "Option2": "a-1; b-4; c-3; d-2",
     "Option3": "a-4; b-3; c-1; d-2;",
     "Option4": "a-3; b-2; c-1; d-4;",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1496,8 +1347,7 @@ var questions = [
     "Option2": "2nd harmonic",
     "Option3": "5th Harmonic",
     "Option4": "3rd harmonic",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1506,8 +1356,7 @@ var questions = [
     "Option2": "1 sec",
     "Option3": "5 minute",
     "Option4": "10 milli sec",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1516,8 +1365,7 @@ var questions = [
     "Option2": "350-400ms",
     "Option3": "1000-1200ms",
     "Option4": "0 ms",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1526,8 +1374,7 @@ var questions = [
     "Option2": "Transformer",
     "Option3": "Generator",
     "Option4": "Busbar",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1536,8 +1383,7 @@ var questions = [
     "Option2": "High Speed Three pole reclosing (HTAR)",
     "Option3": "Delayed Three Pole reclosing (DAR)",
     "Option4": "Delayed auto reclosing (DAR) with dead line (DL) and synchronism check (SC)",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -1546,8 +1392,7 @@ var questions = [
     "Option2": "running as induction generator",
     "Option3": "running as synchronous motor",
     "Option4": "over speeding",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1556,8 +1401,7 @@ var questions = [
     "Option2": "Negative sequence",
     "Option3": "Harmonic",
     "Option4": "Saturation",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1566,8 +1410,7 @@ var questions = [
     "Option2": "Secondary",
     "Option3": "Tertiary",
     "Option4": "Auxiliary",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1576,8 +1419,7 @@ var questions = [
     "Option2": "Low",
     "Option3": "zero",
     "Option4": "Infinite",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -1586,8 +1428,7 @@ var questions = [
     "Option2": "Easy segregation of faulty zones",
     "Option3": "Can be used as a pooling point",
     "Option4": "Feeding power to the local area",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -1596,8 +1437,7 @@ var questions = [
     "Option2": "To act as a deterrent to rodents",
     "Option3": "To limit step and touch potential for substation staff",
     "Option4": "Provide a high impedance path to the fault currents",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1606,8 +1446,7 @@ var questions = [
     "Option2": "To limit the voltage",
     "Option3": "To divert lightning surges to ground",
     "Option4": "To absorb switching, lighting surges and discharge",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -1616,8 +1455,7 @@ var questions = [
     "Option2": "Separate Earth \nelectrodes",
     "Option3": "Earth mat",
     "Option4": "Need not be earthed",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1626,8 +1464,7 @@ var questions = [
     "Option2": "Data Processing",
     "Option3": "Alarms",
     "Option4": "All of the above",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -1636,8 +1473,7 @@ var questions = [
     "Option2": "Reasonability Limit",
     "Option3": "Forbidden Limit",
     "Option4": "Dead band Limits",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1646,8 +1482,7 @@ var questions = [
     "Option2": "Suspect",
     "Option3": "Calculated",
     "Option4": "Garbage",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -1656,8 +1491,7 @@ var questions = [
     "Option2": "Power Plant Data",
     "Option3": "Substation Data",
     "Option4": "System Operational Data",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1666,8 +1500,7 @@ var questions = [
     "Option2": "Digital",
     "Option3": "Both Analog and digital",
     "Option4": "only counter data",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -1676,8 +1509,7 @@ var questions = [
     "Option2": "Balanced 3 Ph System",
     "Option3": "3 Ph. System described by positive sequence network",
     "Option4": "All of these",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -1686,8 +1518,7 @@ var questions = [
     "Option2": "Frequency",
     "Option3": "Reactive Power",
     "Option4": "Active Power",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -1696,8 +1527,7 @@ var questions = [
     "Option2": "Medium Term Forecasting",
     "Option3": "Long Term Forecasting",
     "Option4": "Very long term",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -1706,8 +1536,7 @@ var questions = [
     "Option2": "Fourth",
     "Option3": "First",
     "Option4": "Second",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -1716,8 +1545,7 @@ var questions = [
     "Option2": "ESS chaerged with energy sourced from REGS & RHGS",
     "Option3": "Generation based on hydro power sources",
     "Option4": "All of these",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -1726,8 +1554,7 @@ var questions = [
     "Option2": "1st week of April 2021",
     "Option3": "15th of March 2021",
     "Option4": "31stof March 2021",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -1736,8 +1563,7 @@ var questions = [
     "Option2": "Rs/MW",
     "Option3": "Rs/MW/Day",
     "Option4": "Rs",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -1746,8 +1572,7 @@ var questions = [
     "Option2": "1.05 X (total transmission charges for all drawee DICs located in the State, (as calculated in accordance with Regulation 5 to 8 of these regulations) for the billing month in Rs.)/ (GNA and GNARE quantum in MW of such entities located in the State, considered for billing, for the corresponding billing period X number of days in a month X 96).”",
     "Option3": "1.25 X (total transmission charges for all drawee DICs located in the State, (as calculated in accordance with Regulation 5 to 8 of these regulations) for the billing month in Rs.)/ (GNA and GNARE quantum in MW of such entities located in the State, considered for billing, for the corresponding billing period X number of days in a month X 96).”",
     "Option4": "1.20 X (total transmission charges for all drawee DICs located in the State, (as calculated in accordance with Regulation 5 to 8 of these regulations) for the billing month in Rs.)/ (GNA and GNARE quantum in MW of such entities located in the State, considered for billing, for the corresponding billing period X number of days in a month X 96).”",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -1756,8 +1581,7 @@ var questions = [
     "Option2": "Transmission Service Agreement (TSA)",
     "Option3": "Bulk Power Agreement (BPA)",
     "Option4": "Connection Agreement",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -1766,8 +1590,7 @@ var questions = [
     "Option2": "Second Bill",
     "Option3": "Third Bill",
     "Option4": "Sum of First and Third Bills",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -1776,8 +1599,7 @@ var questions = [
     "Option2": "RLDC",
     "Option3": "CERC",
     "Option4": "SERC",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -1786,8 +1608,7 @@ var questions = [
     "Option2": "States and Generatings stations",
     "Option3": "A drawee DIC which is a regional entite but not covered under state",
     "Option4": "All of these",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -1796,8 +1617,7 @@ var questions = [
     "Option2": "Drawee DICS",
     "Option3": "Generators",
     "Option4": "A&C",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -1806,8 +1626,7 @@ var questions = [
     "Option2": "30% to be shared by SR DICs & 70% to be shared by all DICs",
     "Option3": "100% to be shared by SR DICs",
     "Option4": "100% to be shared by all DICs",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -1816,8 +1635,7 @@ var questions = [
     "Option2": "Transmission charges for all drawee DICs located in the State, for the billing month (in rupees) X 1.05 / (number of days in a month X 96 X GNA and GNARE quantum , in MW, for all such drawee DICs located in the State considered for billing, for the corresponding billing period).",
     "Option3": "Transmission charges for all drawee DICs located in the State, for the billing month (in rupees) X 1.10 / (number of days in a month X 96 X GNA and GNARE quantum , in MW, for all such drawee DICs located in the State considered for billing, for the corresponding billing period).",
     "Option4": "Transmission charges for all drawee DICs located in the State, for the billing month (in rupees) X 1.25 / (number of days in a month X 96 X GNA and GNARE quantum , in MW, for all such drawee DICs located in the State considered for billing, for the corresponding billing period).",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -1826,8 +1644,7 @@ var questions = [
     "Option2": "Validation Committee",
     "Option3": "NLDC",
     "Option4": "CEA",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -1836,8 +1653,7 @@ var questions = [
     "Option2": "RPCs",
     "Option3": "CEA",
     "Option4": "NLDC",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -1846,8 +1662,7 @@ var questions = [
     "Option2": "the time block in which ISGS injection is maximum",
     "Option3": "the sum of net ISTS drawal of all states is maximum",
     "Option4": "Non of these",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -1856,8 +1671,7 @@ var questions = [
     "Option2": "NLDC",
     "Option3": "CTU",
     "Option4": "Nodal Agency",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -1866,8 +1680,7 @@ var questions = [
     "Option2": "Marginal participation method",
     "Option3": "Hybrid methodology of average and marginal participation methods",
     "Option4": "Power tracing",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -1876,8 +1689,7 @@ var questions = [
     "Option2": "Drawal schedules of DICs",
     "Option3": "Both A&B",
     "Option4": "None of these",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -1886,8 +1698,7 @@ var questions = [
     "Option2": "RC",
     "Option3": "TC",
     "Option4": "NC&RC",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -1896,8 +1707,7 @@ var questions = [
     "Option2": "RC",
     "Option3": "TC",
     "Option4": "AC-UBC",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -1906,8 +1716,7 @@ var questions = [
     "Option2": "132kV and above network",
     "Option3": "400kV and above network",
     "Option4": "110kV and above network",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -1916,8 +1725,7 @@ var questions = [
     "Option2": "both in 1st week",
     "Option3": "1st & 3rd respectively",
     "Option4": "1st & 4th respectively",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -1926,8 +1734,7 @@ var questions = [
     "Option2": "once in two months",
     "Option3": "once in three months",
     "Option4": "once in a year",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -1936,8 +1743,7 @@ var questions = [
     "Option2": "1.05 times  transmission charge rate of home state",
     "Option3": "1.2 times  transmission charge rate of home state",
     "Option4": "transmission charges not applicable",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -1946,8 +1752,7 @@ var questions = [
     "Option2": "GNA plus T-GNA",
     "Option3": "adjustments & revisions",
     "Option4": "RTDA",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -1956,8 +1761,7 @@ var questions = [
     "Option2": "10th day",
     "Option3": "1st day",
     "Option4": "15th day",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -1966,8 +1770,7 @@ var questions = [
     "Option2": "10th day",
     "Option3": "15th day",
     "Option4": "25th day",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -1976,8 +1779,7 @@ var questions = [
     "Option2": "all generators & all states",
     "Option3": "All Drawee DICs",
     "Option4": "all target region generators",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -1986,8 +1788,7 @@ var questions = [
     "Option2": "all drawee DICs within a state",
     "Option3": "all regional entities",
     "Option4": "B&C",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -1996,8 +1797,7 @@ var questions = [
     "Option2": "Generators",
     "Option3": "Embedded entities in states",
     "Option4": "B&C",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2006,8 +1806,7 @@ var questions = [
     "Option2": "T-GNA Rate for the State in which it is located",
     "Option3": "50 % of T-GNA Rate for the State in which it is located",
     "Option4": "10 % of T-GNA Rate for the State in which it is located",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2016,8 +1815,7 @@ var questions = [
     "Option2": "T-GNA Rate for the State in which it is located",
     "Option3": "50 % of T-GNA Rate for the State in which it is located",
     "Option4": "10 % of T-GNA Rate for the State in which it is located",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2026,8 +1824,7 @@ var questions = [
     "Option2": "Monday to Sunday",
     "Option3": "Every Wednesday",
     "Option4": "Sunday to Saturday",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2036,8 +1833,7 @@ var questions = [
     "Option2": "For a generator +ve sign indicates over generation & for a beneficiary  +ve sign indicates overdrawal.",
     "Option3": "For a generator, -ve sign indicates over generation & for a beneficiary –ve sign indicates under drawal.",
     "Option4": "For a generator, +ve sign indicates under generation & for a beneficiary –ve   sign  indicates under drawal.",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2046,8 +1842,7 @@ var questions = [
     "Option2": "A trader",
     "Option3": "A generator whose tariff is fixed by Commission.",
     "Option4": "A generator under ABT.",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2056,8 +1851,7 @@ var questions = [
     "Option2": "A mechanism similar to ABT.",
     "Option3": "A mechanism in which prices of Coal, gas and other fuels are fixed at   regulated rates for power generating purpose.",
     "Option4": "Price discovery in power exchange.",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2066,8 +1860,7 @@ var questions = [
     "Option2": "RPC",
     "Option3": "CEA",
     "Option4": "SLDC",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2076,8 +1869,7 @@ var questions = [
     "Option2": "Reginal Deviation Charges and Ancillary Service pool Account",
     "Option3": "PSDF",
     "Option4": "Ancillary Service pool Account",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2086,8 +1878,7 @@ var questions = [
     "Option2": "12 days",
     "Option3": "7 days",
     "Option4": "14 days",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2096,8 +1887,7 @@ var questions = [
     "Option2": "0.04% per day compound interest",
     "Option3": "0.4% per day simple interest",
     "Option4": "0.04% per day simple interest",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2106,8 +1896,7 @@ var questions = [
     "Option2": "110% of their average payable weekly liability for deviations in the previous financial year",
     "Option3": "100% of their average payable weekly liability for deviations in the previous financial year",
     "Option4": "110% of their average payable weekly liability for deviations in the previous three financial years",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2116,8 +1905,7 @@ var questions = [
     "Option2": "At the reference charge rate,  until the revision of its schedule",
     "Option3": "At the reference charge rate, for a maximum duration of eight time blocks or until the revision of its schedule, whichever is earlier",
     "Option4": "At the reference charge rate, for a maximum duration of six time blocks",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2126,8 +1914,7 @@ var questions = [
     "Option2": "Contract Rate",
     "Option3": "Weighted Average ACP of the Day Ahead market segments of all power exchangers",
     "Option4": "zero",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2136,8 +1923,7 @@ var questions = [
     "Option2": "At 20% of reference charge rate",
     "Option3": "At 10% of reference charge rate",
     "Option4": "zero",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2146,8 +1932,7 @@ var questions = [
     "Option2": "RLDC",
     "Option3": "CERC",
     "Option4": "None of these",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2156,8 +1941,7 @@ var questions = [
     "Option2": "Pay at normal rate of charge for deviation",
     "Option3": "Pay at 50 % of  normal rate of charge for deviation",
     "Option4": "Pay at 105 % of  normal rate of charge for deviation",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2166,8 +1950,7 @@ var questions = [
     "Option2": "125 % of normal rate of charge",
     "Option3": "150 % of normal rate of charge",
     "Option4": "200 % of normal rate of charge",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2176,8 +1959,7 @@ var questions = [
     "Option2": "Category 1: Buyer (other than the buyer with schedule less than 400 MW and the RE-rich State)            Category 2: Buyer being an RE rich state with RE generation greater than 3000 MW",
     "Option3": "Category 1: Buyer (other than the buyer with schedule less than 400 MW and the RE-rich State) Category 2: Buyer (with schedule up to 400 MW)       Category 3: Buyer (being an RE Rich State)",
     "Option4": "Category 1: Buyer (other than the buyer with schedule less than 400 MW and the RE-rich State) Category 2: Buyer (with schedule up to 400 MW)       Category 3: Buyer (being an RE Rich State)              Category 4: Buyer being an RE rich state with RE generation greater than 3000 MW",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2186,8 +1968,7 @@ var questions = [
     "Option2": "At 10% of contract rate or in the absence of a contract rate, at the weighted average ACP of the Day Ahead Market segments of all Power Exchanges",
     "Option3": "At 20% of contract rate or in the absence of a contract rate, at the weighted average ACP of the Day Ahead Market segments of all Power Exchanges",
     "Option4": "At 50% of contract rate or in the absence of a contract rate, at the weighted average ACP of the Day Ahead Market segments of all Power Exchanges",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2196,8 +1977,7 @@ var questions = [
     "Option2": "the higher of [the weighted average ACP of the Day Ahead Market segments of all the Power Exchanges; and the weighted average ACP of the Real Time Market segments of all the Power Exchanges, for that time block]",
     "Option3": "the higher of [the weighted average ACP of the Day Ahead Market segments of all the Power Exchanges; and Weighted Average Ancillary Service Charge of all the regions] for that time block",
     "Option4": "the higher of [the weighted average ACP of the Day Ahead Market segments of all the Power Exchanges; and Weighted Average Ancillary Service Charge of all the regions] for that time block, subject to a ceiling of Rs 12 per kWh",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2206,8 +1986,7 @@ var questions = [
     "Option2": "Over drawl in the importing control area",
     "Option3": "Under drawl or Over drawl in the importing control area",
     "Option4": "No congestion charges for importing control area",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2216,8 +1995,7 @@ var questions = [
     "Option2": "In addition to the deviation charges",
     "Option3": "In lieu of reactive energy charges",
     "Option4": "In lieu of PoC charges",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2226,8 +2004,7 @@ var questions = [
     "Option2": "Equals the ATC",
     "Option3": "Less than Reliability Margin",
     "Option4": "Less than the ATC",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2236,8 +2013,7 @@ var questions = [
     "Option2": "1 time-blocks counting the time-block in which warning notice was issued by RLDC",
     "Option3": "2 time-blocks counting the time-block in which warning notice was issued by RLDC",
     "Option4": "4 time-blocks not counting the time-block in which warning notice was issued by RLDC",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2246,8 +2022,7 @@ var questions = [
     "Option2": "Real-time power flow along a corridor exceeds the ATC",
     "Option3": "Grid voltage in the important nodes downstream/ upstream of the corridor is beyond the operating range",
     "Option4": "All of these options",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2256,8 +2031,7 @@ var questions = [
     "Option2": "Section 60",
     "Option3": "Section 61",
     "Option4": "Section 63",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2266,8 +2040,7 @@ var questions = [
     "Option2": 0.8,
     "Option3": 0.6,
     "Option4": 0.85,
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2276,8 +2049,7 @@ var questions = [
     "Option2": 49.5,
     "Option3": 49.4,
     "Option4": 49.3,
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2286,8 +2058,7 @@ var questions = [
     "Option2": 48.6,
     "Option3": 48.4,
     "Option4": 48.2,
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2296,8 +2067,7 @@ var questions = [
     "Option2": "NLDC",
     "Option3": "CERC",
     "Option4": "CTU",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2306,8 +2076,7 @@ var questions = [
     "Option2": "CEA",
     "Option3": "NLDC",
     "Option4": "RPC",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2316,8 +2085,7 @@ var questions = [
     "Option2": "1Year",
     "Option3": "2 Years",
     "Option4": "5 Years",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2326,8 +2094,7 @@ var questions = [
     "Option2": "Nodal RLDC",
     "Option3": "SLDC",
     "Option4": "NLDC",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2336,8 +2103,7 @@ var questions = [
     "Option2": "5 Days",
     "Option3": "7 Days",
     "Option4": "1 Day",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2346,8 +2112,7 @@ var questions = [
     "Option2": "15 Days",
     "Option3": "1 Year",
     "Option4": "7 Days",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2356,8 +2121,7 @@ var questions = [
     "Option2": "Collective transaction in DAM & RTM of PX",
     "Option3": "FCFS Bilateral STOA",
     "Option4": "Day-Ahead Bilateral STOA",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2366,8 +2130,7 @@ var questions = [
     "Option2": "FESS (Flywheel Energy Storage System)",
     "Option3": "Flow Batteries",
     "Option4": "Electro-chemical Capaciters",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2376,8 +2139,7 @@ var questions = [
     "Option2": "(ii)>(i)>(iii)",
     "Option3": "(iii)>(ii)>(i)",
     "Option4": "All",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2386,8 +2148,7 @@ var questions = [
     "Option2": "(i) & (iv)",
     "Option3": "(ii) & (iv)",
     "Option4": "(ii) & (iii)",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2396,8 +2157,7 @@ var questions = [
     "Option2": "5 Min",
     "Option3": "30 Sec",
     "Option4": "1 Sec",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2406,8 +2166,7 @@ var questions = [
     "Option2": "AC Level 2",
     "Option3": "DC Level 1",
     "Option4": "DC Level 2",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2416,8 +2175,7 @@ var questions = [
     "Option2": "additional capitalisation would be allowed upto this date for a new project.",
     "Option3": "last date for filing tariff petition",
     "Option4": "last date for completing all expenditure.",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2426,8 +2184,7 @@ var questions = [
     "Option2": "kcal/lit of liquid fuel",
     "Option3": "kcal/m3 of gas",
     "Option4": "All of these",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2436,8 +2193,7 @@ var questions = [
     "Option2": "Annual fixed charges",
     "Option3": "Capital cost",
     "Option4": "Working capital",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2446,8 +2202,7 @@ var questions = [
     "Option2": "Rs.30 cr.",
     "Option3": "Rs.20 cr",
     "Option4": "Rs.70 cr.",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2456,8 +2211,7 @@ var questions = [
     "Option2": "Rs.60 cr. is treated  at actual rate of interest and Rs.10 cr. at normative interest rate",
     "Option3": "Rs.70 cr treated as loan at actual interest rate",
     "Option4": "Rs.70 cr at wt. average rate of interest",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2466,8 +2220,7 @@ var questions = [
     "Option2": "energy charges",
     "Option3": "working capital",
     "Option4": "maintenance spares",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2476,8 +2229,7 @@ var questions = [
     "Option2": "base rate of ROE  x (1+t)",
     "Option3": "base rate of ROE/(1+t)",
     "Option4": "base rate of ROE / (1-t)",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2486,8 +2238,7 @@ var questions = [
     "Option2": "Equity",
     "Option3": "Capital cost",
     "Option4": "Working capital",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2496,8 +2247,7 @@ var questions = [
     "Option2": "Increases with increase in voltage level",
     "Option3": "Not related to voltage level",
     "Option4": "is a percentage of capital cost",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2506,8 +2256,7 @@ var questions = [
     "Option2": "Total energy schedule in the month on ex power plant",
     "Option3": "Total energy scheduled in the month on ex-periphery of the beneficiary",
     "Option4": "Total drawal schedule of beneficiary including all contracts",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2516,8 +2265,7 @@ var questions = [
     "Option2": "Coal>gas>hydro>lignite",
     "Option3": "Lignite>coal>gas>hydro",
     "Option4": "Gas>hydro>lignite>coal",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2526,8 +2274,7 @@ var questions = [
     "Option2": "35 years",
     "Option3": "20 years",
     "Option4": "depends on voltage level",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2536,8 +2283,7 @@ var questions = [
     "Option2": "5%",
     "Option3": "0.75%",
     "Option4": "3.50%",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2546,8 +2292,7 @@ var questions = [
     "Option2": "AC Transmission Line",
     "Option3": "None of these",
     "Option4": "HVDC bi-pole link and HVDC Back-to-Back Substation",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2556,8 +2301,7 @@ var questions = [
     "Option2": "60 days",
     "Option3": "45 days",
     "Option4": "90 days",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2566,8 +2310,7 @@ var questions = [
     "Option2": "01:01",
     "Option3": "Only beneficiary",
     "Option4": "Only Utility",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2576,8 +2319,7 @@ var questions = [
     "Option2": "Section 79",
     "Option3": "Section 61",
     "Option4": "Section 178",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2586,8 +2328,7 @@ var questions = [
     "Option2": "At the time of project approval",
     "Option3": "60 days before anticipated commissioning",
     "Option4": "One year before the Commissioning",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2596,8 +2337,7 @@ var questions = [
     "Option2": "Chief (Engg), CERC",
     "Option3": "Member Secretary, RPC",
     "Option4": "Chairperson, CEA",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2606,8 +2346,7 @@ var questions = [
     "Option2": "Static synchronous capacitors",
     "Option3": "Gas Insulated Sub-station - Green Field",
     "Option4": "Thermal-Coal Station",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2616,8 +2355,7 @@ var questions = [
     "Option2": "During 2021 - 22",
     "Option3": "During 2020 - 21",
     "Option4": "No truing up of tariff is required in 2019-24 period",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2626,8 +2364,7 @@ var questions = [
     "Option2": "During 2024 - 25",
     "Option3": "A&B",
     "Option4": "No truing up of tariff is required in 2019-24 period",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2636,8 +2373,7 @@ var questions = [
     "Option2": "During 2023 - 24",
     "Option3": "During 2020 - 21",
     "Option4": "During 2024 - 25",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2646,8 +2382,7 @@ var questions = [
     "Option2": "Depends on No. of circuits and voltage",
     "Option3": "Allowed only after prior approval of commission",
     "Option4": "Allowed after CEA approval",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2656,8 +2391,7 @@ var questions = [
     "Option2": "Procurement of power from sources which are location specific",
     "Option3": "Procurement of power from sources which are neither fuel specific nor location specific",
     "Option4": "Procurement of power from traders only",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2666,8 +2400,7 @@ var questions = [
     "Option2": "Only open access consumer is considered to be obligated entity",
     "Option3": "Only consumer of captive generation connected to grid is considered to be obligated entity",
     "Option4": "Distribution licensee, open access consumer and consumer of captive generation connected to grid are considered to be obligated entities",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day4",
@@ -2676,8 +2409,7 @@ var questions = [
     "Option2": "On policy issues which involve public interest",
     "Option3": "On tariff issue only",
     "Option4": "On non-tariff issues only",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2686,8 +2418,7 @@ var questions = [
     "Option2": "Interest of two months",
     "Option3": "Salary of employees for two months",
     "Option4": "Spares for two months",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2696,8 +2427,7 @@ var questions = [
     "Option2": "31.3.2021",
     "Option3": "31.3.2022",
     "Option4": "31.1.2021",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day4",
@@ -2706,8 +2436,7 @@ var questions = [
     "Option2": "20% of O&M expenses",
     "Option3": "30% of O&M expenses",
     "Option4": "1% of the capital cost",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2716,8 +2445,7 @@ var questions = [
     "Option2": "increase",
     "Option3": "remain same",
     "Option4": "become zero",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day4",
@@ -2726,8 +2454,7 @@ var questions = [
     "Option2": "Section 29(2)",
     "Option3": "Section 14",
     "Option4": "Section 12",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day4",
@@ -2736,8 +2463,7 @@ var questions = [
     "Option2": "Average Share Allocation",
     "Option3": "Maximum Entitlement in peak hours",
     "Option4": "Maximum Entitlement in the month",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -2746,8 +2472,7 @@ var questions = [
     "Option2": 60,
     "Option3": 120,
     "Option4": 180,
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -2756,8 +2481,7 @@ var questions = [
     "Option2": 2,
     "Option3": 3,
     "Option4": 4,
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -2766,8 +2490,7 @@ var questions = [
     "Option2": "Rs. 2 lakh/MW",
     "Option3": "Rs. 4 lakh/MW",
     "Option4": "Rs. 1 lakh/MW",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -2776,8 +2499,7 @@ var questions = [
     "Option2": "Five",
     "Option3": "Seven",
     "Option4": "Ten",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -2786,8 +2508,7 @@ var questions = [
     "Option2": "100 MW",
     "Option3": "150 MW",
     "Option4": "None",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -2796,8 +2517,7 @@ var questions = [
     "Option2": "60, 120",
     "Option3": "30, 60",
     "Option4": "30, 180",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -2806,8 +2526,7 @@ var questions = [
     "Option2": "3 Months",
     "Option3": "6 Months",
     "Option4": "1 Year",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -2816,8 +2535,7 @@ var questions = [
     "Option2": 24,
     "Option3": 72,
     "Option4": 84,
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -2826,8 +2544,7 @@ var questions = [
     "Option2": "1 hour",
     "Option3": "1 day",
     "Option4": "6 time blocks",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -2836,8 +2553,7 @@ var questions = [
     "Option2": "1 Month",
     "Option3": "11 Months",
     "Option4": "12 Months",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -2846,8 +2562,7 @@ var questions = [
     "Option2": "Subsequent Month",
     "Option3": "Either Same or Subsequent Month",
     "Option4": "None",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -2856,8 +2571,7 @@ var questions = [
     "Option2": "D+15",
     "Option3": "D+30",
     "Option4": "D+1",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -2866,8 +2580,7 @@ var questions = [
     "Option2": "RLDC in which drawal point is situated",
     "Option3": "CTU",
     "Option4": "RLDC to which application is made",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -2876,8 +2589,7 @@ var questions = [
     "Option2": "3 days",
     "Option3": "4 time blocks",
     "Option4": "cannot be revised",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -2886,8 +2598,7 @@ var questions = [
     "Option2": "1 month",
     "Option3": "3 days",
     "Option4": "cannot be revised",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -2896,8 +2607,7 @@ var questions = [
     "Option2": "CERC",
     "Option3": "CEA",
     "Option4": "NLDC",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -2906,8 +2616,7 @@ var questions = [
     "Option2": "Rs/MW/hour",
     "Option3": "paise/KWH",
     "Option4": "paise/KW/time block",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -2916,8 +2625,7 @@ var questions = [
     "Option2": "Collective under day ahead, Bilateral, Collective under real time market",
     "Option3": "Collective under real time market, Collective under day ahead, Bilateral",
     "Option4": "All in pro-rata",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -2926,8 +2634,7 @@ var questions = [
     "Option2": "(iii) only",
     "Option3": "(ii) and (iii)",
     "Option4": "All in pro-rata",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -2936,8 +2643,7 @@ var questions = [
     "Option2": "(ii) only",
     "Option3": "(iii) only",
     "Option4": "All three",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -2946,8 +2652,7 @@ var questions = [
     "Option2": "less than 103% and more than 97%",
     "Option3": "At all voltage levels",
     "Option4": "None of the above",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -2956,8 +2661,7 @@ var questions = [
     "Option2": "All outgoing feeders",
     "Option3": "All GTs and Station Transformers",
     "Option4": "All Station transformers",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -2966,8 +2670,7 @@ var questions = [
     "Option2": "Capacity Charge",
     "Option3": "Deviation charge",
     "Option4": "Net input output charges",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -2976,8 +2679,7 @@ var questions = [
     "Option2": "64V,1A & 64V,5A",
     "Option3": "110V,5A & 64V, 1A",
     "Option4": "110V,1A&64V,5A",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -2986,8 +2688,7 @@ var questions = [
     "Option2": "Check & Standby Meters",
     "Option3": "Main & Check meters",
     "Option4": "Main, Check and Standby meters",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -2996,8 +2697,7 @@ var questions = [
     "Option2": "Data Collecting Device (DCD)",
     "Option3": "PC",
     "Option4": "GPS",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3006,8 +2706,7 @@ var questions = [
     "Option2": "Thursday noon",
     "Option3": "Monday noon",
     "Option4": "Sunday Noon",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3016,8 +2715,7 @@ var questions = [
     "Option2": "Standby meters first followed by check if standby is not available",
     "Option3": "Wait for rectification of main meters",
     "Option4": "Average of check and stand by meters",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3026,8 +2724,7 @@ var questions = [
     "Option2": "Active Energy",
     "Option3": "Active, Reactive High & Reactive Low energy",
     "Option4": "Only active energy",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3036,8 +2733,7 @@ var questions = [
     "Option2": "Consumer meters",
     "Option3": "Energy Accounting meters",
     "Option4": "Audit Meters",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3046,8 +2742,7 @@ var questions = [
     "Option2": "Meter-A is main meter & Meter-B is standby meter",
     "Option3": "Meter-B is main meter & Meter-A is Check meter",
     "Option4": "Meter-A is check meter and Meter -B is standby Meter",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3056,8 +2751,7 @@ var questions = [
     "Option2": "Using internal Battery backup",
     "Option3": "By giving external supply to the meter",
     "Option4": "Both B and C",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3066,8 +2760,7 @@ var questions = [
     "Option2": "Portfolio bid",
     "Option3": "Block bid",
     "Option4": "Reserve bid",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3076,8 +2769,7 @@ var questions = [
     "Option2": "Seller of electricity only",
     "Option3": "Buyer and Seller of electricity",
     "Option4": "Buyer or Seller of electricity",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3086,8 +2778,7 @@ var questions = [
     "Option2": "RLDC",
     "Option3": "NLDC",
     "Option4": "CTU",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3096,8 +2787,7 @@ var questions = [
     "Option2": "Uniform pricing",
     "Option3": "Pay-as bid pricing",
     "Option4": "Single sided bidding",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3106,8 +2796,7 @@ var questions = [
     "Option2": "Market splitting",
     "Option3": "Explicit auction",
     "Option4": "redispatching",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3116,8 +2805,7 @@ var questions = [
     "Option2": "Energy only market",
     "Option3": "Mix of Capacity based and Energy only market",
     "Option4": "None of these",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3126,8 +2814,7 @@ var questions = [
     "Option2": "A market where physical delivery of electricity  occurs either on the same day as the date of the transaction (T) or on the next day (T+ 1)",
     "Option3": "A market where physical delivery of electricity occurs more than two days(T + 3 or more) ahead from the date of transaction (T)",
     "Option4": "more than four day (T + 5 or more) ahead from the date of transaction (T)",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3136,8 +2823,7 @@ var questions = [
     "Option2": "Market splitting",
     "Option3": "Re-dispatching",
     "Option4": "Explicit Auction",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3146,8 +2832,7 @@ var questions = [
     "Option2": "double sided open auction",
     "Option3": "single sided closed auction",
     "Option4": "double sided closed auction",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3156,8 +2841,7 @@ var questions = [
     "Option2": "inversely proportional to cube of velocity",
     "Option3": "no relation at all",
     "Option4": "proportional to cube of velocity",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3166,8 +2850,7 @@ var questions = [
     "Option2": "percentage wind energy  in annual energy",
     "Option3": "percentage wind energy  in total energy of control Area.",
     "Option4": "percentage wind energy  in total energy of the country.",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3176,8 +2859,7 @@ var questions = [
     "Option2": "100 kWh",
     "Option3": "1000MWh",
     "Option4": "1MWh",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3186,8 +2868,7 @@ var questions = [
     "Option2": "0.95pf lag to 0.95pf lead",
     "Option3": "0.8 lag to 0.8 pf",
     "Option4": "1pf lag and lead",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3196,8 +2877,7 @@ var questions = [
     "Option2": "below 85%",
     "Option3": "below 15%",
     "Option4": "below",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3206,8 +2886,7 @@ var questions = [
     "Option2": "it depends on direct connection or AC-DC-AC connection",
     "Option3": "infinite",
     "Option4": "very less",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3216,8 +2895,7 @@ var questions = [
     "Option2": "very less",
     "Option3": "it depends on rotor winding",
     "Option4": "it depends on rotor mass",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3226,8 +2904,7 @@ var questions = [
     "Option2": 1500000,
     "Option3": 15,
     "Option4": "Nil",
-    "answer": 4,
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3236,8 +2913,7 @@ var questions = [
     "Option2": "every last Wednesday of the month",
     "Option3": "every day",
     "Option4": "every first Wednesday of the month",
-    "answer": 2,
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3246,8 +2922,7 @@ var questions = [
     "Option2": "less than 10 MW",
     "Option3": "less than 1 MW",
     "Option4": "all hydro projects are eligible",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3256,8 +2931,7 @@ var questions = [
     "Option2": "5 KWh",
     "Option3": "5MWh",
     "Option4": "1 KWh",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3266,8 +2940,7 @@ var questions = [
     "Option2": "SERC",
     "Option3": "NLDC",
     "Option4": "Ministry of Power",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3276,8 +2949,7 @@ var questions = [
     "Option2": "6 Months",
     "Option3": "5 Years",
     "Option4": "1 Year",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3286,8 +2958,7 @@ var questions = [
     "Option2": "Redemption, Issuance,Registration, Accreditation",
     "Option3": "Accreditation, Redemption, Issuance, Redemption",
     "Option4": "Issuance, Registration, Accreditation, Redemption",
-    "answer": 1,
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3296,8 +2967,7 @@ var questions = [
     "Option2": "Voluntary Buyers",
     "Option3": "Voluntary and Mandatory Buyers",
     "Option4": "Power Exchanges Only",
-    "answer": 3,
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3305,9 +2975,8 @@ var questions = [
     "Option1": "1 month",
     "Option2": "2 months",
     "Option3": "3 months",
-    "Option4": "4 months",
-    "answer": "",
-    "": ""
+    "Option4": "6 months",
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3316,8 +2985,7 @@ var questions = [
     "Option2": "Demand served in the respective Region",
     "Option3": "Peak shortage in the respective region",
     "Option4": "Installed capacity in the respective region",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3326,8 +2994,7 @@ var questions = [
     "Option2": "10 lacs",
     "Option3": "20 lacs",
     "Option4": "8 lacs",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3336,8 +3003,7 @@ var questions = [
     "Option2": "10 lacs",
     "Option3": "20 lacs",
     "Option4": "8 lacs",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3346,8 +3012,7 @@ var questions = [
     "Option2": "(1/2) of annual charges",
     "Option3": "(2/3) of annual charges",
     "Option4": "None of the Above",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3356,8 +3021,7 @@ var questions = [
     "Option2": "90%",
     "Option3": "95%",
     "Option4": "100%",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3366,8 +3030,7 @@ var questions = [
     "Option2": "7000, 10000, 12000",
     "Option3": "8500, 10000, 12000",
     "Option4": "6000, 7500, 10000",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3376,8 +3039,7 @@ var questions = [
     "Option2": "1.25%",
     "Option3": "1.50%",
     "Option4": "1.75%",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3386,8 +3048,7 @@ var questions = [
     "Option2": "30%",
     "Option3": "45%",
     "Option4": "33.33%",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3396,8 +3057,7 @@ var questions = [
     "Option2": "0.50 Lac",
     "Option3": "1.0 Lac",
     "Option4": "2.0 Lac",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3406,8 +3066,7 @@ var questions = [
     "Option2": "2.0 Lac",
     "Option3": "5.0 Lac",
     "Option4": "10.0 Lac",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3416,8 +3075,7 @@ var questions = [
     "Option2": "0.50 Lac",
     "Option3": "1.0 Lac",
     "Option4": "2.0 Lac",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3426,8 +3084,7 @@ var questions = [
     "Option2": "1.25%",
     "Option3": "1.50%",
     "Option4": "2.00%",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3436,8 +3093,7 @@ var questions = [
     "Option2": "Market Operation",
     "Option3": "Logistics",
     "Option4": "All of these",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3446,8 +3102,7 @@ var questions = [
     "Option2": "Interest on Loan",
     "Option3": "Depreciation",
     "Option4": "HR Expenses",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3456,8 +3111,7 @@ var questions = [
     "Option2": "STOA application fees",
     "Option3": "STOA operating charges",
     "Option4": "REC and PAT charges",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3466,8 +3120,7 @@ var questions = [
     "Option2": "PSDF Fund",
     "Option3": "SCED",
     "Option4": "Reactive Pool",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3476,8 +3129,7 @@ var questions = [
     "Option2": "Change agent for catalysing the ongoing reforms process",
     "Option3": "Agents for providing feedback to policy makers, planners and regulators",
     "Option4": "All of these roles",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3486,8 +3138,7 @@ var questions = [
     "Option2": "TSO",
     "Option3": "Both ISO and TSO",
     "Option4": "Neither ISO nor TSO",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3496,8 +3147,7 @@ var questions = [
     "Option2": "TSO",
     "Option3": "Both ISO and TSO",
     "Option4": "Neither ISO nor TSO",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3506,8 +3156,7 @@ var questions = [
     "Option2": "TSO",
     "Option3": "Both ISO and TSO",
     "Option4": "Neither ISO nor TSO",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3516,8 +3165,7 @@ var questions = [
     "Option2": "Transmission",
     "Option3": "Distribution",
     "Option4": "System Operation",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3526,8 +3174,7 @@ var questions = [
     "Option2": "System Operators",
     "Option3": "Generation",
     "Option4": "STU",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3536,8 +3183,7 @@ var questions = [
     "Option2": 7,
     "Option3": 6,
     "Option4": 5,
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3546,8 +3192,7 @@ var questions = [
     "Option2": "IEC 61850-90-5",
     "Option3": "IEEE C37.242-2013",
     "Option4": "both a &b",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3556,8 +3201,7 @@ var questions = [
     "Option2": "Time stamping",
     "Option3": "Direct Node Angle measurements",
     "Option4": "All of these",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3566,8 +3210,7 @@ var questions = [
     "Option2": "Analog Input",
     "Option3": "Digital Input & output",
     "Option4": "All of these",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3576,8 +3219,7 @@ var questions = [
     "Option2": "12.5Hz",
     "Option3": "6.25Hz",
     "Option4": "50Hz",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3586,8 +3228,7 @@ var questions = [
     "Option2": 3,
     "Option3": 1,
     "Option4": 5,
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3596,8 +3237,7 @@ var questions = [
     "Option2": "Time allignment of data obtained from PMU",
     "Option3": "Time stamping of data arrived from PMU",
     "Option4": "Facilitating data to Historian",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3606,8 +3246,7 @@ var questions = [
     "Option2": "Milliseconds",
     "Option3": "Nano Seconds",
     "Option4": "Second",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3616,8 +3255,7 @@ var questions = [
     "Option2": "Indian Standard Time(IST)",
     "Option3": "Both a & b",
     "Option4": "Greenwich Mean Time (GMT)",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3626,8 +3264,7 @@ var questions = [
     "Option2": "Time Skewed data",
     "Option3": "Non simultaneous data",
     "Option4": "All of the above",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3636,8 +3273,7 @@ var questions = [
     "Option2": "Positive Sequence voltage Angle",
     "Option3": "Positive Sequence Current Angle",
     "Option4": "R Phase Current Angle",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3646,8 +3282,7 @@ var questions = [
     "Option2": "In the order of kHz",
     "Option3": "50 Hz – 100 Hz",
     "Option4": "0-10 Hz",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3656,8 +3291,7 @@ var questions = [
     "Option2": "Remote Terminal Units (RTU)",
     "Option3": "Human Machine Interface(HMI)",
     "Option4": "All of these options",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3666,8 +3300,7 @@ var questions = [
     "Option2": "Communication Channel",
     "Option3": "Analog-to-digital converters",
     "Option4": "All of these options",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3676,8 +3309,7 @@ var questions = [
     "Option2": "Data Processing",
     "Option3": "Alarms",
     "Option4": "All of these options",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3686,8 +3318,7 @@ var questions = [
     "Option2": "LAN",
     "Option3": "DMZ",
     "Option4": "none of these options",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3696,8 +3327,7 @@ var questions = [
     "Option2": "LAN",
     "Option3": "NMS",
     "Option4": "Operator Console",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3706,8 +3336,7 @@ var questions = [
     "Option2": "Modbus",
     "Option3": "CIM",
     "Option4": "IEC 60870-5-101",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3716,8 +3345,7 @@ var questions = [
     "Option2": "Reasonability Limit",
     "Option3": "Forbidden Limit",
     "Option4": "Dead band Limits",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3726,8 +3354,7 @@ var questions = [
     "Option2": "Network Management System",
     "Option3": "Operator Console",
     "Option4": "Human Machine Interface",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3736,8 +3363,7 @@ var questions = [
     "Option2": "Sequence of Events",
     "Option3": "Network Management System",
     "Option4": "Human Machine Interface",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3746,8 +3372,7 @@ var questions = [
     "Option2": "By Exception",
     "Option3": "Floating",
     "Option4": "none of these options",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3756,8 +3381,7 @@ var questions = [
     "Option2": "15 to 20 seconds",
     "Option3": "30 to 40 \nseconds",
     "Option4": "more than \n1 minute",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3766,8 +3390,7 @@ var questions = [
     "Option2": "Regional \nTelemetry Unit",
     "Option3": "Remote   \nTerminal Unit",
     "Option4": "Regional \nTerminal Unit",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3776,8 +3399,7 @@ var questions = [
     "Option2": "500 kbps",
     "Option3": "1200 kbps",
     "Option4": "1000 kbps",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3786,8 +3408,7 @@ var questions = [
     "Option2": "Suspect",
     "Option3": "Replace",
     "Option4": "None of the above",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3796,8 +3417,7 @@ var questions = [
     "Option2": "Only Digital",
     "Option3": "Only Analog & Digital",
     "Option4": "none of these options",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3806,8 +3426,7 @@ var questions = [
     "Option2": "Suspect",
     "Option3": "Calculated",
     "Option4": "Garbage",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3816,8 +3435,7 @@ var questions = [
     "Option2": "Local Control center",
     "Option3": "Any where",
     "Option4": "none of these options",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3826,8 +3444,7 @@ var questions = [
     "Option2": "Bad",
     "Option3": "Uninitialized",
     "Option4": "none of these options",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3836,8 +3453,7 @@ var questions = [
     "Option2": "ISR server",
     "Option3": "Resource Server",
     "Option4": "ICCP server",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3846,8 +3462,7 @@ var questions = [
     "Option2": "Display trends of the measurands over a span of time.",
     "Option3": "Initiates alarms for the abnormal states of devices.",
     "Option4": "All of these options",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3856,8 +3471,7 @@ var questions = [
     "Option2": "Communication network",
     "Option3": "SCADA master Station",
     "Option4": "All of these options",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3866,8 +3480,7 @@ var questions = [
     "Option2": "Single Master Multiple Remote",
     "Option3": "Multiple Master Multiple Remote",
     "Option4": "none of these options",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3876,8 +3489,7 @@ var questions = [
     "Option2": "Power Plant Data",
     "Option3": "Substation Data",
     "Option4": "System Operational Data",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3886,8 +3498,7 @@ var questions = [
     "Option2": "recorded",
     "Option3": "audible.",
     "Option4": "All of these options",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3896,8 +3507,7 @@ var questions = [
     "Option2": "Non linearity in output of transducer",
     "Option3": "Poor precision class of CT & PT & Non linearity in output of transducer",
     "Option4": "none of these options",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3906,8 +3516,7 @@ var questions = [
     "Option2": "Wave Trap",
     "Option3": "CT & PT",
     "Option4": "Transducer",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3916,8 +3525,7 @@ var questions = [
     "Option2": "4-30mA",
     "Option3": "4-20mA",
     "Option4": "0-9mA",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3926,8 +3534,7 @@ var questions = [
     "Option2": "Substations",
     "Option3": "Control Centre",
     "Option4": "B & C",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3936,8 +3543,7 @@ var questions = [
     "Option2": "Information Storage & Data Retrival system",
     "Option3": "Intelligent Storage & Data Retrival system",
     "Option4": "none of these options",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3946,8 +3552,7 @@ var questions = [
     "Option2": "Java",
     "Option3": "C++",
     "Option4": "MS Windows",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -3956,8 +3561,7 @@ var questions = [
     "Option2": "De-Militarized Zone",
     "Option3": "De-Monitoring Zone",
     "Option4": "none of these options",
-    "answer": "B",
-    "": ""
+    "answer": 2
   },
   {
     "Topic": "Day5",
@@ -3966,8 +3570,7 @@ var questions = [
     "Option2": "Technique of transfering information  or data",
     "Option3": "Technique of receiving information or data & Technique of transfering information  or data",
     "Option4": "none of these options",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3976,8 +3579,7 @@ var questions = [
     "Option2": "VSAT",
     "Option3": "Optical Fibre",
     "Option4": "All of these options",
-    "answer": "D",
-    "": ""
+    "answer": 4
   },
   {
     "Topic": "Day5",
@@ -3986,8 +3588,7 @@ var questions = [
     "Option2": "Point to Multipoint",
     "Option3": "Point to point & Point to Multipoint",
     "Option4": "none of these options",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -3996,8 +3597,7 @@ var questions = [
     "Option2": "Digital",
     "Option3": "Analog & Digital",
     "Option4": "none of these options",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -4006,8 +3606,7 @@ var questions = [
     "Option2": "Logic Model",
     "Option3": "Intergration of Process Model & Logic Model",
     "Option4": "All of these options",
-    "answer": "C",
-    "": ""
+    "answer": 3
   },
   {
     "Topic": "Day5",
@@ -4016,8 +3615,7 @@ var questions = [
     "Option2": "Digital input in RTU",
     "Option3": "C&R Pannel",
     "Option4": "All of these options",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -4026,8 +3624,7 @@ var questions = [
     "Option2": "Direct control over the process",
     "Option3": "Loop Control",
     "Option4": "All of these options",
-    "answer": "A",
-    "": ""
+    "answer": 1
   },
   {
     "Topic": "Day5",
@@ -4036,7 +3633,6 @@ var questions = [
     "Option2": "High Voltage",
     "Option3": "weather conditions",
     "Option4": "none of these options",
-    "answer": "D",
-    "": ""
+    "answer": 4
   }
-]
+];
