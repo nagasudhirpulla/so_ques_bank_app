@@ -1150,5 +1150,932 @@ var questions = [
     "Option3": "weather conditions",
     "Option4": "none of these options",
     "answer": 4
+  },
+  {
+    "Topic": "POC",
+    "Question": "As per Sharing of Inter State Transmission Charges and Losses Regulations, which part of bill handles the charges on account of deviations from approved injection / withdrawal?",
+    "Option1": "Third",
+    "Option2": "Fourth",
+    "Option3": "First",
+    "Option4": "Second",
+    "answer": 1
+  },
+  {
+    "Topic": "POC",
+    "Question": "Waiver of transmission charges allowed for the following with conditions on date of COD, award of construction contracts etc",
+    "Option1": "REGS & RHGS",
+    "Option2": "ESS chaerged with energy sourced from REGS & RHGS",
+    "Option3": "Generation based on hydro power sources",
+    "Option4": "All of these",
+    "answer": 4
+  },
+  {
+    "Topic": "POC",
+    "Question": "RPCs shall issue RTDA (Regional Transmission Deviation Account) for the  month of February 2021 to all designated ISTS Customers, CTU and other ISTS Licensees during………",
+    "Option1": "1st week of March 2021",
+    "Option2": "1st week of April 2021",
+    "Option3": "15th of March 2021",
+    "Option4": "31stof March 2021",
+    "answer": 4
+  },
+  {
+    "Topic": "POC",
+    "Question": "Monthly Transmission Charges for GNA in ISTS is expressed in………",
+    "Option1": "Rs/MWh",
+    "Option2": "Rs/MW",
+    "Option3": "Rs/MW/Day",
+    "Option4": "Rs",
+    "answer": 4
+  },
+  {
+    "Topic": "POC",
+    "Question": "Transmission deviation rate in Rs/MW/time block for a state or any other DIC located in the state for a time block shall be",
+    "Option1": "Monthly Transmission Charges applicable to the particular drawee DIC",
+    "Option2": "1.05 X (total transmission charges for all drawee DICs located in the State, (as calculated in accordance with Regulation 5 to 8 of these regulations) for the billing month in Rs.)/ (GNA and GNARE quantum in MW of such entities located in the State, considered for billing, for the corresponding billing period X number of days in a month X 96).”",
+    "Option3": "1.25 X (total transmission charges for all drawee DICs located in the State, (as calculated in accordance with Regulation 5 to 8 of these regulations) for the billing month in Rs.)/ (GNA and GNARE quantum in MW of such entities located in the State, considered for billing, for the corresponding billing period X number of days in a month X 96).”",
+    "Option4": "1.20 X (total transmission charges for all drawee DICs located in the State, (as calculated in accordance with Regulation 5 to 8 of these regulations) for the billing month in Rs.)/ (GNA and GNARE quantum in MW of such entities located in the State, considered for billing, for the corresponding billing period X number of days in a month X 96).”",
+    "answer": 3
+  },
+  {
+    "Topic": "POC",
+    "Question": "Which agreement the connectivity grantee signs with the nodal agency?",
+    "Option1": "Power Purchase Agreement (PPA)",
+    "Option2": "Transmission Service Agreement (TSA)",
+    "Option3": "Bulk Power Agreement (BPA)",
+    "Option4": "Connection Agreement",
+    "answer": 4
+  },
+  {
+    "Topic": "POC",
+    "Question": "As per the provisions,  T-GNA and T-GNARE charges collected in a billing month shall be reimbursed during the subsequent month in proportion to share in the",
+    "Option1": "First Bill",
+    "Option2": "Second Bill",
+    "Option3": "Third Bill",
+    "Option4": "Sum of First and Third Bills",
+    "answer": 1
+  },
+  {
+    "Topic": "POC",
+    "Question": "Who is responsible for issuance of monthly regional transmission accounts?",
+    "Option1": "RPC",
+    "Option2": "RLDC",
+    "Option3": "CERC",
+    "Option4": "SERC",
+    "answer": 1
+  },
+  {
+    "Topic": "POC",
+    "Question": "Who will pay the  transmission deviation charges on account of deviation beyond approved GNA plus GNARE",
+    "Option1": "A drawee DIC which is a regional entite",
+    "Option2": "States and Generatings stations",
+    "Option3": "A drawee DIC which is a regional entite but not covered under state",
+    "Option4": "All of these",
+    "answer": 4
+  },
+  {
+    "Topic": "POC",
+    "Question": "As per the provisions,  T-GNA and T-GNARE charges collected in a billing month shall be reimbursed during the subsequent month for",
+    "Option1": "States",
+    "Option2": "Drawee DICS",
+    "Option3": "Generators",
+    "Option4": "A&C",
+    "answer": 2
+  },
+  {
+    "Topic": "POC",
+    "Question": "Talcher-Kolar HVDC Charges are shared by the entities of…….",
+    "Option1": "70% to be shared by SR DICs & 30% to be shared by all DICs",
+    "Option2": "30% to be shared by SR DICs & 70% to be shared by all DICs",
+    "Option3": "100% to be shared by SR DICs",
+    "Option4": "100% to be shared by all DICs",
+    "answer": 1
+  },
+  {
+    "Topic": "POC",
+    "Question": "T-GNA rates in Rs/MW/time block is calculated as",
+    "Option1": "Transmission charges for all drawee DICs located in the State, for the billing month,  (in rupees) / (number of days in a month X 96 X GNA and GNARE quantum , in MW, for all such drawee DICs located in the State considered for billing, for the corresponding billing period).",
+    "Option2": "Transmission charges for all drawee DICs located in the State, for the billing month (in rupees) X 1.05 / (number of days in a month X 96 X GNA and GNARE quantum , in MW, for all such drawee DICs located in the State considered for billing, for the corresponding billing period).",
+    "Option3": "Transmission charges for all drawee DICs located in the State, for the billing month (in rupees) X 1.10 / (number of days in a month X 96 X GNA and GNARE quantum , in MW, for all such drawee DICs located in the State considered for billing, for the corresponding billing period).",
+    "Option4": "Transmission charges for all drawee DICs located in the State, for the billing month (in rupees) X 1.25 / (number of days in a month X 96 X GNA and GNARE quantum , in MW, for all such drawee DICs located in the State considered for billing, for the corresponding billing period).",
+    "answer": 3
+  },
+  {
+    "Topic": "POC",
+    "Question": "Who will take the final decision, in case of dispute regarding basic network, nodal generation or nodal demand used in POC charges computation",
+    "Option1": "Implementation Committee",
+    "Option2": "Validation Committee",
+    "Option3": "NLDC",
+    "Option4": "CEA",
+    "answer": 3
+  },
+  {
+    "Topic": "POC",
+    "Question": "Who will notify monthly transmission charges",
+    "Option1": "CERC",
+    "Option2": "RPCs",
+    "Option3": "CEA",
+    "Option4": "NLDC",
+    "answer": 4
+  },
+  {
+    "Topic": "POC",
+    "Question": "As per sharing of ISTS charges regulation 2020, peak block in a month is",
+    "Option1": "the time block in which national peak demand occurs",
+    "Option2": "the time block in which ISGS injection is maximum",
+    "Option3": "the sum of net ISTS drawal of all states is maximum",
+    "Option4": "Non of these",
+    "answer": 3
+  },
+  {
+    "Topic": "POC",
+    "Question": "In case of delay in issuance of RTA(Regional Transmission Account), provisional bills can be raised by",
+    "Option1": "RPC only",
+    "Option2": "NLDC",
+    "Option3": "CTU",
+    "Option4": "Nodal Agency",
+    "answer": 3
+  },
+  {
+    "Topic": "POC",
+    "Question": "Methodology used for computing usage based part of AC system component of monthly ISTS charges is",
+    "Option1": "Average participation methods",
+    "Option2": "Marginal participation method",
+    "Option3": "Hybrid methodology of average and marginal participation methods",
+    "Option4": "Power tracing",
+    "answer": 3
+  },
+  {
+    "Topic": "POC",
+    "Question": "ISTS losses shall not be applicable for",
+    "Option1": "Injection schedules of DICs",
+    "Option2": "Drawal schedules of DICs",
+    "Option3": "Both A&B",
+    "Option4": "None of these",
+    "answer": 1
+  },
+  {
+    "Topic": "POC",
+    "Question": "YTC (Yearly transmission charges) of Mundra - Mohindergarh (to the extent of 1005MW) is included under which component of transmission charges",
+    "Option1": "NC",
+    "Option2": "RC",
+    "Option3": "TC",
+    "Option4": "NC&RC",
+    "answer": 1
+  },
+  {
+    "Topic": "POC",
+    "Question": "YTC for STATCOM & SVC are included under",
+    "Option1": "NC",
+    "Option2": "RC",
+    "Option3": "TC",
+    "Option4": "AC-UBC",
+    "answer": 2
+  },
+  {
+    "Topic": "POC",
+    "Question": "Under sharing of ISTS charges regulations 2020 basic network used for carrying out power flow studies is",
+    "Option1": "220kV and above network",
+    "Option2": "132kV and above network",
+    "Option3": "400kV and above network",
+    "Option4": "110kV and above network",
+    "answer": 4
+  },
+  {
+    "Topic": "POC",
+    "Question": "CTU raises RTA & RTDA bills for the month of March 2021 during……...week of May 2021",
+    "Option1": "1st & 2nd respectively",
+    "Option2": "both in 1st week",
+    "Option3": "1st & 3rd respectively",
+    "Option4": "1st & 4th respectively",
+    "answer": 2
+  },
+  {
+    "Topic": "POC",
+    "Question": "CTU raises bill for adjustments / revisions on",
+    "Option1": "once in six moths",
+    "Option2": "once in two months",
+    "Option3": "once in three months",
+    "Option4": "once in a year",
+    "answer": 3
+  },
+  {
+    "Topic": "POC",
+    "Question": "Transmission charges for drawal of start up power are charged",
+    "Option1": "based on transmission charge rate of the home state",
+    "Option2": "1.1 times  transmission charge rate of home state",
+    "Option3": "1.2 times  transmission charge rate of home state",
+    "Option4": "transmission charges not applicable",
+    "answer": 2
+  },
+  {
+    "Topic": "POC",
+    "Question": "As per the sharing of ISTS charges regulation 2020, the third bill is in respect of transmission charges bill for",
+    "Option1": "transmission charges GNA",
+    "Option2": "GNA plus T-GNA",
+    "Option3": "adjustments & revisions",
+    "Option4": "RTDA",
+    "answer": 4
+  },
+  {
+    "Topic": "POC",
+    "Question": "Peak block of billing period is published by NLDC on the………of the month following the billing period",
+    "Option1": "7th day",
+    "Option2": "10th day",
+    "Option3": "1st day",
+    "Option4": "15th day",
+    "answer": 3
+  },
+  {
+    "Topic": "POC",
+    "Question": "Time line for NLDC to notify monthly transmission charges by………day of the month following the billing period",
+    "Option1": "7th day",
+    "Option2": "10th day",
+    "Option3": "15th day",
+    "Option4": "25th day",
+    "answer": 4
+  },
+  {
+    "Topic": "POC",
+    "Question": "T-GNA rates in Rs/MW/time block published for",
+    "Option1": "all states",
+    "Option2": "all generators & all states",
+    "Option3": "All Drawee DICs",
+    "Option4": "all target region generators",
+    "answer": 1
+  },
+  {
+    "Topic": "POC",
+    "Question": "Transmission charges for GNA/GNARE computed for",
+    "Option1": "all states",
+    "Option2": "all drawee DICs within a state",
+    "Option3": "all regional entities",
+    "Option4": "B&C",
+    "answer": 4
+  },
+  {
+    "Topic": "POC",
+    "Question": "Transmission charges for T-GNA payable by",
+    "Option1": "DISCOMs",
+    "Option2": "Generators",
+    "Option3": "Embedded entities in states",
+    "Option4": "B&C",
+    "answer": 4
+  },
+  {
+    "Topic": "POC",
+    "Question": "Regional entity Generating station (a) drawing start-up power prior to COD or (b) drawing auxiliary power before or after COD through ISTS, shall pay transmission charges for such drawl",
+    "Option1": "No transmission charges",
+    "Option2": "T-GNA Rate for the State in which it is located",
+    "Option3": "50 % of T-GNA Rate for the State in which it is located",
+    "Option4": "10 % of T-GNA Rate for the State in which it is located",
+    "answer": 2
+  },
+  {
+    "Topic": "POC",
+    "Question": "A generating station injecting infirm power before COD has to pay transmission charges",
+    "Option1": "No transmission charges",
+    "Option2": "T-GNA Rate for the State in which it is located",
+    "Option3": "50 % of T-GNA Rate for the State in which it is located",
+    "Option4": "10 % of T-GNA Rate for the State in which it is located",
+    "answer": 1
+  },
+  {
+    "Topic": "DSM",
+    "Question": "What is the Weekly Settlement Period of Deviation Charges ?",
+    "Option1": "Tuesday to Monday",
+    "Option2": "Monday to Sunday",
+    "Option3": "Every Wednesday",
+    "Option4": "Sunday to Saturday",
+    "answer": 2
+  },
+  {
+    "Topic": "DSM",
+    "Question": "Which of the following statements is true w.r.t sign convention of Deviation Charges",
+    "Option1": "For a generator +ve sign indicates under generation &   for a beneficiary –ve sign   indicates over drawal.",
+    "Option2": "For a generator +ve sign indicates over generation & for a beneficiary  +ve sign indicates overdrawal.",
+    "Option3": "For a generator, -ve sign indicates over generation & for a beneficiary –ve sign indicates under drawal.",
+    "Option4": "For a generator, +ve sign indicates under generation & for a beneficiary –ve   sign  indicates under drawal.",
+    "answer": 2
+  },
+  {
+    "Topic": "DSM",
+    "Question": "As per CERC Deviation Settlement Mechanism Regulations, a 'WS Seller' means:",
+    "Option1": "A generating station based on wind or solar or hybrid of wind & solar",
+    "Option2": "A trader",
+    "Option3": "A generator whose tariff is fixed by Commission.",
+    "Option4": "A generator under ABT.",
+    "answer": 1
+  },
+  {
+    "Topic": "DSM",
+    "Question": "What is meant by Administered Price Mechanism",
+    "Option1": "A mechanism to fix Deviation Charges.",
+    "Option2": "A mechanism similar to ABT.",
+    "Option3": "A mechanism in which prices of Coal, gas and other fuels are fixed at   regulated rates for power generating purpose.",
+    "Option4": "Price discovery in power exchange.",
+    "answer": 3
+  },
+  {
+    "Topic": "DSM",
+    "Question": "Which of these prepares Deviation Charges accounts?",
+    "Option1": "RLDC",
+    "Option2": "RPC",
+    "Option3": "CEA",
+    "Option4": "SLDC",
+    "answer": 2
+  },
+  {
+    "Topic": "DSM",
+    "Question": "Deviation charges collected from regional entities by RLDCs shall be credited to",
+    "Option1": "Regional Deviation Charges Account",
+    "Option2": "Reginal Deviation Charges and Ancillary Service pool Account",
+    "Option3": "PSDF",
+    "Option4": "Ancillary Service pool Account",
+    "answer": 2
+  },
+  {
+    "Topic": "DSM",
+    "Question": "What is the due date for Deviation Charges payments from the date of issue of the Deviation Charges A/c?",
+    "Option1": "10 days",
+    "Option2": "12 days",
+    "Option3": "7 days",
+    "Option4": "14 days",
+    "answer": 1
+  },
+  {
+    "Topic": "DSM",
+    "Question": "What is the interest payable for delay in Deviation Charges payment?",
+    "Option1": "0.04% per month",
+    "Option2": "0.04% per day compound interest",
+    "Option3": "0.4% per day simple interest",
+    "Option4": "0.04% per day simple interest",
+    "answer": 4
+  },
+  {
+    "Topic": "DSM",
+    "Question": "Any regional entity which at any time during the previous financial year fails to make payment of charges for deviation within the time specified in these regulations, shall be required to open a Letter of Credit (LC) equal to",
+    "Option1": "150% of their average payable weekly liability for deviations in the previous financial year",
+    "Option2": "110% of their average payable weekly liability for deviations in the previous financial year",
+    "Option3": "100% of their average payable weekly liability for deviations in the previous financial year",
+    "Option4": "110% of their average payable weekly liability for deviations in the previous three financial years",
+    "answer": 2
+  },
+  {
+    "Topic": "DSM",
+    "Question": "As per CERC DSM Reulations, in case of forced outage of a seller, the charges for deviation shall be",
+    "Option1": "At the reference charge rate, for a maximum duration of eight time blocks",
+    "Option2": "At the reference charge rate,  until the revision of its schedule",
+    "Option3": "At the reference charge rate, for a maximum duration of eight time blocks or until the revision of its schedule, whichever is earlier",
+    "Option4": "At the reference charge rate, for a maximum duration of six time blocks",
+    "answer": 3
+  },
+  {
+    "Topic": "DSM",
+    "Question": "As per DSM regulations 2022 & related orders, the infirm power injected into the grid by a generating unit of a generating station during the testing period, prior to COD of the unit shall be paid at",
+    "Option1": "Reference Charge Rate",
+    "Option2": "Contract Rate",
+    "Option3": "Weighted Average ACP of the Day Ahead market segments of all power exchangers",
+    "Option4": "zero",
+    "answer": 4
+  },
+  {
+    "Topic": "DSM",
+    "Question": "When the grid frequency is above 50.05 Hz,   the general seller other than an ROR generating station or a generating station based on municipal solid waste shall be paid back for deviation by way over injection beyond 10% of schedule or 100 MW whichever is less",
+    "Option1": "At 50% of reference charge rate",
+    "Option2": "At 20% of reference charge rate",
+    "Option3": "At 10% of reference charge rate",
+    "Option4": "zero",
+    "answer": 4
+  },
+  {
+    "Topic": "DSM",
+    "Question": "Who computes time block wise deviations for regional entities ?",
+    "Option1": "RPC",
+    "Option2": "RLDC",
+    "Option3": "CERC",
+    "Option4": "None of these",
+    "answer": 2
+  },
+  {
+    "Topic": "DSM",
+    "Question": "Any drawal of power by a generating station prior to COD of a unit for the startup activities shall pay",
+    "Option1": "At reference charge rate or contract rate as the case may be",
+    "Option2": "At reference charge rate or contract rate or in the absence of these, the weighted average ACP of day ahead market segments of all power exchanges for the respective time block, as the case may be",
+    "Option3": "Weighted average ACP of day ahead market segments of all power exchanges for the respective time block",
+    "Option4": "No deviation charges",
+    "answer": 2
+  },
+  {
+    "Topic": "DSM",
+    "Question": "When the grid frequency is below 49.9 Hz,  the charges for deviation for volume beyond 300MW corresponding to a time block shall be payable by a Buyer who is an RE rich state ?",
+    "Option1": "120 % of normal rate of charge",
+    "Option2": "125 % of normal rate of charge",
+    "Option3": "150 % of normal rate of charge",
+    "Option4": "200 % of normal rate of charge",
+    "answer": 4
+  },
+  {
+    "Topic": "DSM",
+    "Question": "As per DSM regulations of CERC, buyers are categorised as",
+    "Option1": "Category 1: Buyer other than the buyer with schedule less than 400 MW and the RE-rich State Category 2: Buyer with schedule up to 400 MW      Category 3: Buyer being an RE Rich State, with RE generation up to 3000MW             Category 4: Buyer being an RE rich state with RE generation of 3000 MW and above",
+    "Option2": "Category 1: Buyer other than the buyer with schedule less than 400 MW and the RE-rich State            Category 2: Buyer being an RE rich state with RE generation greater than 5000 MW",
+    "Option3": "Category 1: Buyer other than the buyer with schedule less than 400 MW and the RE-rich State Category 2: Buyer with schedule up to 400 MW      Category 3: Buyer being an RE Rich State",
+    "Option4": "Category 1: Buyer other than the buyer with schedule less than 400 MW and the RE-rich State Category 2: Buyer with schedule up to 400 MW      Category 3: Buyer being an RE Rich State, with RE generation up to 5000MW             Category 4: Buyer being an RE rich state with RE generation of 5000 MW and above",
+    "answer": 4
+  },
+  {
+    "Topic": "DSM",
+    "Question": "The charges payable for deviation from schedule by the  wind generators as WS - Seller for under injection between 15 % and 20 % of DWS",
+    "Option1": "linked with frequency",
+    "Option2": "At 10% of contract rate or in the absence of a contract rate, at the weighted average ACP of the Day Ahead Market segments of all Power Exchanges",
+    "Option3": "At 20% of contract rate or in the absence of a contract rate, at the weighted average ACP of the Day Ahead Market segments of all Power Exchanges",
+    "Option4": "At 50% of contract rate or in the absence of a contract rate, at the weighted average ACP of the Day Ahead Market segments of all Power Exchanges",
+    "answer": 2
+  },
+  {
+    "Topic": "DSM",
+    "Question": "As per CERC DSM regulations, normal rate of charge for deviation for a time block shall be equal to",
+    "Option1": "The highest of (1), (2) or (3), where (1), (2) and (3) are as follows:\n(1) the weighted average ACP (in Paise /kWh) of the Integrated-Day Ahead Market segments of all the Power\nExchanges\n(2) the weighted average ACP (in Paise /kWh) of the Real Time Market segments of all the Power Exchanges\n(3) the sum of:\n(a) 1/3 [ Weighted average ACP (in paise/kWh) of the Integrated-Day Ahead Market segments of all the\nPower Exchanges]\n(b) 1/3 [ Weighted average ACP (in paise/kWh) of the Real-Time Market segments of all the Power\nExchanges] and\n(c) 1/3 [Ancillary Service Charge (in paise/kWh) computed based on the total quantum of Ancillary\nServices (SRAS UP and TRAS UP) deployed and the net charges payable to the Ancillary Service\nProviders for all the Regions]",
+    "Option2": "The higher of (1) and (2), where (1) and (2) are as follows:\n(1) the weighted average ACP (in Paise /kWh) of the Integrated-Day Ahead Market segments of all the Power\nExchanges\n(2) the sum of:\n(a) 1/3 [ Weighted average ACP (in paise/kWh) of the Integrated-Day Ahead Market segments of all the\nPower Exchanges]\n(b) 1/3 [ Weighted average ACP (in paise/kWh) of the Real-Time Market segments of all the Power\nExchanges] and\n(c) 1/3 [Ancillary Service Charge (in paise/kWh) computed based on the total quantum of Ancillary\nServices (SRAS UP and TRAS UP) deployed and the net charges payable to the Ancillary Service\nProviders for all the Regions]",
+    "Option3": "The higher of (1) and (2), where (1) and (2) are as follows:\n(1) the weighted average ACP (in Paise /kWh) of the Integrated-Day Ahead Market segments of all the Power\nExchanges\n(2) the weighted average ACP (in Paise /kWh) of the Real Time Market segments of all the Power Exchanges",
+    "Option4": "The higher of (1) and (2), where (1) and (2) are as follows:\n(1) the weighted average ACP (in Paise /kWh) of the Real Time Market segments of all the Power Exchanges\n(2) the sum of:\n(a) 1/3 [ Weighted average ACP (in paise/kWh) of the Integrated-Day Ahead Market segments of all the\nPower Exchanges]\n(b) 1/3 [ Weighted average ACP (in paise/kWh) of the Real-Time Market segments of all the Power\nExchanges] and\n(c) 1/3 [Ancillary Service Charge (in paise/kWh) computed based on the total quantum of Ancillary\nServices (SRAS UP and TRAS UP) deployed and the net charges payable to the Ancillary Service\nProviders for all the Regions]",
+    "answer": 1
+  },
+  {
+    "Topic": "CONGESTION",
+    "Question": "Congestion charge would be levied  for",
+    "Option1": "Under drawl in the importing control area",
+    "Option2": "Over drawl in the importing control area",
+    "Option3": "Over drawl in the exporting control area",
+    "Option4": "No congestion charges for importing control area",
+    "answer": 2
+  },
+  {
+    "Topic": "CONGESTION",
+    "Question": "Congestion charges are paid",
+    "Option1": "If lieu of deviation charges",
+    "Option2": "In addition to the deviation charges",
+    "Option3": "In lieu of reactive energy charges",
+    "Option4": "In lieu of PoC charges",
+    "answer": 2
+  },
+  {
+    "Topic": "CONGESTION",
+    "Question": "Congestion is a situation where the demand for transmission capacity",
+    "Option1": "Exceeds the ATC",
+    "Option2": "Equals the ATC",
+    "Option3": "Less than Reliability Margin",
+    "Option4": "Less than the ATC",
+    "answer": 1
+  },
+  {
+    "Topic": "CONGESTION",
+    "Question": "NLDC/ RLDC(s) shall issue a notice for application of congestion charge if congestion persists for",
+    "Option1": "2 time-blocks not counting the time-block in which warning notice was issued by RLDC",
+    "Option2": "1 time-blocks counting the time-block in which warning notice was issued by RLDC",
+    "Option3": "2 time-blocks counting the time-block in which warning notice was issued by RLDC",
+    "Option4": "4 time-blocks not counting the time-block in which warning notice was issued by RLDC",
+    "answer": 1
+  },
+  {
+    "Topic": "CONGESTION",
+    "Question": "No congestion charge levied for congestion in a transmission corridor, if  congestion has been caused by",
+    "Option1": "Forced outages of a line",
+    "Option2": "Real-time power flow along a corridor exceeds the ATC",
+    "Option3": "Grid voltage in the important nodes downstream/ upstream of the corridor is beyond the operating range",
+    "Option4": "All of these options",
+    "answer": 1
+  },
+  {
+    "Topic": "COMP_BIDDING",
+    "Question": "Competitive Bidding guidelines have been framed under which provisions of the Electricity Act' 03 ?",
+    "Option1": "Section 62",
+    "Option2": "Section 60",
+    "Option3": "Section 61",
+    "Option4": "Section 63",
+    "answer": 4
+  },
+  {
+    "Topic": "COMP_BIDDING",
+    "Question": "According to competitve bidding guidelines issued by Ministry of Power, at the bid evaluation stage, ratio of minimum and maximum capacity charge (including both the non-escalable component and the escalable component incorporating escalation as per index being used for the purpose of evaluation) over the term of the Power Purchase Agreement (PPA) shall not be less than",
+    "Option1": 0.7,
+    "Option2": 0.8,
+    "Option3": 0.6,
+    "Option4": 0.85,
+    "answer": 1
+  },
+  {
+    "Topic": "CRISIS MANAGEMENT",
+    "Question": "The first stage of AUFLS (Automatic Under Frequency Load Shedding Scheme) in India is at ________ .",
+    "Option1": 49.6,
+    "Option2": 49.5,
+    "Option3": 49.4,
+    "Option4": 49.3,
+    "answer": 3
+  },
+  {
+    "Topic": "CRISIS MANAGEMENT",
+    "Question": "The last stage of AUFLS (Automatic Under Frequency Load Shedding Scheme) in India is at ________ .",
+    "Option1": 48.8,
+    "Option2": 48.6,
+    "Option3": 48.4,
+    "Option4": 48.2,
+    "answer": 1
+  },
+  {
+    "Topic": "CRISIS MANAGEMENT",
+    "Question": "Nodal agency for crises management is _______",
+    "Option1": "CEA",
+    "Option2": "NLDC",
+    "Option3": "CERC",
+    "Option4": "CTU",
+    "answer": 2
+  },
+  {
+    "Topic": "NOAR",
+    "Question": "Nodal Agency for implementation and operation of NOAR is _______",
+    "Option1": "CERC",
+    "Option2": "CEA",
+    "Option3": "NLDC",
+    "Option4": "RPC",
+    "answer": 3
+  },
+  {
+    "Topic": "NOAR",
+    "Question": "The registration for NOAR platform is valid for ______ years .",
+    "Option1": "3 Years",
+    "Option2": "1Year",
+    "Option3": "2 Years",
+    "Option4": "5 Years",
+    "answer": 1
+  },
+  {
+    "Topic": "NOAR",
+    "Question": "Disbursement of transmission charges and operating charges for collective transactions is done in NOAR by _______ .",
+    "Option1": "RPC",
+    "Option2": "Nodal RLDC",
+    "Option3": "SLDC",
+    "Option4": "NLDC",
+    "answer": 4
+  },
+  {
+    "Topic": "NOAR",
+    "Question": "Issuance of standing clearance for a new OA user by concerned SLDC is ______ .",
+    "Option1": "3 Days",
+    "Option2": "5 Days",
+    "Option3": "7 Days",
+    "Option4": "1 Day",
+    "answer": 3
+  },
+  {
+    "Topic": "NOAR",
+    "Question": "Violation of Terms and condtions of Standing clearance in any time block results in debaring the entity from transacting from power market for ______ .",
+    "Option1": "1 Month",
+    "Option2": "15 Days",
+    "Option3": "1 Year",
+    "Option4": "7 Days",
+    "answer": 4
+  },
+  {
+    "Topic": "ENERGY STORAGE & EV",
+    "Question": "The contribution of inertia for the grid can be availed through ______ .",
+    "Option1": "BESS (Battery Energy Storage System)",
+    "Option2": "FESS (Flywheel Energy Storage System)",
+    "Option3": "Flow Batteries",
+    "Option4": "Electro-chemical Capaciters",
+    "answer": 2
+  },
+  {
+    "Topic": "ENERGY STORAGE & EV",
+    "Question": "Which of the following has higher Energy Density ?                                               (i) Battery                                            (ii) Electro-chemical Capacitors                                        (iii) Conventional Capacitors",
+    "Option1": "(i)>(ii)>(iii)",
+    "Option2": "(ii)>(i)>(iii)",
+    "Option3": "(iii)>(ii)>(i)",
+    "Option4": "All",
+    "answer": 1
+  },
+  {
+    "Topic": "ENERGY STORAGE & EV",
+    "Question": "The Energy stored in a conventional capacitor is _______ .                              (i) Directly proportional to surface area of plates.                                                   (ii) Inversely proportional to surface area of plates.                                                          (iii) Directly proportional to charge seperation distance.                                              (iv) Inversely proportional to charge seperation distance.",
+    "Option1": "(ii) & (iv)",
+    "Option2": "(i) & (iv)",
+    "Option3": "(ii) & (iv)",
+    "Option4": "(ii) & (iii)",
+    "answer": 2
+  },
+  {
+    "Topic": "ENERGY STORAGE & EV",
+    "Question": "A 100 MW battery at 50 % SOC (State of Charging) can pick up full capacity of 100 MW within _______ .",
+    "Option1": "1 Min",
+    "Option2": "5 Min",
+    "Option3": "30 Sec",
+    "Option4": "1 Sec",
+    "answer": 4
+  },
+  {
+    "Topic": "ENERGY STORAGE & EV",
+    "Question": "For fast charging of EV battery it is preferable to use the following :",
+    "Option1": "AC Level 1",
+    "Option2": "AC Level 2",
+    "Option3": "DC Level 1",
+    "Option4": "DC Level 2",
+    "answer": 4
+  },
+  {
+    "Topic": "TCT",
+    "Question": "What is the significance of Cut off date?",
+    "Option1": "The owner of asset can start billing from that date",
+    "Option2": "additional capitalisation would be allowed upto this date for a new project.",
+    "Option3": "last date for filing tariff petition",
+    "Option4": "last date for completing all expenditure.",
+    "answer": 2
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Gross calorific value is measured in _____",
+    "Option1": "Kcal/kg of  coal",
+    "Option2": "kcal/lit of liquid fuel",
+    "Option3": "kcal/m3 of gas",
+    "Option4": "All of these",
+    "answer": 4
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Expenditure towards initial spares is a part of _______",
+    "Option1": "O&M charges",
+    "Option2": "Annual fixed charges",
+    "Option3": "Capital cost",
+    "Option4": "Working capital",
+    "answer": 3
+  },
+  {
+    "Topic": "TCT",
+    "Question": "A company had invested Rs.40 cr. from its own resources; if the total cost of the project is Rs.100 cr. What is the amount admissible as equity ?",
+    "Option1": "Rs. 80 cr.",
+    "Option2": "Rs.30 cr.",
+    "Option3": "Rs.20 cr",
+    "Option4": "Rs.70 cr.",
+    "answer": 2
+  },
+  {
+    "Topic": "TCT",
+    "Question": "A company had taken a loan of Rs.60 cr. and invested Rs.40 cr. from own resources. What is the  treatment of loan component?",
+    "Option1": "Rs.70 cr. treated as loan at SBI PLR",
+    "Option2": "Rs.60 cr. is treated as loan at actual rate of interest and Rs.10 cr. treated as normative laon",
+    "Option3": "Rs.70 cr treated as loan at actual interest rate",
+    "Option4": "Rs.70 cr at wt. average rate of interest",
+    "answer": 2
+  },
+  {
+    "Topic": "TCT",
+    "Question": "O&M expenses of a generating station are recovered through ____",
+    "Option1": "annual fixed charges",
+    "Option2": "energy charges",
+    "Option3": "working capital",
+    "Option4": "maintenance spares",
+    "answer": 1
+  },
+  {
+    "Topic": "TCT",
+    "Question": "If 't' is the applicable tax rate, rate of pre-tax return on equity is _____",
+    "Option1": "base rate of ROE x  (1-t)",
+    "Option2": "base rate of ROE  x (1+t)",
+    "Option3": "base rate of ROE/(1+t)",
+    "Option4": "base rate of ROE / (1-t)",
+    "answer": 4
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Depreciation is calculated as a percentage of …..",
+    "Option1": "Loan component",
+    "Option2": "Equity",
+    "Option3": "Capital cost",
+    "Option4": "Working capital",
+    "answer": 3
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Normative O&M expenditure of a Sub-station",
+    "Option1": "Decreases with increase in voltage level",
+    "Option2": "Increases with increase in voltage level",
+    "Option3": "Not related to voltage level",
+    "Option4": "is a percentage of capital cost",
+    "answer": 2
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Energy charges shall be payable by every Beneficiary  as per",
+    "Option1": "Share allocation",
+    "Option2": "Total energy schedule in the month on ex power plant",
+    "Option3": "Total energy scheduled in the month on ex-periphery of the beneficiary",
+    "Option4": "Total drawal schedule of beneficiary including all contracts",
+    "answer": 2
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Pick up the right order of stations with respect to auxiliary consumption.",
+    "Option1": "Hydro>gas>coal>lignite",
+    "Option2": "Coal>gas>hydro>lignite",
+    "Option3": "Lignite>coal>gas>hydro",
+    "Option4": "Gas>hydro>lignite>coal",
+    "answer": 3
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Useful life of  AC Substations is",
+    "Option1": "25 years",
+    "Option2": "35 years",
+    "Option3": "20 years",
+    "Option4": "depends on voltage level",
+    "answer": 1
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Initial Spare allowed for Transmission lines as % of capital cost is",
+    "Option1": "1%",
+    "Option2": "5%",
+    "Option3": "0.75%",
+    "Option4": "3.50%",
+    "answer": 1
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Normative Annual Transmission System Availability factor is 95% for",
+    "Option1": "AC Substation",
+    "Option2": "AC Transmission Line",
+    "Option3": "None of these",
+    "Option4": "HVDC bi-pole link and HVDC Back-to-Back Substation",
+    "answer": 4
+  },
+  {
+    "Topic": "TCT",
+    "Question": "How many days are allowed  to the beneficiary for payment of bill  raised by transmission licensee without surcharges",
+    "Option1": "30 days",
+    "Option2": "60 days",
+    "Option3": "45 days",
+    "Option4": "90 days",
+    "answer": 3
+  },
+  {
+    "Topic": "TCT",
+    "Question": "How the benefits of refinancing of debt is to be shared between beneficiary and utility",
+    "Option1": "2:1",
+    "Option2": "01:01",
+    "Option3": "Only beneficiary",
+    "Option4": "Only Utility",
+    "answer": 2
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Guideline for tariff determination is given in following section of Electricity Act,2003",
+    "Option1": "Section 15",
+    "Option2": "Section 79",
+    "Option3": "Section 61",
+    "Option4": "Section 178",
+    "answer": 3
+  },
+  {
+    "Topic": "TCT",
+    "Question": "A petition can be filed in the Commission for tariff determination of a transmission project",
+    "Option1": "60 days before anticipated commissioning date",
+    "Option2": "120 days before anticipated commissioning date",
+    "Option3": "with in 90 days after COD",
+    "Option4": "with in 30 days after COD",
+    "answer": 3
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Who shall  certify the Monthly Availability factor of Transmission system",
+    "Option1": "GM, NLDC",
+    "Option2": "Chief (Engg), CERC",
+    "Option3": "Member Secretary, RPC",
+    "Option4": "Chairperson, CEA",
+    "answer": 3
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Maximum Initial spares  as % of capital cost are allowed for",
+    "Option1": "HVDC Station",
+    "Option2": "Static synchronous capacitors",
+    "Option3": "Gas Insulated Sub-station - Green Field",
+    "Option4": "Thermal-Coal Station",
+    "answer": 2
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Interim truing up of the tariff for 2024-29 shall be carried out",
+    "Option1": "During 2024- 25",
+    "Option2": "During 2026 - 27",
+    "Option3": "During 2029 - 30",
+    "Option4": "No truing up of tariff is required in 2024-29 period",
+    "answer": 2
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Truing up of the tariff   for 2024-29 shall be carried out",
+    "Option1": "During 26- 27",
+    "Option2": "During 2029 - 30",
+    "Option3": "A&B",
+    "Option4": "No truing up of tariff is required in 2024-29 period",
+    "answer": 3
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Final truing up of the tariff for 2024-29 shall be carried out",
+    "Option1": "During 2026 - 27",
+    "Option2": "During 2024- 25",
+    "Option3": "During 2027 - 28",
+    "Option4": "During 2029 - 30",
+    "answer": 4
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Replacement of switchyard equipment in case of fault level increase is allowed under additional capitalization after cut off date",
+    "Option1": "Yes",
+    "Option2": "Depends on No. of circuits and voltage",
+    "Option3": "Allowed only after prior approval of commission",
+    "Option4": "Allowed after CEA approval",
+    "answer": 1
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Case - I competitive bidding is meant for",
+    "Option1": "Procurement of power from sources which are fuel specific",
+    "Option2": "Procurement of power from sources which are location specific",
+    "Option3": "Procurement of power from sources which are neither fuel specific nor location specific",
+    "Option4": "Procurement of power from traders only",
+    "answer": 3
+  },
+  {
+    "Topic": "TCT",
+    "Question": "For the purpose of meeting Renewable Purchase Obligation (RPO)",
+    "Option1": "Only distribution licensee is considered to be obligated entity",
+    "Option2": "Only open access consumer is considered to be obligated entity",
+    "Option3": "Only consumer of captive generation connected to grid is considered to be obligated entity",
+    "Option4": "Distribution licensee, open access consumer and consumer of captive generation connected to grid are considered to be obligated entities",
+    "answer": 4
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Central Government can  give directions to Central Commission",
+    "Option1": "On any issue it considers fit",
+    "Option2": "On policy issues which involve public interest",
+    "Option3": "On tariff issue only",
+    "Option4": "On non-tariff issues only",
+    "answer": 2
+  },
+  {
+    "Topic": "TCT",
+    "Question": "In interest on working capital, 45 days receivable means",
+    "Option1": "Fixed and energy charges of 45 days",
+    "Option2": "Interest of 45 days",
+    "Option3": "Salary of employees for 45 days",
+    "Option4": "Spares for 45 days",
+    "answer": 1
+  },
+  {
+    "Topic": "TCT",
+    "Question": "If the station COD is 3.1.2025 then what would be the cut off date",
+    "Option1": "31.1.2028",
+    "Option2": "31.3.2028",
+    "Option3": "31.3.2027",
+    "Option4": "31.1.2027",
+    "answer": 2
+  },
+  {
+    "Topic": "TCT",
+    "Question": "What is norm of Maintenance spares for the gas based stations in working capital calculations",
+    "Option1": "25% of O&M expenses",
+    "Option2": "20% of O&M expenses",
+    "Option3": "30% of O&M expenses",
+    "Option4": "1% of the capital cost",
+    "answer": 3
+  },
+  {
+    "Topic": "TCT",
+    "Question": "If the GCV of the coal decreases during the month then the energy charges shall",
+    "Option1": "decrease",
+    "Option2": "increase",
+    "Option3": "remain same",
+    "Option4": "become zero",
+    "answer": 2
+  },
+  {
+    "Topic": "TCT",
+    "Question": "Which section of the Electricity Act 2003 empowers the appropriate commission to grant licence?",
+    "Option1": "Section 42",
+    "Option2": "Section 29(2)",
+    "Option3": "Section 14",
+    "Option4": "Section 12",
+    "answer": 3
+  },
+  {
+    "Topic": "TCT",
+    "Question": "The total Capacity Charges receivable by a Generating station shall be shared by its Beneficiaries as per ______",
+    "Option1": "Average Requisitions",
+    "Option2": "Average Share Allocation",
+    "Option3": "Maximum Entitlement in peak hours",
+    "Option4": "Maximum Entitlement in the month",
+    "answer": 2
   }
 ];
