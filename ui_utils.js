@@ -173,8 +173,10 @@ function evaluateAnswers() {
                     if (opt_correct == true) {
                         ques_res = true;
                     } else {
+                        // color the question as red
                         ques_res = false;
                     }
+                    setQuesColorWrtResp(ques_div.getElementsByClassName("question_string")[0], ques_res)
                 }
             }
         }
@@ -191,6 +193,10 @@ function evaluateAnswers() {
 
     // update the results text    
     updateResultsText("correct = " + correctCount + ", wrong = " + wrongCount + ", unanswered = " + unansweredCount + ", total = " + (unansweredCount + correctCount + wrongCount));
+}
+
+function setQuesColorWrtResp(quesTextSpanEl, isCorrect) {
+    quesTextSpanEl.style.color = isCorrect ? "#333333" : "red";
 }
 
 function updateResultsText(resStr) {

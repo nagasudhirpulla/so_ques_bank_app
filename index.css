@@ -4,6 +4,10 @@
     text-decoration: underline; */
 }
 
+.wrongQues{
+  color: red;
+}
+
 .topic_label {
   font-size: x-small;
 }
