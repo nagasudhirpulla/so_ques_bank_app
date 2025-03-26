@@ -56,7 +56,7 @@ function loadQuestions() {
 function createQuesDiv(questionObj, quesIter) {
     // create the question Element
     var quesDiv = document.createElement("div");
-    quesDiv.className += ' question_div';
+    quesDiv.className += ' question_div border-bottom';
     // todo assign question number from the function argument and save as the div attribute
 
     // append question string
@@ -93,7 +93,7 @@ function createQuesDiv(questionObj, quesIter) {
     quesDiv.appendChild(document.createElement("br"));
 
     // add bottom border
-    quesDiv.style['border-bottom'] = '2px dotted black';
+    // quesDiv.style['border-bottom'] = '2px dotted black';
 
     // add class to the correct options
     var correctAnsIndex = questionObj["answer"];
