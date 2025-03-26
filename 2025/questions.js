@@ -796,7 +796,7 @@ var questions = [
     "Question": "Normally  Signal Sampling during Phasor Estimation in PMU  shall be in the range of ___",
     "Option1": "10Hz -50 Hz",
     "Option2": "In the order of kHz",
-    "Option3": "50 Hz – 100 Hz",
+    "Option3": "50 Hz - 100 Hz",
     "Option4": "0-10 Hz",
     "answer": 2
   },
@@ -1451,10 +1451,10 @@ var questions = [
   {
     "Topic": "DSM",
     "Question": "Which of the following statements is true w.r.t sign convention of Deviation Charges",
-    "Option1": "For a generator +ve sign indicates under generation &   for a beneficiary –ve sign   indicates over drawal.",
+    "Option1": "For a generator +ve sign indicates under generation &   for a beneficiary -ve sign   indicates over drawal.",
     "Option2": "For a generator +ve sign indicates over generation & for a beneficiary  +ve sign indicates overdrawal.",
-    "Option3": "For a generator, -ve sign indicates over generation & for a beneficiary –ve sign indicates under drawal.",
-    "Option4": "For a generator, +ve sign indicates under generation & for a beneficiary –ve   sign  indicates under drawal.",
+    "Option3": "For a generator, -ve sign indicates over generation & for a beneficiary -ve sign indicates under drawal.",
+    "Option4": "For a generator, +ve sign indicates under generation & for a beneficiary -ve   sign  indicates under drawal.",
     "answer": 2
   },
   {
@@ -2077,5 +2077,509 @@ var questions = [
     "Option3": "Maximum Entitlement in peak hours",
     "Option4": "Maximum Entitlement in the month",
     "answer": 2
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Energy consumption per unit of GDP is called as:",
+    "Option1": "Energy Ratio",
+    "Option2": "Energy Intensity",
+    "Option3": "Per Capita Consumption",
+    "Option4": "None",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Star rating is a part of ______ programme of BEE",
+    "Option1": "DSM",
+    "Option2": "BLY",
+    "Option3": "S&L",
+    "Option4": "None",
+    "answer": "C"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "As per IEGC (latest amendment) “frequency band” in Hz is",
+    "Option1": "49.90 - 50.05",
+    "Option2": "49.5 - 50.3",
+    "Option3": "49.7 - 50.2",
+    "Option4": "49.5 - 50.2",
+    "answer": "A"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Action for non-compliance of IEGC  may be taken by",
+    "Option1": "Central Electricity Authority (CEA) on recommendation by RPC or RLDC",
+    "Option2": "Regional Power Committee  (RPC) on report by RLDC",
+    "Option3": "Central Electricity Regulatory Commission(CERC) on report by RPC and RLDC only",
+    "Option4": "Central Electricity Regulatory Commission(CERC) on report by any person or suo-motu",
+    "answer": "D"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "A part of the grid can be deliberately isolated from the rest of the National/Regional grid, only",
+    "Option1": "under an emergency, or to prevent collapse of grid",
+    "Option2": "for safety of human life",
+    "Option3": "when serious damage to a costly equipment is imminent and such isolation would prevent it,",
+    "Option4": "All of these",
+    "answer": "D"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "As per IEGC, free governor mode of operation (FGMO) is to be implemented for generating stations synchronized with grid ( with exceptions mentioned in IEGC)  of the following category.",
+    "Option1": "All coal/lignite based thermal generating units of 200MW and above                                                                                                                                                                                                                                           Open cycle gas turbine/CCGT of capacity more than 50MW                    All hydro units of 25MW and above",
+    "Option2": "All coal/lignite based thermal generating units of 200MW and above                                                            All hydro units of 25MW and above                                                       WS seller of capacity more than 10MW and connected at 33kV above",
+    "Option3": "All coal/lignite based thermal generating units of 200MW and above                                           Open cycle gas turbine/CCGT of capacity more than 50MW                                                                         WS seller of capacity more than 10MW and connected at 33kV above",
+    "Option4": "All coal/lignite based thermal generating units of 200MW and above                                           Open cycle gas turbine/CCGT of capacity more than 50MW                    All hydro units of 25MW and above                                                       WS seller of capacity more than 10MW and connected at 33kV above",
+    "answer": "D"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "As per stipulations in IEGC, the control Area jurisdiction of any generating station",
+    "Option1": "Can not change once decided",
+    "Option2": "May be in one control area (i.e. SLDC) at one point of time and another control area (i.e. RLDC) at another point of time",
+    "Option3": "As decided by RPC",
+    "Option4": "As decided by RLDC",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "As per IEGC Var charges are applicable when",
+    "Option1": "voltage at the metering point is below 97%",
+    "Option2": "voltage is above103%.",
+    "Option3": "In case of voltage below 97% or greater than 103% at the metering point.",
+    "Option4": "Voltage at metering point is below 95 % or above 105 %",
+    "answer": "C"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "If the state has quantum connectivity of more than 50% to Intra State Transmission System, for an IPP, then the scheduling and other functions shall be performed by-----",
+    "Option1": "SLDC",
+    "Option2": "RLDC",
+    "Option3": "Neither SLDC nor RLDC",
+    "Option4": "Either SLDC or RLDC",
+    "answer": "A"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "If the state has quantum connectivity of 50% or less to Intra State Transmission System, for an IPP, then the scheduling and other functions shall be performed by-----",
+    "Option1": "SLDC",
+    "Option2": "RLDC",
+    "Option3": "Neither SLDC nor RLDC",
+    "Option4": "Either SLDC or RLDC",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "A 'Bulk consumer' avails supply at :",
+    "Option1": "220 kV and above",
+    "Option2": "33 kV and above",
+    "Option3": "132 kV and above",
+    "Option4": "400 kV \nand above",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "The maximum possible voltage unbalance in 33 to 132 kV shall be:",
+    "Option1": "2%",
+    "Option2": "1%",
+    "Option3": "3%",
+    "Option4": "5%",
+    "answer": "C"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "The total harmonic distortion in 33 to 132 kV system shall not exceed:",
+    "Option1": "1.50%",
+    "Option2": "2.00%",
+    "Option3": "2.50%",
+    "Option4": "5.00%",
+    "answer": "D"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "The category GI-1 incident means no loss of Grid integrity at :",
+    "Option1": "132 kV",
+    "Option2": "220 kV",
+    "Option3": "400 kV",
+    "Option4": "765 kV",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "The category GD-2 disturbance means loss of  __ % generation or load in the region",
+    "Option1": "0 to 10",
+    "Option2": "10 to 20",
+    "Option3": "20 to 30",
+    "Option4": "30 to 40",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "With reference to CEA's Grid Connectivity Standards, the preferable switching scheme for a 220 kV substation is:",
+    "Option1": "main and transfer scheme",
+    "Option2": "double main and transfer bus scheme or double bus scheme",
+    "Option3": "one and half breaker scheme or double main and transfer bus scheme",
+    "Option4": "double bus double breaker scheme",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "The maximum fault clearance time for system voltage of 220 kV is",
+    "Option1": "100 milliseconds",
+    "Option2": "160 milliseconds",
+    "Option3": "300 milliseconds",
+    "Option4": "100 microseconds",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Maximum Continuious Rating is determined",
+    "Option1": "after deducting station auxilary  load  on manufacturer guarented  rated MW",
+    "Option2": "at the Genrator Terminals manufacturer guarented  rated MW",
+    "Option3": "after deducting station auxilary  load  on manufacturer guarented  average MW/day",
+    "Option4": "at the Genrator Terminals manufacturer guarented  average MW/day",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "The Generating transformer  windings   HV side  need to achieve Earth Fault Factor  of ….",
+    "Option1": "1.0 or more",
+    "Option2": "1.0 or less",
+    "Option3": "1.4 or more",
+    "Option4": "1.4 or less",
+    "answer": "D"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "The governers of thermal generating units shall have a  droop in the range of ….",
+    "Option1": "0-5 %",
+    "Option2": "5-8%",
+    "Option3": "3-8%",
+    "Option4": "3-6 %",
+    "answer": "D"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "The total Harmonic Distortion of a 11 kV consumer for current drawn from transmission system  at the connection point  shall not exceed …",
+    "Option1": "10%",
+    "Option2": "5%",
+    "Option3": "3%",
+    "Option4": "8%",
+    "answer": "D"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Generation is a …… activity as per the Electricity Act 2003",
+    "Option1": "Licensed",
+    "Option2": "Delicensed",
+    "Option3": "Restricted",
+    "Option4": "Commercial",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "On which of the following fields does the Study Committee C2 of the International council on Large Electric Systems (CIGRE)  deal with?",
+    "Option1": "Electricity Markets",
+    "Option2": "Equipment Standardisation",
+    "Option3": "Environmental Concerns",
+    "Option4": "System Operation and Control",
+    "answer": "D"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "On which of the following fields does the Study Committee C5, of the International Council on Large Electric Systems (CIGRE)  deal with?",
+    "Option1": "Electricity Markets",
+    "Option2": "Equipment Standardisation",
+    "Option3": "Environmental Concerns",
+    "Option4": "System Operation and Control",
+    "answer": "A"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "If the voltages at ends A & B of a transmission line are 200∠30º kVand  220∠15ºkV respectively then, _____",
+    "Option1": "MW flows from A to B",
+    "Option2": "MW flows from B to A",
+    "Option3": "No MW flows in the line",
+    "Option4": "Can not be determined from the given data",
+    "answer": "A"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "The voltages at the two ends of a 400 kV line of 66 ohms reactance are 380∠0º and 408∠5º then steady state maximum power that can be transmitted in p.u is",
+    "Option1": 6.06,
+    "Option2": 60.6,
+    "Option3": 23.49,
+    "Option4": 2.349,
+    "answer": "C"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "A long line having line reactor at one end should be charged from the end where there _________ line reactor.",
+    "Option1": "Is a",
+    "Option2": "Is no",
+    "Option3": "Either end",
+    "Option4": "None of the above",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Which option best describes the relation between Gross Station heat rate in a closed cycle operation and open cycle operation of a combined cycle gas station?",
+    "Option1": "GSHR in closed cycle is same as in open cycle",
+    "Option2": "GSHR in closed cycle is greater than than in open cycle",
+    "Option3": "GSHR in open cycle is greater than than in closed cycle",
+    "Option4": "It depends on the unit size",
+    "answer": "C"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "The generator protection that is most likely to operate in a situation when there is \"HIGH Voltage\" and \"LOW Frequency\" in the grid:",
+    "Option1": "Low forward power",
+    "Option2": "Overflux",
+    "Option3": "Differential",
+    "Option4": "Loss of field",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "What is the component which senses the frequency variations on the system and adjusts the MW output of the turbine generator called ?",
+    "Option1": "exciter",
+    "Option2": "governor",
+    "Option3": "OLTC",
+    "Option4": "frequency relay",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "With reference to the turbine generator, the load angle is the phase angle difference between:",
+    "Option1": "rotor and stator",
+    "Option2": "turbine and generator",
+    "Option3": "boiler and turbile",
+    "Option4": "generator and transformer",
+    "answer": "A"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "When the load angle exceeds the maximum limit, then the power output of the generator will _____",
+    "Option1": "increase",
+    "Option2": "decrease",
+    "Option3": "remains constant",
+    "Option4": "increases by 100%",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "In order that the frequency of the system remains constant, the electrical power output of the generator must be ___ the power required by the system load plus losses.",
+    "Option1": "greater than",
+    "Option2": "less than",
+    "Option3": "equal to",
+    "Option4": "No relationship",
+    "answer": "C"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "What is the response of the turbine-governor when there is a drop in load?",
+    "Option1": "The governor opens the turbine control valve to increase turbine input",
+    "Option2": "The governor waits several minutes to see what happens",
+    "Option3": "The governor closes the control valve position some what to decrease turbine input",
+    "Option4": "None of \nthe above",
+    "answer": "C"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Two machines, 'A' & 'B' of equal capacity have speed droop settings of 3% and 6% respectively. How will they share an increase in load?",
+    "Option1": "Machine 'B' picks up large portion of load",
+    "Option2": "Machine 'A' picks up large portion of load",
+    "Option3": "Share the increase in load equally",
+    "Option4": "Neither A nor B pick up the load",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Frequency response from loads is better in respect of:",
+    "Option1": "Lighting load",
+    "Option2": "Rotating loads",
+    "Option3": "A combination of lighting loads and rotating loads",
+    "Option4": "Silicon loads",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "A generating unit running at 50 Hz and its rated  capacity of 300 MW  has 3 % speed droop. What will be the value of frequency if the unit's output requirement is reduced to 200 MW?",
+    "Option1": "50 Hz",
+    "Option2": "49.5 Hz",
+    "Option3": "50.5 Hz",
+    "Option4": "51.0 Hz",
+    "answer": "C"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "If the system frequency is at 49.0 Hz then the RPM of a cylindrical rotor machine is ____",
+    "Option1": 3000,
+    "Option2": 2940,
+    "Option3": 3060,
+    "Option4": 2880,
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "A 200 MW unit with 3% governor droop reduces its output from 180 MW to 160 MW under FGMO when the change in frequency is ___.",
+    "Option1": "+0.15Hz",
+    "Option2": "-0.15Hz",
+    "Option3": "+0.3Hz",
+    "Option4": "-0.3Hz",
+    "answer": "A"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Which of the following statements are correct:                       (i) Changing transformer taps change flow of VArs in the system.   \n(ii) Shunt capacitors generate VArs and shunt reactors absorb Vars.   \n(iii) Changing tap  settings affect the flow of MW.",
+    "Option1": "(i) & (iii)",
+    "Option2": "(ii) & (iii)",
+    "Option3": "(i), (ii) & (iii)",
+    "Option4": "(i) & (ii)",
+    "answer": "D"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "The kVAr rating required for improving the power factor of a load operating at 500 kW and 0.85 power factor to 0.95 is ________.",
+    "Option1": "145kVAr",
+    "Option2": "500 kVAr",
+    "Option3": "50 kVAr",
+    "Option4": "300 kVAr",
+    "answer": "A"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "The resultant transmission capacity of a line having a SIL of P0, a shunt compensation of Ksh and a series compensation of Kse, is:",
+    "Option1": "P0*(1-ksh) / (1-Kse)",
+    "Option2": "P0*(1-Kse) / (1-Ksh)",
+    "Option3": "P0*Sqrt(1-Ksh) / Sqrt(1-Kse)",
+    "Option4": "P0*Sqrt(1-Kse) / Sqrt(1-Ksh)",
+    "answer": "C"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "If a 40 MVAr reactor is connected at bus having 4000 MVA fault level and operating at 408 kV then the resultant bus voltage will be",
+    "Option1": 400,
+    "Option2": 404,
+    "Option3": 396,
+    "Option4": 412,
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Which is the most suitable condition for operating OLTC of a 400kV/220kV auto transformer?",
+    "Option1": "390kV/220 kV",
+    "Option2": "410kV/201kV",
+    "Option3": "420kV/225kV",
+    "Option4": "380kV/180kV",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "What do the SVC, CSR, UPFC, STATCOM devices control in common?",
+    "Option1": "Receiving end voltage",
+    "Option2": "Load angle",
+    "Option3": "Line reactance",
+    "Option4": "Sending end voltage",
+    "answer": "A"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Protection against Over voltage stage-I setting in p.u. is:",
+    "Option1": 1.1,
+    "Option2": 1.5,
+    "Option3": 0.95,
+    "Option4": 1.3,
+    "answer": "A"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Over flux alarm in a transformer is set at __ p.u.",
+    "Option1": 1,
+    "Option2": 1.14,
+    "Option3": 0.9,
+    "Option4": 1.4,
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Through Fault current is ___.",
+    "Option1": "The current flowing through a protected zone to a fault beyond that zone",
+    "Option2": "The current flowing through a protected zone to a fault in the same zone",
+    "Option3": "The current flowing through the protected device before fault",
+    "Option4": "The post fault current flowing through the protected device",
+    "answer": "A"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Match the device numbers: (a)Circuit Breaker (b) Over voltage relay (c) earth fault relay (d) under voltage relay :: (1)64; (2) 59; (3) 52; (4)27",
+    "Option1": "a-2; b-4; c- 1; d- 3;",
+    "Option2": "a-3; b-1; c-2; d-4",
+    "Option3": "a-3; b-2; c-1; d-4;",
+    "Option4": "a-4;b-1;c-2;d-3",
+    "answer": "C"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "In the Master Station, packets are received by:",
+    "Option1": "RTU",
+    "Option2": "PLC",
+    "Option3": "Communication Front End",
+    "Option4": "Operator Console",
+    "answer": "C"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "What is the system that provides the inter-connection of all the servers, workstation, peripherals with redundant ethernet switch?",
+    "Option1": "WAN",
+    "Option2": "LAN",
+    "Option3": "DMZ",
+    "Option4": "Ring main unit",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "'Milli seconds accurate time of status changes' for devices monitored, is provided by which application?",
+    "Option1": "Historical Data Recorder",
+    "Option2": "Sequence of Events",
+    "Option3": "Network Management System",
+    "Option4": "Human Machine Interface",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Which of these is true for network modeling in SCADA ?",
+    "Option1": "Device Oriented model is used",
+    "Option2": "SCADA analog measurements",
+    "Option3": "SCADA digital measurements",
+    "Option4": "All of the above",
+    "answer": "A"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "State Estimation algorithm is based upon:",
+    "Option1": "Weighted Least square Method",
+    "Option2": "Newton Raphson Method",
+    "Option3": "Decoupled Powerflow Method",
+    "Option4": "Gauss-Siedel Method",
+    "answer": "A"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Fibre Optic Communication is based on:",
+    "Option1": "Reflection of light",
+    "Option2": "Total internal reflection of light",
+    "Option3": "Refraction of light",
+    "Option4": "Diffusion of light",
+    "answer": "B"
+  },
+  {
+    "Topic": "Day3",
+    "Question": "Which of these is not true for Fibre Optic medium?",
+    "Option1": "Higher bandwidth",
+    "Option2": "More susceptible to electromagnetic interference",
+    "Option3": "Less signal degradation",
+    "Option4": "Lighter and thinner than copper wire",
+    "answer": "B"
   }
 ];
