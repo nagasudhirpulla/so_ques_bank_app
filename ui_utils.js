@@ -196,9 +196,18 @@ function evaluateAnswers() {
 }
 
 function setQuesColorWrtResp(quesTextSpanEl, isCorrect) {
-    quesTextSpanEl.style.color = isCorrect ? "#333333" : "red";
+    quesTextSpanEl.style.color = isCorrect ? null : "red";
 }
 
 function updateResultsText(resStr) {
     document.getElementById("resultsSpan").innerHTML = resStr;
 }
+
+document.getElementById('btnThemeSwitch').addEventListener('click',()=>{
+    if (document.documentElement.getAttribute('data-bs-theme') == 'dark') {
+        document.documentElement.setAttribute('data-bs-theme','light')
+    }
+    else {
+        document.documentElement.setAttribute('data-bs-theme','dark')
+    }
+})
