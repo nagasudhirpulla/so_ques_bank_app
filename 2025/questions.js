@@ -2085,7 +2085,7 @@ var questions = [
     "Option2": "Energy Intensity",
     "Option3": "Per Capita Consumption",
     "Option4": "None",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2094,16 +2094,16 @@ var questions = [
     "Option2": "BLY",
     "Option3": "S&L",
     "Option4": "None",
-    "answer": "C"
+    "answer": 3
   },
   {
     "Topic": "Day3",
     "Question": "As per IEGC (latest amendment) “frequency band” in Hz is",
-    "Option1": "49.90 - 50.05",
-    "Option2": "49.5 - 50.3",
-    "Option3": "49.7 - 50.2",
-    "Option4": "49.5 - 50.2",
-    "answer": "A"
+    "Option1": "49.90 – 50.05",
+    "Option2": "49.5 – 50.3",
+    "Option3": "49.7 – 50.2",
+    "Option4": "49.5 – 50.2",
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -2112,7 +2112,7 @@ var questions = [
     "Option2": "Regional Power Committee  (RPC) on report by RLDC",
     "Option3": "Central Electricity Regulatory Commission(CERC) on report by RPC and RLDC only",
     "Option4": "Central Electricity Regulatory Commission(CERC) on report by any person or suo-motu",
-    "answer": "D"
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -2121,7 +2121,7 @@ var questions = [
     "Option2": "for safety of human life",
     "Option3": "when serious damage to a costly equipment is imminent and such isolation would prevent it,",
     "Option4": "All of these",
-    "answer": "D"
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -2130,7 +2130,7 @@ var questions = [
     "Option2": "All coal/lignite based thermal generating units of 200MW and above                                                            All hydro units of 25MW and above                                                       WS seller of capacity more than 10MW and connected at 33kV above",
     "Option3": "All coal/lignite based thermal generating units of 200MW and above                                           Open cycle gas turbine/CCGT of capacity more than 50MW                                                                         WS seller of capacity more than 10MW and connected at 33kV above",
     "Option4": "All coal/lignite based thermal generating units of 200MW and above                                           Open cycle gas turbine/CCGT of capacity more than 50MW                    All hydro units of 25MW and above                                                       WS seller of capacity more than 10MW and connected at 33kV above",
-    "answer": "D"
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -2139,7 +2139,7 @@ var questions = [
     "Option2": "May be in one control area (i.e. SLDC) at one point of time and another control area (i.e. RLDC) at another point of time",
     "Option3": "As decided by RPC",
     "Option4": "As decided by RLDC",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2148,7 +2148,7 @@ var questions = [
     "Option2": "voltage is above103%.",
     "Option3": "In case of voltage below 97% or greater than 103% at the metering point.",
     "Option4": "Voltage at metering point is below 95 % or above 105 %",
-    "answer": "C"
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -2157,7 +2157,7 @@ var questions = [
     "Option2": "RLDC",
     "Option3": "Neither SLDC nor RLDC",
     "Option4": "Either SLDC or RLDC",
-    "answer": "A"
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -2166,7 +2166,7 @@ var questions = [
     "Option2": "RLDC",
     "Option3": "Neither SLDC nor RLDC",
     "Option4": "Either SLDC or RLDC",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2175,7 +2175,7 @@ var questions = [
     "Option2": "33 kV and above",
     "Option3": "132 kV and above",
     "Option4": "400 kV \nand above",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2184,7 +2184,7 @@ var questions = [
     "Option2": "1%",
     "Option3": "3%",
     "Option4": "5%",
-    "answer": "C"
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -2193,7 +2193,7 @@ var questions = [
     "Option2": "2.00%",
     "Option3": "2.50%",
     "Option4": "5.00%",
-    "answer": "D"
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -2202,7 +2202,7 @@ var questions = [
     "Option2": "220 kV",
     "Option3": "400 kV",
     "Option4": "765 kV",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2211,7 +2211,7 @@ var questions = [
     "Option2": "10 to 20",
     "Option3": "20 to 30",
     "Option4": "30 to 40",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2220,7 +2220,7 @@ var questions = [
     "Option2": "double main and transfer bus scheme or double bus scheme",
     "Option3": "one and half breaker scheme or double main and transfer bus scheme",
     "Option4": "double bus double breaker scheme",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2229,7 +2229,7 @@ var questions = [
     "Option2": "160 milliseconds",
     "Option3": "300 milliseconds",
     "Option4": "100 microseconds",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2238,7 +2238,7 @@ var questions = [
     "Option2": "at the Genrator Terminals manufacturer guarented  rated MW",
     "Option3": "after deducting station auxilary  load  on manufacturer guarented  average MW/day",
     "Option4": "at the Genrator Terminals manufacturer guarented  average MW/day",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2247,7 +2247,7 @@ var questions = [
     "Option2": "1.0 or less",
     "Option3": "1.4 or more",
     "Option4": "1.4 or less",
-    "answer": "D"
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -2256,7 +2256,7 @@ var questions = [
     "Option2": "5-8%",
     "Option3": "3-8%",
     "Option4": "3-6 %",
-    "answer": "D"
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -2265,7 +2265,7 @@ var questions = [
     "Option2": "5%",
     "Option3": "3%",
     "Option4": "8%",
-    "answer": "D"
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -2274,7 +2274,7 @@ var questions = [
     "Option2": "Delicensed",
     "Option3": "Restricted",
     "Option4": "Commercial",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2283,7 +2283,7 @@ var questions = [
     "Option2": "Equipment Standardisation",
     "Option3": "Environmental Concerns",
     "Option4": "System Operation and Control",
-    "answer": "D"
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -2292,7 +2292,7 @@ var questions = [
     "Option2": "Equipment Standardisation",
     "Option3": "Environmental Concerns",
     "Option4": "System Operation and Control",
-    "answer": "A"
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -2301,7 +2301,7 @@ var questions = [
     "Option2": "MW flows from B to A",
     "Option3": "No MW flows in the line",
     "Option4": "Can not be determined from the given data",
-    "answer": "A"
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -2310,7 +2310,7 @@ var questions = [
     "Option2": 60.6,
     "Option3": 23.49,
     "Option4": 2.349,
-    "answer": "C"
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -2319,7 +2319,7 @@ var questions = [
     "Option2": "Is no",
     "Option3": "Either end",
     "Option4": "None of the above",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2328,7 +2328,7 @@ var questions = [
     "Option2": "GSHR in closed cycle is greater than than in open cycle",
     "Option3": "GSHR in open cycle is greater than than in closed cycle",
     "Option4": "It depends on the unit size",
-    "answer": "C"
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -2337,7 +2337,7 @@ var questions = [
     "Option2": "Overflux",
     "Option3": "Differential",
     "Option4": "Loss of field",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2346,7 +2346,7 @@ var questions = [
     "Option2": "governor",
     "Option3": "OLTC",
     "Option4": "frequency relay",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2355,7 +2355,7 @@ var questions = [
     "Option2": "turbine and generator",
     "Option3": "boiler and turbile",
     "Option4": "generator and transformer",
-    "answer": "A"
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -2364,7 +2364,7 @@ var questions = [
     "Option2": "decrease",
     "Option3": "remains constant",
     "Option4": "increases by 100%",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2373,7 +2373,7 @@ var questions = [
     "Option2": "less than",
     "Option3": "equal to",
     "Option4": "No relationship",
-    "answer": "C"
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -2382,7 +2382,7 @@ var questions = [
     "Option2": "The governor waits several minutes to see what happens",
     "Option3": "The governor closes the control valve position some what to decrease turbine input",
     "Option4": "None of \nthe above",
-    "answer": "C"
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -2391,7 +2391,7 @@ var questions = [
     "Option2": "Machine 'A' picks up large portion of load",
     "Option3": "Share the increase in load equally",
     "Option4": "Neither A nor B pick up the load",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2400,7 +2400,7 @@ var questions = [
     "Option2": "Rotating loads",
     "Option3": "A combination of lighting loads and rotating loads",
     "Option4": "Silicon loads",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2409,7 +2409,7 @@ var questions = [
     "Option2": "49.5 Hz",
     "Option3": "50.5 Hz",
     "Option4": "51.0 Hz",
-    "answer": "C"
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -2418,7 +2418,7 @@ var questions = [
     "Option2": 2940,
     "Option3": 3060,
     "Option4": 2880,
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2427,7 +2427,7 @@ var questions = [
     "Option2": "-0.15Hz",
     "Option3": "+0.3Hz",
     "Option4": "-0.3Hz",
-    "answer": "A"
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -2436,7 +2436,7 @@ var questions = [
     "Option2": "(ii) & (iii)",
     "Option3": "(i), (ii) & (iii)",
     "Option4": "(i) & (ii)",
-    "answer": "D"
+    "answer": 4
   },
   {
     "Topic": "Day3",
@@ -2445,7 +2445,7 @@ var questions = [
     "Option2": "500 kVAr",
     "Option3": "50 kVAr",
     "Option4": "300 kVAr",
-    "answer": "A"
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -2454,7 +2454,7 @@ var questions = [
     "Option2": "P0*(1-Kse) / (1-Ksh)",
     "Option3": "P0*Sqrt(1-Ksh) / Sqrt(1-Kse)",
     "Option4": "P0*Sqrt(1-Kse) / Sqrt(1-Ksh)",
-    "answer": "C"
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -2463,7 +2463,7 @@ var questions = [
     "Option2": 404,
     "Option3": 396,
     "Option4": 412,
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2472,7 +2472,7 @@ var questions = [
     "Option2": "410kV/201kV",
     "Option3": "420kV/225kV",
     "Option4": "380kV/180kV",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2481,7 +2481,7 @@ var questions = [
     "Option2": "Load angle",
     "Option3": "Line reactance",
     "Option4": "Sending end voltage",
-    "answer": "A"
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -2490,7 +2490,7 @@ var questions = [
     "Option2": 1.5,
     "Option3": 0.95,
     "Option4": 1.3,
-    "answer": "A"
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -2499,7 +2499,7 @@ var questions = [
     "Option2": 1.14,
     "Option3": 0.9,
     "Option4": 1.4,
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2508,7 +2508,7 @@ var questions = [
     "Option2": "The current flowing through a protected zone to a fault in the same zone",
     "Option3": "The current flowing through the protected device before fault",
     "Option4": "The post fault current flowing through the protected device",
-    "answer": "A"
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -2517,7 +2517,7 @@ var questions = [
     "Option2": "a-3; b-1; c-2; d-4",
     "Option3": "a-3; b-2; c-1; d-4;",
     "Option4": "a-4;b-1;c-2;d-3",
-    "answer": "C"
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -2526,7 +2526,7 @@ var questions = [
     "Option2": "PLC",
     "Option3": "Communication Front End",
     "Option4": "Operator Console",
-    "answer": "C"
+    "answer": 3
   },
   {
     "Topic": "Day3",
@@ -2535,7 +2535,7 @@ var questions = [
     "Option2": "LAN",
     "Option3": "DMZ",
     "Option4": "Ring main unit",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2544,7 +2544,7 @@ var questions = [
     "Option2": "Sequence of Events",
     "Option3": "Network Management System",
     "Option4": "Human Machine Interface",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2553,7 +2553,7 @@ var questions = [
     "Option2": "SCADA analog measurements",
     "Option3": "SCADA digital measurements",
     "Option4": "All of the above",
-    "answer": "A"
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -2562,7 +2562,7 @@ var questions = [
     "Option2": "Newton Raphson Method",
     "Option3": "Decoupled Powerflow Method",
     "Option4": "Gauss-Siedel Method",
-    "answer": "A"
+    "answer": 1
   },
   {
     "Topic": "Day3",
@@ -2571,7 +2571,7 @@ var questions = [
     "Option2": "Total internal reflection of light",
     "Option3": "Refraction of light",
     "Option4": "Diffusion of light",
-    "answer": "B"
+    "answer": 2
   },
   {
     "Topic": "Day3",
@@ -2580,6 +2580,6 @@ var questions = [
     "Option2": "More susceptible to electromagnetic interference",
     "Option3": "Less signal degradation",
     "Option4": "Lighter and thinner than copper wire",
-    "answer": "B"
+    "answer": 2
   }
 ];
