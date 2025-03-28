@@ -18,7 +18,7 @@ window.onload = function () {
     populateTopics(topicsComboBoxId);
 }
 
-function loadQuestions() {
+function loadQuestions(command) {
     // todo perform semantics check on all questions like valid correct answer, number of options, non null topic 
     // todo check if same topic is requested, if so ask via alert
     var selEl = document.getElementById(topicsComboBoxId);
@@ -37,6 +37,33 @@ function loadQuestions() {
         selectedTopic_g = selEl.value;
         if ((selectedTopic_g == "All") || questions[i]["Topic"] == selectedTopic_g) {
             topicQuestions.push(questions[i]);
+        }
+    }
+
+    if (command == 'shuffleQues' || command == 'shuffleQuesOpts') {
+        // shuffle questions if required
+        shuffleList(topicQuestions);
+        if (command == 'shuffleQuesOpts') {
+            // shuffle options if required
+            for (let qItr = 0; qItr < topicQuestions.length; qItr++) {
+                const ques = topicQuestions[qItr]
+
+                let newOptSeq = [1, 2, 3, 4]
+                shuffleList(newOptSeq)
+
+                topicQuestions[qItr]["answer"] = newOptSeq.indexOf(ques['answer']) + 1
+
+                const newOpts = [
+                    ques["Option" + newOptSeq[0]] + "",
+                    ques["Option" + newOptSeq[1]] + "",
+                    ques["Option" + newOptSeq[2]] + "",
+                    ques["Option" + newOptSeq[3]] + ""
+                ]
+                topicQuestions[qItr]["Option1"] = newOpts[0]
+                topicQuestions[qItr]["Option2"] = newOpts[1]
+                topicQuestions[qItr]["Option3"] = newOpts[2]
+                topicQuestions[qItr]["Option4"] = newOpts[3]
+            }
         }
     }
 
@@ -203,11 +230,25 @@ function updateResultsText(resStr) {
     document.getElementById("resultsSpan").innerHTML = resStr;
 }
 
-document.getElementById('btnThemeSwitch').addEventListener('click',()=>{
+document.getElementById('btnThemeSwitch').addEventListener('click', () => {
     if (document.documentElement.getAttribute('data-bs-theme') == 'dark') {
-        document.documentElement.setAttribute('data-bs-theme','light')
+        document.documentElement.setAttribute('data-bs-theme', 'light')
     }
     else {
-        document.documentElement.setAttribute('data-bs-theme','dark')
+        document.documentElement.setAttribute('data-bs-theme', 'dark')
     }
 })
+
+function shuffleList(array) {
+    let currentIndex = array.length;
+    // While there remain elements to shuffle...
+    while (currentIndex != 0) {
+        // Pick a remaining element...
+        let randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex--;
+
+        // And swap it with the current element.
+        [array[currentIndex], array[randomIndex]] = [
+            array[randomIndex], array[currentIndex]];
+    }
+}

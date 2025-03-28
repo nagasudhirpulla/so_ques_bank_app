@@ -3598,5 +3598,473 @@ var questions = [
     "Option3": "Long Term Forecasting",
     "Option4": "Very long term",
     "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which of the Load Forecasting methodology is cyclic in nature?",
+    "Option1": "Regression Technique",
+    "Option2": "Similar day forecast",
+    "Option3": "Load Patterns",
+    "Option4": "None of these options",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which of the following Load Forecasting methodology is quite accurate for weather dependent loads?",
+    "Option1": "Regression Technique",
+    "Option2": "Similar day forecast",
+    "Option3": "Load Patterns",
+    "Option4": "None of these options",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "MS-Office contains ;",
+    "Option1": "MS-Word only",
+    "Option2": "MS-Excel only",
+    "Option3": "MS-Access only",
+    "Option4": "all of the above",
+    "answer": 4
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which of the following companies developed MS Office 2000?",
+    "Option1": "Microsoft",
+    "Option2": "Novell",
+    "Option3": "Corel",
+    "Option4": "Lotus",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which of the following is the Word Processor in MS Office?",
+    "Option1": "Word Star",
+    "Option2": "Word Pad",
+    "Option3": "Word",
+    "Option4": "Word Perfect",
+    "answer": 3
+  },
+  {
+    "Topic": "IT",
+    "Question": "MS Outlook  is a ___",
+    "Option1": "E-Mail Client",
+    "Option2": "Scheduler",
+    "Option3": "Address Book",
+    "Option4": "All of the above",
+    "answer": 4
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which key should be pressed to start a new paragraph in MSWord?",
+    "Option1": "Down Cursor Key",
+    "Option2": "Enter Key",
+    "Option3": "Shift + Enter",
+    "Option4": "Control + Enter",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which option in File pull-down menu is used to close a file in MSWord?",
+    "Option1": "New",
+    "Option2": "Quit",
+    "Option3": "Close",
+    "Option4": "Exit",
+    "answer": 3
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which do you choose to shade words and paragraph in MS Word?",
+    "Option1": "format, borders and shading",
+    "Option2": "insert, borders and shading",
+    "Option3": "view, shading",
+    "Option4": "none of the above",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "Switching between portrait and landscape modes involves the .........................  in MS Word:",
+    "Option1": "header and footer toolbar",
+    "Option2": "print layout view",
+    "Option3": "page setup dialog box",
+    "Option4": "none of the above",
+    "answer": 3
+  },
+  {
+    "Topic": "IT",
+    "Question": "The arrangement of elements such as Title and subtitle text, pictures, tables etc. is called .......... in MS Power Point.",
+    "Option1": "Layout",
+    "Option2": "Presentation",
+    "Option3": "Design",
+    "Option4": "Scheme",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "A File which contains readymade styles that can be used for a presentation is called ............ in MS Power Point",
+    "Option1": "AutoStyle",
+    "Option2": "Template",
+    "Option3": "Wizard",
+    "Option4": "Pre formatting",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "After choosing a predefined template, ___ option has to be chosen to change the background color in MS Power Point",
+    "Option1": "Design Template",
+    "Option2": "Color Scheme",
+    "Option3": "Animation Scheme",
+    "Option4": "Color Effects",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "Animation Schemes can be applied to ____ in the presentation.",
+    "Option1": "All slides",
+    "Option2": "Select slides",
+    "Option3": "Current Slide",
+    "Option4": "All of the above",
+    "answer": 4
+  },
+  {
+    "Topic": "IT",
+    "Question": "A Chart can be put as a part of the presentation using ......... in MS Power Point",
+    "Option1": "Insert -> Chart",
+    "Option2": "Insert -> Pictures -> Chart",
+    "Option3": "Edit -> Chart",
+    "Option4": "View -> Chart",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which view in Power Point can be used to enter Speaker Comments?",
+    "Option1": "Normal",
+    "Option2": "Slide Show",
+    "Option3": "Slide Sorter",
+    "Option4": "Notes Page view",
+    "answer": 4
+  },
+  {
+    "Topic": "IT",
+    "Question": "The boxes that are displayed to indicate that the text, pictures or objects are placed in it is called ____ in MS Power Point",
+    "Option1": "Placeholder",
+    "Option2": "AutoText",
+    "Option3": "Text box",
+    "Option4": "Word Art",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "Excel files have a default extension of",
+    "Option1": "XLS /XLSX",
+    "Option2": "XLW",
+    "Option3": "WK1",
+    "Option4": 123,
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "How many characters can be typed in a single cell in Excel?",
+    "Option1": 256,
+    "Option2": 1024,
+    "Option3": 32000,
+    "Option4": 65535,
+    "answer": 3
+  },
+  {
+    "Topic": "IT",
+    "Question": "A Worksheet can have a maximum of ___ number of rows",
+    "Option1": 256,
+    "Option2": 1024,
+    "Option3": 32000,
+    "Option4": 65536,
+    "answer": 4
+  },
+  {
+    "Topic": "IT",
+    "Question": "A typical worksheet has ___ number of columns in MS Excel.",
+    "Option1": 128,
+    "Option2": 256,
+    "Option3": 512,
+    "Option4": 1024,
+    "answer": 4
+  },
+  {
+    "Topic": "IT",
+    "Question": "In MS Excel comments put in cells are called .........",
+    "Option1": "Smart Tip",
+    "Option2": "Cell Tip",
+    "Option3": "Web Tip",
+    "Option4": "Soft Tip",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "Getting data from a cell located in a different sheet is called ___ in MS Excel?",
+    "Option1": "Accessing",
+    "Option2": "Referencing",
+    "Option3": "Updating",
+    "Option4": "Functioning",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which of the following is not a valid data type in Excel",
+    "Option1": "Number",
+    "Option2": "Character",
+    "Option3": "Label",
+    "Option4": "Date/Time",
+    "answer": 3
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which area in an Excel window allows entering values and formulas",
+    "Option1": "Title Bar",
+    "Option2": "Menu Bar",
+    "Option3": "Formula Bar",
+    "Option4": "Standard Tool Bar",
+    "answer": 3
+  },
+  {
+    "Topic": "IT",
+    "Question": "Multiple calculations can be made in a single formula using",
+    "Option1": "Standard Formulas",
+    "Option2": "Array Formula",
+    "Option3": "Complex Formulas",
+    "Option4": "Smart Formula",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "An Excel Workbook is a collection of",
+    "Option1": "Workbooks",
+    "Option2": "Worksheets",
+    "Option3": "Charts",
+    "Option4": "Worksheets and Charts",
+    "answer": 4
+  },
+  {
+    "Topic": "IT",
+    "Question": "A Client is",
+    "Option1": "A computer that requests the services \nOf another computer.",
+    "Option2": "A program that requests the \nServices of another program.",
+    "Option3": "both A and B",
+    "Option4": "None of above",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "To view web pages, you need",
+    "Option1": "Browser",
+    "Option2": "WWW.",
+    "Option3": "TCP/IP",
+    "Option4": "None of above",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "The protocol that web clients and servers use to communicate with each other is called",
+    "Option1": "HTML",
+    "Option2": "HTTP",
+    "Option3": "URL",
+    "Option4": "None of above",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which of the following is a search engine?",
+    "Option1": "Microsoft",
+    "Option2": "Google",
+    "Option3": "Yahoo",
+    "Option4": "Both  B and C",
+    "answer": 4
+  },
+  {
+    "Topic": "IT",
+    "Question": "The original developer of the WWW was",
+    "Option1": "Tim Berners-Lee",
+    "Option2": "Marc Andreesen",
+    "Option3": "Bill Gates",
+    "Option4": "None of above",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which of the following is a valid e-mail address?",
+    "Option1": "www.rishi.com",
+    "Option2": "rishi@user.com",
+    "Option3": "rishi.user.com",
+    "Option4": "None of above",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "An organization responsible for providing Internet services to customers is commonly known as",
+    "Option1": "GIAS",
+    "Option2": "TCI/IP",
+    "Option3": "ISP",
+    "Option4": "None of above",
+    "answer": 3
+  },
+  {
+    "Topic": "IT",
+    "Question": "IRC stands for",
+    "Option1": "Internet Real-time Communication",
+    "Option2": "Internet Relay Chat",
+    "Option3": "Internet Real-time Chat",
+    "Option4": "None of above",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "The parent directory is represented by",
+    "Option1": "/",
+    "Option2": ". . /",
+    "Option3": "Parent",
+    "Option4": "None of above",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "A modem is not needed when accessing the Internet through",
+    "Option1": "LAN",
+    "Option2": "Wi Fi",
+    "Option3": "Cable",
+    "Option4": "None Of the above",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "What is the minimum bandwidth required for broadband connection?",
+    "Option1": "128 kbps",
+    "Option2": "256 kbps",
+    "Option3": "512 kbps",
+    "Option4": "2048 kbps",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "Voice over IP (Voice over Internet Protocol or \"VoIP\") technology converts voice calls from",
+    "Option1": "analog to digital",
+    "Option2": "digital to analog",
+    "Option3": "It depends",
+    "Option4": "None of the above",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "What is the domain used for non-profitable organizations",
+    "Option1": ".gov",
+    "Option2": ".org",
+    "Option3": ".net",
+    "Option4": ".in",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "What is the full form of http?",
+    "Option1": "HyperText Transmission Protocol",
+    "Option2": "HyperText Transfer Protocol",
+    "Option3": "HyperTerminal Transport Protocol",
+    "Option4": "HyperTerminal Transfer Protocol",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which of the following organizations looks at standards for representation of data on the Internet ?",
+    "Option1": "ISOC",
+    "Option2": "W3C",
+    "Option3": "IEEE",
+    "Option4": "IETE",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "What is the other name for a LAN Card?",
+    "Option1": "NIC",
+    "Option2": "Network Connector",
+    "Option3": "MODEM",
+    "Option4": "Internet Card",
+    "answer": 1
+  },
+  {
+    "Topic": "IT",
+    "Question": "Which of the following cables can transmit data at high speeds",
+    "Option1": "Coaxial Cable",
+    "Option2": "Optic Fibre Cable",
+    "Option3": "Twistedpair Cable",
+    "Option4": "UTP Cable",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "When you purchase a product over a Mobile Phone, the transaction is called ___",
+    "Option1": "Web Commerce",
+    "Option2": "e-Commerce",
+    "Option3": "m-Commerce",
+    "Option4": "Mobile Purchases",
+    "answer": 3
+  },
+  {
+    "Topic": "IT",
+    "Question": "Benefits of Email are?",
+    "Option1": "Speed",
+    "Option2": "Cost",
+    "Option3": "Record keeping",
+    "Option4": "All of the above",
+    "answer": 4
+  },
+  {
+    "Topic": "IT",
+    "Question": "What does WWW stand for?",
+    "Option1": "World Wacky Web",
+    "Option2": "Wide World Wumpus",
+    "Option3": "World Wide Web",
+    "Option4": "Wide World of Why",
+    "answer": 3
+  },
+  {
+    "Topic": "IT",
+    "Question": "What does URL stand for?",
+    "Option1": "united route link",
+    "Option2": "uniform resource locators",
+    "Option3": "unknown redirection link",
+    "Option4": "up real late",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "All web addresses start with which of the following?",
+    "Option1": "htp",
+    "Option2": "http://",
+    "Option3": "http:/",
+    "Option4": "WWW",
+    "answer": 2
+  },
+  {
+    "Topic": "IT",
+    "Question": "Internet is",
+    "Option1": "a local computer network",
+    "Option2": "a world wide network of computers",
+    "Option3": "an interconnected network of computers",
+    "Option4": "a world wide interconnected network of computers which use a \ncommon protocol to communicate with one another",
+    "answer": 4
+  },
+  {
+    "Topic": "IT",
+    "Question": "By an intranet we mean",
+    "Option1": "a LAN of an organization",
+    "Option2": "a Wide Area Network connecting all branches of \nAn organization",
+    "Option3": "a corporate computer network",
+    "Option4": "a network connecting all computers of an organization and \nusing the internet protocol",
+    "answer": 4
+  },
+  {
+    "Topic": "IT",
+    "Question": "What do you mean by protocols ?",
+    "Option1": "It is a set of rules for particular tasks",
+    "Option2": "It is a system software",
+    "Option3": "It is hardware interface",
+    "Option4": "It is firmware",
+    "answer": 1
   }
 ];
